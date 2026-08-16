@@ -6,6 +6,12 @@ il giocatore decide solo fra una battaglia e l'altra, la battaglia si guarda.
 Progetto Godot autonomo, in italiano, senza dipendenze né addon. **375 test verdi**
 (stato al 17 agosto 2026).
 
+### ▶ [Si gioca qui, nel browser](https://michelinithomas-prog.github.io/citta-campagna/)
+
+Build HTML5 servita da GitHub Pages (branch `gh-pages`). Il primo caricamento
+scarica ~85 MB: da fermo sembra bloccato, non lo è. Serve un browser desktop
+recente e l'audio parte al primo clic.
+
 ---
 
 ## Il gioco in cinque righe

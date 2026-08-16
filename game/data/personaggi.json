@@ -1,0 +1,33 @@
+[
+	{
+		"id": "protagonista", "nome": "Tu", "lato": "sinistra",
+		"ritratto": "res://game/art/personaggi/protagonista.png"
+	},
+	{
+		"id": "gigi", "nome": "GiGi", "lato": "destra",
+		"ritratto": "res://game/art/personaggi/gigi.png"
+	},
+	{
+		"id": "gestore", "nome": "Il gestore", "lato": "destra",
+		"ritratto": "res://game/art/personaggi/oste.png"
+	},
+	{
+		"id": "barista", "nome": "Il barista", "lato": "destra",
+		"ritratto": "res://game/art/personaggi/oste.png"
+	},
+	{
+		"id": "baro", "nome": "Il Baro", "lato": "destra",
+		"ritratto": "res://game/art/personaggi/baro.png"
+	},
+	{
+		"id": "melon_husk", "nome": "Melon Husk", "lato": "destra",
+		"_ritratto": "SEGNAPOSTO: melonmusk.png è ancora una copia di gigi.png, e il capo con la faccia della mascotte del bar non si può vedere. Qui sta signorotto.png finché non arriva il ritratto vero; poi tornare a melonmusk.png, che è quello che usa già opponents.json.",
+		"ritratto": "res://game/art/personaggi/signorotto.png"
+	},
+	{
+		"id": "avversario", "nome": "L'avversario", "lato": "destra",
+		"ritratto": "res://game/art/personaggi/ladra.png"
+	},
+	{ "id": "sistema", "nome": "", "stile": "sistema" },
+	{ "id": "testo_a_schermo", "nome": "", "stile": "sistema" }
+]

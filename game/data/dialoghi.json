@@ -1,0 +1,1365 @@
+[
+	{
+		"id": "inizio",
+		"titolo": "Il bar",
+		"quando": "inizio",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"testo": "Il protagonista entra nel bar. L'atmosfera è stranamente silenziosa. Sul bancone ci sono documenti, carte e un grosso cartello con il logo della Megacorp."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Che è successo?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Hai visto il cartello della Megacorp?"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Sì. Avete venduto?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Non è una vendita."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E allora?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Vogliono prendere il bar."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Perché?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Gaiofana sta crescendo."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E quindi?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Sta diventando abbastanza grande da essere considerata una città."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E la Megacorp vuole entrarci."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Esatto."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Prendendo il bar?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Questo è l'unico bar di Gaiofana."
+			},
+			{
+				"testo": "Pausa."
+			},
+			{
+				"chi": "gestore",
+				"testo": "È il simbolo del paese. Se prendono questo posto, sarà il primo passo per integrare tutto il resto."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E cosa possiamo fare?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Difenderlo."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Come?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Con una partita."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Una partita?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "È il loro modo di fare le cose."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E se vinciamo?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Il bar resta nostro."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E se perdiamo?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "La Megacorp prende il bar."
+			},
+			{
+				"testo": "Pausa."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Quindi basta batterli."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Non sarà così semplice."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Perché?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Hanno mandato degli scagnozzi."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Quanti?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Abbastanza."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Questa non è una risposta."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Nove."
+			},
+			{
+				"testo": "Silenzio."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Nove?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Non necessariamente tutti insieme."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E dopo?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Dopo arriva il capo."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Melon Husk?"
+			},
+			{
+				"testo": "Il gestore annuisce."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Melon Husk."
+			},
+			{
+				"testo": "Un piccolo rumore di coccio."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Cos'è stato?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Niente."
+			},
+			{
+				"testo": "Un piccolo pupazzo di coccio spunta da dietro il bancone."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Ha detto \"partita\"?"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Il pupazzo parla?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "E gioca a carte. Mi chiamo GiGi, sono la mascotte del bar."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E sei bravo?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Molto. Posso allenarti."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Non incoraggiarlo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non lo incoraggio. Lo arruolo."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Sei un pupazzo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "E tu un giocatore che non ha mai giocato. Siamo alla pari."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Questa non è una grande rassicurazione."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non deve esserlo. Deve funzionare."
+			},
+			{
+				"testo": "La porta si apre. Entra IL BARO, rappresentante della Megacorp, con una valigetta."
+			},
+			{
+				"chi": "baro",
+				"testo": "Buongiorno."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Sei arrivato."
+			},
+			{
+				"chi": "baro",
+				"testo": "Come promesso."
+			},
+			{
+				"testo": "Guarda il locale."
+			},
+			{
+				"chi": "baro",
+				"testo": "È ancora più piccolo di quanto ricordassi."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Eppure siete venuti fin qui per prenderlo."
+			},
+			{
+				"chi": "baro",
+				"testo": "Non è solo un bar."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Lo sappiamo."
+			},
+			{
+				"chi": "baro",
+				"testo": "Gaiofana sta crescendo. Presto sarà una città vera e propria."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E la Megacorp vuole integrarla."
+			},
+			{
+				"chi": "baro",
+				"testo": "Esatto."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Partendo da qui."
+			},
+			{
+				"chi": "baro",
+				"testo": "Dal suo simbolo."
+			},
+			{
+				"testo": "Pausa."
+			},
+			{
+				"chi": "baro",
+				"testo": "Ma abbiamo deciso di darvi una possibilità."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Una partita."
+			},
+			{
+				"chi": "baro",
+				"testo": "Una partita."
+			},
+			{
+				"testo": "Apre la valigetta."
+			},
+			{
+				"chi": "baro",
+				"testo": "Se vincete, il bar resta vostro."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E se perdiamo?"
+			},
+			{
+				"chi": "baro",
+				"testo": "La Megacorp lo prende."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E dopo?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Dopo continueremo con il resto della città."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Prima dovrete passare da noi."
+			},
+			{
+				"chi": "baro",
+				"testo": "Per questo siete qui."
+			},
+			{
+				"testo": "Il Baro guarda il protagonista."
+			},
+			{
+				"chi": "baro",
+				"testo": "Tu giochi?"
+			},
+			{
+				"chi": "gestore",
+				"testo": "Non ha mai giocato."
+			},
+			{
+				"testo": "Il Baro resta in silenzio per un momento."
+			},
+			{
+				"chi": "baro",
+				"testo": "Interessante."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Adesso gioco."
+			},
+			{
+				"chi": "baro",
+				"testo": "Molto bene."
+			},
+			{
+				"testo": "Estrae un mazzo."
+			},
+			{
+				"chi": "baro",
+				"testo": "Possiamo cominciare."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non ancora."
+			},
+			{
+				"chi": "baro",
+				"testo": "E tu?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Mascotte e allenatore."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Aspetta, cosa?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Ti insegno io."
+			},
+			{
+				"chi": "baro",
+				"testo": "Fate pure."
+			},
+			{
+				"testo": "Il Baro appoggia il mazzo sul tavolo."
+			},
+			{
+				"chi": "baro",
+				"testo": "Avete qualche minuto."
+			},
+			{
+				"testo": "Il Baro si allontana."
+			}
+		]
+	},
+	{
+		"id": "tutorial_prima_partita",
+		"titolo": "La partita di prova",
+		"quando": "tutorial_inizio",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"testo": "Il Baro si allontana dal tavolo. GiGi ci salta sopra."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Qualche minuto ce l'abbiamo. Prima giochi contro di me: questa non conta."
+			},
+			{
+				"chi": "gigi",
+				"testo": "L'autobriscola si gioca da soli. Tu prepari il mazzo, le carte fanno il resto."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Si vince prima del tavolo, non al tavolo. Ma questo lo capisci dopo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Siediti."
+			}
+		]
+	},
+	{
+		"id": "tutorial_tavolo",
+		"titolo": "Il tavolo",
+		"quando": "tutorial_tavolo",
+		"battute": [
+			{
+				"chi": "gigi",
+				"testo": "Cinque posti per lato. Le tue di sotto, le mie di sopra. Giocano da sole.",
+				"evidenzia": "fila_mia"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Sotto ogni carta una barra: è l'attesa. Quando finisce, la carta fa il suo effetto e va negli scarti.",
+				"evidenzia": "fila_mia"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Al suo posto ne arriva un'altra dalla pila. Le lente picchiano forte, le svelte insistono."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Qui c'è quanto ti resta in pila. Guardalo spesso.",
+				"evidenzia": "pila_mia"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Perché il mazzo non si rimescola: se devi rimpiazzare e la pila è vuota, hai perso."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Anche se sto benissimo?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Anche se stai benissimo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Vale anche per me. Un mazzo stende l'avversario, l'altro aspetta che finisca le carte.",
+				"evidenzia": "pila_sua"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Questa è la tua vita. A zero è finita.",
+				"evidenzia": "vita_mia"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Questa la mia. Portala a zero e hai vinto.",
+				"evidenzia": "vita_sua"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Lo scudo si mangia i danni prima della vita. Veleno e sanguinamento gli passano attraverso.",
+				"evidenzia": "vita_mia"
+			},
+			{
+				"chi": "gigi",
+				"testo": "La cura rimette vita, mai oltre il massimo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Adesso guarda quanto aspettano le tue carte e quanto le mie. Vai.",
+				"evidenzia": "fila_mia"
+			}
+		]
+	},
+	{
+		"id": "tutorial_regalo",
+		"titolo": "Le carte di GiGi",
+		"quando": "dopo_tutorial",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"testo": "GiGi torna da dietro il bancone con un mazzetto legato con un elastico."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Tieni. Carte di città."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Ne ho già di carte."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Ne hai di lente. Queste aspettano poco e fanno poco, ma arrivano in tempo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Troppe di città e resti a secco. Troppe di campagna e ti stendono prima."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E il Baro?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Aspetta. Prima passiamo dalla bottega: non ti siedi col mazzo che ti sei trovato in mano."
+			}
+		]
+	},
+	{
+		"id": "tutorial_bottega",
+		"titolo": "Bottega Angelini",
+		"quando": "prima_bottega",
+		"sfondo": "res://game/art/sfondi/bottega.png",
+		"battute": [
+			{
+				"chi": "gigi",
+				"testo": "Bottega Angelini. Ci si passa prima di ogni sfida.",
+				"evidenzia": "insegna"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Dieci partite: i nove che manda la Megacorp, e poi il capo.",
+				"evidenzia": "vittorie"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Le vite sono il tempo che hai. Perdere presto costa una vita, perdere tardi tre.",
+				"evidenzia": "vite"
+			},
+			{
+				"chi": "gigi",
+				"testo": "E chi perde ritrova davanti lo stesso avversario."
+			},
+			{
+				"chi": "gigi",
+				"testo": "L'oro arriva vincendo, e dalle carte che ne fanno.",
+				"evidenzia": "oro"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Cinque carte in vetrina, cambiano a ogni passaggio. Passaci sopra il mouse e leggi tutto.",
+				"evidenzia": "vetrina"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Ogni carta che aggiungi allunga il mazzo: dura di più, ma tira fuori le buone più di rado."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Le reliquie si comprano una volta e valgono per tutta la partita. Non vanno nel mazzo.",
+				"evidenzia": "reliquie"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Gli innesti si mettono sopra una carta: scegli l'innesto, poi la carta. Due per carta.",
+				"evidenzia": "innesti"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Da qui vedi tutto quello che hai.",
+				"evidenzia": "vedi_mazzo"
+			},
+			{
+				"chi": "gigi",
+				"testo": "E da qui si butta.",
+				"evidenzia": "butta"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Perché dovrei buttare una carta che ho comprato?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Perché una carta scarsa è una carta buona che non peschi. Togliere è metà del mestiere."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Se in vetrina non c'è niente che ti piace, paghi e cambia tutto.",
+				"evidenzia": "rimescola"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Quando hai finito, di qua: ti faccio vedere chi ti aspetta. Da lì si torna indietro.",
+				"evidenzia": "prosegui"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Finché non premi «Combatti» non è successo niente. Al tavolo no: lì si guarda e basta."
+			}
+		]
+	},
+	{
+		"id": "fine_tutorial",
+		"titolo": "Si comincia",
+		"quando": "prima_sfida_1",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"chi": "gigi",
+				"testo": "Bene. Adesso vediamo se hai davvero capito."
+			},
+			{
+				"testo": "Il Baro ritorna al tavolo e sistema le proprie carte."
+			},
+			{
+				"chi": "sistema",
+				"testo": "INIZIO PARTITA."
+			},
+			{
+				"testo": "Le carte vengono distribuite."
+			}
+		]
+	},
+	{
+		"id": "dopo_prima_sfida",
+		"titolo": "Dopo la sfida",
+		"quando": "dopo_vittoria_1",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"testo": "Il Baro osserva il risultato della partita."
+			},
+			{
+				"chi": "baro",
+				"testo": "La sfida è conclusa."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E il bar?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Resta vostro."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Primo punto!"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Primo punto?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Non pensare che sia finita."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Lo so."
+			},
+			{
+				"chi": "baro",
+				"testo": "Quella era solo la prima sfida."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E gli altri?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Gli altri arriveranno."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Quanti?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Abbastanza per mettervi alla prova."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Nove?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Se vuoi contarli."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E dopo di loro?"
+			},
+			{
+				"chi": "baro",
+				"testo": "Melon Husk."
+			},
+			{
+				"testo": "Silenzio."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Allora aspetteremo."
+			},
+			{
+				"chi": "baro",
+				"testo": "Non dovrai aspettare molto."
+			},
+			{
+				"testo": "Il Baro raccoglie le proprie carte."
+			},
+			{
+				"chi": "baro",
+				"testo": "Godetevi il bar finché potete."
+			},
+			{
+				"testo": "Esce."
+			}
+		]
+	},
+	{
+		"id": "tutorial_terza_bottega",
+		"titolo": "Roba nuova in vetrina",
+		"quando": "terza_bottega",
+		"sfondo": "res://game/art/sfondi/bottega.png",
+		"battute": [
+			{
+				"chi": "gigi",
+				"testo": "Fermo. In vetrina è arrivata roba nuova.",
+				"evidenzia": "vetrina"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Quelle colorate sono di One: hanno un colore e un numero, e contano tutti e due.",
+				"evidenzia": "vetrina"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Se la carta che entra somiglia a quella che esce — stesso colore o stesso numero — parte la catena."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Più è lunga, più tutto il tuo lato colpisce, cura e ripara. E non cala da sola."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Ma il Blocco la spegne, e il Pesca Quattro te lo mescola nel mazzo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Il colore attraversa i mazzi: Cuori e Quadri sono rosse quanto il Rosso di One."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Poi ci sono i Gaiofanamon. Si comprano solo di livello uno.",
+				"evidenzia": "vetrina"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Si attivano, evolvono e finiscono negli scarti — ma restano cresciuti per tutta la partita."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Chi li recupera li rimette in campo più grossi: Coppe, Fiori, l'Otto, l'innesto Eco."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E se non trovo niente che li recupera?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Crescono più piano. Non c'è un mazzo giusto: c'è il tuo, e quello che hai davanti."
+			}
+		]
+	},
+	{
+		"id": "finale_intro",
+		"titolo": "Melon Husk",
+		"quando": "prima_ultima",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"chi": "gestore",
+				"testo": "È finita?"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non ancora."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Melon Husk."
+			},
+			{
+				"testo": "Le luci del bar si spengono."
+			},
+			{
+				"testo": "Una luce si accende in fondo alla sala."
+			},
+			{
+				"testo": "Melon Husk è seduto al tavolo, davanti al proprio mazzo."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Finalmente."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Melon Husk."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Ho sentito parlare di te."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Spero bene."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Hai battuto tutti gli uomini che abbiamo mandato."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Erano bravi."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Non abbastanza."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E tu lo sei?"
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Sono qui per scoprirlo."
+			},
+			{
+				"testo": "Melon Husk si alza."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Sai perché la Megacorp vuole Gaiofana?"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Perché sta diventando una città."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Esatto."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E avete scelto questo posto."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Non abbiamo scelto un posto qualsiasi."
+			},
+			{
+				"testo": "Guarda il bar."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Questo è il simbolo di Gaiofana."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E non lo avrete."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "È proprio per questo che sono qui."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Dopo tutti quelli che abbiamo battuto, vieni tu."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Quando gli altri falliscono, arrivo io."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non mi piace questa frase."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Neanche a me."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Dovresti essere preoccupato."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Lo sono."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Bene."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Ma non abbastanza da arrendermi."
+			},
+			{
+				"testo": "Melon Husk sorride."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Questa risposta mi piace."
+			},
+			{
+				"testo": "Melon Husk si siede."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Se vinco, questo bar sarà della Megacorp."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E Gaiofana?"
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Continuerà a crescere."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Senza il suo simbolo."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Esatto."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E se vinco io?"
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Il bar resterà qui."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Allora cominciamo."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Cominciamo."
+			},
+			{
+				"testo": "Il tavolo si illumina."
+			},
+			{
+				"chi": "sistema",
+				"testo": "SFIDA FINALE"
+			},
+			{
+				"chi": "sistema",
+				"testo": "MELON HUSK VS PROTAGONISTA"
+			},
+			{
+				"chi": "gigi",
+				"testo": "Qualunque cosa succeda..."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Lo so."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Se vinci, voglio vantarmi per una settimana."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Allora dovrò vincere."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Che cominci la partita."
+			},
+			{
+				"testo": "Le carte vengono distribuite."
+			}
+		]
+	},
+	{
+		"id": "finale_vittoria",
+		"titolo": "Vittoria",
+		"quando": "vittoria",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"testo": "La carta del protagonista viene posata sul tavolo."
+			},
+			{
+				"testo": "Silenzio."
+			},
+			{
+				"chi": "sistema",
+				"testo": "VITTORIA."
+			},
+			{
+				"testo": "Melon Husk osserva il risultato della partita."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Hai perso."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Sì."
+			},
+			{
+				"testo": "Pausa."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Ti ho sottovalutato."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Uno dei nostri momenti migliori."
+			},
+			{
+				"testo": "Melon Husk lo ignora."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Hai sconfitto tutti i nostri uomini."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E adesso anche te."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Non confondere questa partita con la fine della Megacorp."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Non mi interessa la Megacorp."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "No?"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Mi interessa questo bar."
+			},
+			{
+				"testo": "Melon Husk guarda il locale."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "E questo bar interessa a tutta Gaiofana."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Esatto."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Allora avete vinto qualcosa di più importante."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Cosa?"
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Tempo."
+			},
+			{
+				"testo": "Si alza."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Gaiofana continuerà a crescere."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E noi saremo qui."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Lo vedremo."
+			},
+			{
+				"testo": "Prende il mazzo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non sembra arrabbiato."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Forse perché ha perso."
+			},
+			{
+				"testo": "Melon Husk si ferma sulla porta."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Goditi questa vittoria."
+			},
+			{
+				"testo": "Pausa."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Hai difeso il simbolo di una città che deve ancora diventare grande."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E quando crescerà?"
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Allora torneremo a parlarne."
+			},
+			{
+				"testo": "Esce."
+			},
+			{
+				"testo": "Il protagonista guarda GiGi."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Abbiamo vinto."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Abbiamo vinto!"
+			},
+			{
+				"testo": "GiGi alza le braccia."
+			},
+			{
+				"testo": "Il gestore esce da dietro il bancone."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Il bar è salvo."
+			},
+			{
+				"testo": "Il protagonista guarda fuori dalla finestra."
+			},
+			{
+				"testo": "Le prime luci della città si accendono."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Gaiofana sta crescendo."
+			},
+			{
+				"chi": "gigi",
+				"testo": "E il bar cresce con lei."
+			},
+			{
+				"chi": "gestore",
+				"testo": "Sempre che non distruggiate tutto prima."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non prometto niente."
+			},
+			{
+				"testo": "Il bar esplode in un'esultanza."
+			},
+			{
+				"testo": "Le insegne della città si accendono una dopo l'altra."
+			},
+			{
+				"chi": "testo_a_schermo",
+				"testo": "IL BAR È STATO DIFESO."
+			},
+			{
+				"chi": "testo_a_schermo",
+				"testo": "GAIOFANA È PRONTA A CRESCERE."
+			},
+			{
+				"chi": "testo_a_schermo",
+				"testo": "MA LA MEGACORP NON HA FINITO."
+			}
+		]
+	},
+	{
+		"id": "finale_sconfitta",
+		"titolo": "Sconfitta",
+		"quando": "sconfitta",
+		"sfondo": "res://game/art/sfondi/battaglia.png",
+		"battute": [
+			{
+				"testo": "La carta del protagonista viene posata sul tavolo."
+			},
+			{
+				"testo": "Silenzio."
+			},
+			{
+				"chi": "sistema",
+				"testo": "SCONFITTA."
+			},
+			{
+				"testo": "Il protagonista rimane immobile."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "È finita."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Non abbastanza."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Hai giocato bene. Non abbastanza bene."
+			},
+			{
+				"testo": "Si alza."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Hai sconfitto tutti i miei uomini per arrivare fino a me."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E ho perso contro di te."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Sì."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Quindi il bar è tuo."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Sì."
+			},
+			{
+				"testo": "Prende il documento dell'acquisizione."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Questo sarà il primo passo della Megacorp a Gaiofana."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "E la città?"
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Continuerà a crescere."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Senza questo posto."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Esatto."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Non finisce qui."
+			},
+			{
+				"testo": "Melon Husk guarda GiGi."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "No. Non ancora."
+			},
+			{
+				"testo": "Si dirige verso l'uscita."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "La prossima volta vincerò."
+			},
+			{
+				"testo": "Melon Husk si ferma."
+			},
+			{
+				"chi": "melon_husk",
+				"testo": "Ecco cosa speravo di sentire."
+			},
+			{
+				"testo": "Esce."
+			},
+			{
+				"testo": "GiGi si avvicina al protagonista."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Dobbiamo diventare più bravi."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Molto più bravi."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Da dove ricominciamo?"
+			},
+			{
+				"testo": "Il protagonista guarda il bar."
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Da qui."
+			},
+			{
+				"chi": "gigi",
+				"testo": "Dal bar?"
+			},
+			{
+				"chi": "protagonista",
+				"testo": "Dal bar."
+			},
+			{
+				"testo": "La visuale si allontana."
+			},
+			{
+				"testo": "La città appare attraverso le finestre."
+			},
+			{
+				"testo": "Le insegne della Megacorp illuminano una parte di Gaiofana."
+			},
+			{
+				"testo": "Il bar rimane acceso nel centro della città."
+			},
+			{
+				"chi": "testo_a_schermo",
+				"testo": "IL BAR È STATO PERSO."
+			},
+			{
+				"chi": "testo_a_schermo",
+				"testo": "GAIOFANA È SOLO ALL'INIZIO."
+			}
+		]
+	}
+]

@@ -1,0 +1,112 @@
+[
+	{
+		"id": "picche_c13", "name": "Re di Picche",
+		"text": "Colpisce e brucia la carta avversaria più vicina a partire.",
+		"effects": [{"type": "burn", "amount": 1}]
+	},
+	{
+		"id": "picche_c12", "name": "Donna di Picche",
+		"text": "Colpisce e dà una spinta di un secondo alle tue altre carte.",
+		"effects": [{"type": "haste", "amount": 1.0}]
+	},
+	{
+		"id": "picche_c11", "name": "Fante di Picche",
+		"text": "Colpisce due volte: una piena e una da quattro.",
+		"effects": [{"type": "damage", "amount": 4}]
+	},
+	{
+		"id": "cuori_c13", "name": "Re di Cuori",
+		"text": "Cura e lascia sei di scudo.",
+		"effects": [{"type": "shield", "amount": 6}]
+	},
+	{
+		"id": "cuori_c11", "name": "Fante di Cuori",
+		"text": "Cura poco, ma torna in fondo al mazzo una volta.",
+		"effects": [{"type": "recycle", "times": 1}]
+	},
+	{
+		"id": "fiori_c13", "name": "Re di Fiori",
+		"text": "Fa scudo e impasta le carte avversarie per un secondo e mezzo.",
+		"effects": [{"type": "slow", "amount": 1.5}]
+	},
+	{
+		"id": "quadri_c13", "name": "Re di Quadri",
+		"text": "Il conto torna: quattro monete in più.",
+		"effects": [{"type": "gold", "amount": 4}]
+	},
+	{
+		"id": "spade_r10", "name": "Re di Spade",
+		"text": "Il colpo più pesante del mazzo, e porta via anche una carta.",
+		"effects": [{"type": "burn", "amount": 1}]
+	},
+	{
+		"id": "spade_r9", "name": "Cavallo di Spade",
+		"text": "Carica: colpisce e affretta di due secondi le tue altre carte.",
+		"effects": [{"type": "haste", "amount": 2.0}]
+	},
+	{
+		"id": "spade_r8", "name": "Fante di Spade",
+		"text": "Metà delle volte raddoppia il colpo.",
+		"effects": [{"type": "chance", "p": 0.5, "effect": {"type": "damage", "amount": {"stat": "value", "of": "card", "scale": 2.6}}}]
+	},
+	{
+		"id": "coppe_r10", "name": "Re di Coppe",
+		"text": "Cura tanto e torna in fondo al mazzo: due volte.",
+		"effects": [{"type": "recycle", "times": 2}]
+	},
+	{
+		"id": "bastoni_r10", "name": "Re di Bastoni",
+		"text": "Scudo massiccio, e due secondi di attesa in più per l'avversario.",
+		"effects": [{"type": "slow", "amount": 2.0}]
+	},
+	{
+		"id": "denari_r10", "name": "Re di Denari",
+		"text": "Paga bene: cinque monete oltre al resto.",
+		"effects": [{"type": "gold", "amount": 5}]
+	},
+	{
+		"id": "acqua_g1", "name": "Sgorga",
+		"text": "Uno sputo d'acqua pulita: si porta via veleno e sanguinamento, e rimette in sesto."
+	},
+	{
+		"id": "acqua_g2", "name": "Sgorga Da Bon",
+		"text": "Ha imparato a mirare. Lava via quello che rode e cura il doppio di prima."
+	},
+	{
+		"id": "acqua_g3", "name": "E' Canon",
+		"text": "Due cannoni sulla schiena: niente ti resta addosso, e la vita torna su."
+	},
+	{
+		"id": "erba_g1", "name": "Zappin",
+		"text": "Pianta un Germoglio in cima al mazzo, e intanto cura un poco."
+	},
+	{
+		"id": "erba_g2", "name": "Zappoun",
+		"text": "Il bocciolo si è aperto: semina come prima e cura di più."
+	},
+	{
+		"id": "erba_g3", "name": "Zappador",
+		"text": "Il fiore è grande quanto lui. Semina e ti rimette in piedi."
+	},
+	{
+		"id": "fuoco_g1", "name": "Scintela",
+		"text": "Una scintilla che non sta ferma: colpisce e dà una spinta alle tue altre carte."
+	},
+	{
+		"id": "fuoco_g2", "name": "Fughett",
+		"text": "Colpisce più forte, e accorcia l'attesa di tutto il resto."
+	},
+	{
+		"id": "fuoco_g3", "name": "E' dragh",
+		"text": "Ali, fuoco e fretta: picchia da veterano e manda avanti la fila."
+	},
+	{
+		"id": "elettro_g1", "name": "Sorc",
+		"text": "Sta nei bidoni e morde le prese. Ferma la carta avversaria più vicina a partire."
+	},
+	{
+		"id": "elettro_g2", "name": "Rataz",
+		"evolves_to": "",
+		"text": "Cresciuto male e di cattivo umore: paralizza più a lungo e picchia di più."
+	}
+]

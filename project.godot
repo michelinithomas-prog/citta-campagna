@@ -1,0 +1,69 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Città & Campagna"
+config/description="Autobattler a carte: due mazzi si consumano da soli. Poker contro carte romagnole."
+run/main_scene="res://game/ui/main_menu.tscn"
+config/features=PackedStringArray("4.6", "GL Compatibility")
+
+[autoload]
+
+Events="*res://core/autoload/events.gd"
+Cfg="*res://core/autoload/cfg.gd"
+Rng="*res://core/autoload/rng.gd"
+Content="*res://core/autoload/content.gd"
+Save="*res://core/autoload/save.gd"
+Audio="*res://core/autoload/audio.gd"
+Ui="*res://core/autoload/ui.gd"
+Router="*res://core/autoload/router.gd"
+Dbg="*res://core/autoload/dbg.gd"
+
+[display]
+
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[game]
+
+scenes/menu="res://game/ui/main_menu.tscn"
+scenes/play="res://game/play.tscn"
+scenes/game_over="res://game/ui/game_over.tscn"
+debug/enabled=true
+
+[gui]
+
+theme/custom_font="res://game/fonts/DepartureMono-Regular.otf"
+
+[internationalization]
+
+; Il catalogo lo costruisce tools/estrai_testi.py e la chiave e' la frase
+; italiana: cosi' si traduce a fette e una chiave che manca resta in italiano
+; invece di sparire.
+;
+; Qui va il .translation GENERATO dall'import, non il .csv: il csv non e' una
+; risorsa caricabile e Godot risponde "No loader found" senza spiegare perche'.
+; Aggiungendo una lingua al catalogo va aggiunta anche una riga qui.
+locale/translations=PackedStringArray("res://game/i18n/testi.it.translation")
+
+; La pseudolocalizzazione allunga le stringhe del 30% e le accenta, cosi' si
+; vede cosa si romperebbe in tedesco SENZA avere una traduzione tedesca. Sta
+; spenta di default e si accende con F7 in gioco, o da console con `lingua
+; finta`. Vedi tools/misura_larghezze.gd.
+pseudolocalization/replace_with_long_strings=true
+pseudolocalization/expansion_ratio=0.3
+pseudolocalization/use_pseudolocalization=false
+
+[rendering]
+
+textures/canvas_textures/default_texture_filter=0
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

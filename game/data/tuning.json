@@ -1,0 +1,67 @@
+{
+	"menu": {
+		"subtitle": "dieci vittorie, o niente",
+		"best_key": "wins",
+		"best_label": "Più vittorie",
+		"best_stat": "Vittorie"
+	},
+
+	"player": {
+		"hp": 82,
+		"lives": 10,
+		"_vittorie": "Quante battaglie bisogna vincere per portare a casa la partita. Le vite sono il tempo che hai per farlo.",
+		"wins_to_win": 10,
+		"board_size": 5,
+
+		"_vite": "Quante vite costa perdere il round N: una voce per round, oltre l'ultima vale l'ultima. Presto si sbaglia a poco prezzo, tardi una sconfitta pesa tre volte tanto.",
+		"life_cost": [1, 1, 2, 2, 3]
+	},
+
+	"deck": {
+		"min_size": 10,
+		"_starting": "Solo briscola: si comincia la partita di prova con un mazzo di campagna, e le carte di città arrivano da GiGi alla fine del tutorial (game/data/tutorial.json). Dodici più otto fanno il mazzo da venti con cui si entra in Bottega Angelini.",
+		"starting": [
+			"spade_r3", "spade_r4", "spade_r5", "spade_r6",
+			"denari_r3", "denari_r4", "denari_r6",
+			"coppe_r2", "coppe_r3", "coppe_r4",
+			"bastoni_r5", "bastoni_r6"
+		]
+	},
+
+	"battle": {
+		"tick": 0.05,
+		"speed": 1.0,
+
+		"_veleno": "Il veleno morde ogni poison_every secondi e non cala mai. Il passo è il suo prezzo: a un secondo uno stack varrebbe quasi dieci danni, più di quanto qualunque carta possa permettersi. poison_cap e bleed_cap sono i tetti sugli stack di un lato: il sanguinamento cala di uno al secondo, ma cinque carte che ne mettono uno ogni due secondi lo fanno salire più in fretta.",
+		"poison_every": 3.0,
+		"poison_cap": 5,
+		"bleed_cap": 6,
+
+		"_combo": "La catena di One: ogni anello moltiplica colpi, cure e scudi di combo_step. Cresce quando la carta che entra in uno slot ha lo stesso colore o lo stesso numero di quella appena uscita, e non cala mai da sola — la spegne solo la carta Blocco.",
+		"combo_step": 0.10,
+		"combo_cap": 10
+	},
+
+	"shop": {
+		"card_offers": 5,
+		"seal_offers": 4,
+		"relic_offers": 4,
+		"reroll_cost": 2,
+		"starting_gold": 8,
+		"gold_per_round": 8,
+		"win_bonus": 4,
+		"remove_cost": {"type": "linear", "base": 3, "step": 2},
+
+		"_prezzi": "Unità base 2 oro. Innesto : carta : reliquia = 1 : 2 : 6, cioè 2 : 4 : 12 di media. Con 8 oro a round si comprano due carte.",
+		"_famiglie": "Il moltiplicatore per mazzo non è qui: è price_multiplier in families.json, una riga per famiglia.",
+		"card_cost": {
+			"base": 1.6,
+			"per_value": 0.30
+		}
+	},
+
+	"events": {
+		"chance": 0.5,
+		"min_round": 2
+	}
+}

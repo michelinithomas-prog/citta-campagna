@@ -1,0 +1,102 @@
+[
+	{
+		"id": "bianchello", "name": "Bottiglia di Bianchello Mezza Piena", "symbol": "♥", "cost": 11,
+		"text": "Chi la guarda mezza piena regge un colpo in più e parte con qualcosa addosso.",
+		"max_hp_add": 8, "start_shield": 6
+	},
+	{
+		"id": "pokedex", "name": "Pokedex", "symbol": "○", "cost": 13,
+		"text": "Le conosci tutte, e sai già cosa sanno fare: i Gaiofanamon valgono due in più.",
+		"rule": {"family": "gaiofanamon", "value_add": 2}
+	},
+	{
+		"id": "vigna", "name": "Il Valore della Vigna", "symbol": "◆", "cost": 14,
+		"text": "Chi sa leggere la terra la fa rendere di più: le carte di briscola valgono uno in più.",
+		"in_shop": false,
+		"rule": {"family": "briscola", "value_add": 1}
+	},
+	{
+		"id": "fegato", "name": "Fegato del Salvatore", "symbol": "◈", "cost": 15,
+		"text": "Un fegato allenato a tutto. Veleno e sanguinamento ti attaccano addosso uno in meno, ogni volta.",
+		"status_resist": 1
+	},
+	{
+		"id": "racconti", "name": "Racconti di Gaiofana", "symbol": "◼", "cost": 14,
+		"text": "Storie di campagna raccontate bene: le carte di briscola si fanno aspettare un decimo di meno.",
+		"in_shop": false,
+		"rule": {"family": "briscola", "cooldown_scale": 0.9}
+	},
+	{
+		"id": "abaco", "name": "Abaco da Autobriscola", "symbol": "◆", "cost": 13,
+		"text": "I conti tornano sempre: quattro monete in più a round, e in bottega si tira sul prezzo.",
+		"gold_per_round_add": 4, "price_mult": 0.9
+	},
+	{
+		"id": "zappa", "name": "Zappa da Guerra", "symbol": "▲", "cost": 12,
+		"text": "Un attrezzo da campo tenuto affilato come non dovrebbe. Le Spade colpiscono tre in più.",
+		"rule": {"suit": "spade", "value_add": 3}
+	},
+	{
+		"id": "abito", "name": "Abito Elegante", "symbol": "♠", "cost": 14,
+		"text": "Vestito per il tavolo che conta: tutte le figure valgono tre in più.",
+		"rule": {"tag": "figura", "value_add": 3}
+	},
+	{
+		"id": "unopertutti", "name": "Uno per Tutti Tutti per Uan", "symbol": "■", "cost": 13,
+		"text": "La catena non parte da zero: comincia ogni battaglia con due anelli già fatti.",
+		"start_combo": 2
+	},
+	{
+		"id": "deckbox_briscola", "name": "Deckbox da Briscola", "symbol": "▲", "cost": 11,
+		"text": "Tre carte di briscola in più nel mazzo. Una scatola serve a questo.",
+		"cards_add": 3, "cards_family": "briscola", "cards_range": [3, 8]
+	},
+	{
+		"id": "deckbox_poker", "name": "Deckbox da Poker", "symbol": "♠", "cost": 11,
+		"text": "Tre carte di poker in più nel mazzo. Una scatola serve a questo.",
+		"cards_add": 3, "cards_family": "poker", "cards_range": [3, 8]
+	},
+	{
+		"id": "deckbox_one", "name": "Deckbox da Uan", "symbol": "■", "cost": 11,
+		"text": "Tre carte di One in più nel mazzo. Una scatola serve a questo.",
+		"cards_add": 3, "cards_family": "one", "cards_range": [3, 8]
+	},
+	{
+		"id": "deckbox_gaio", "name": "Deckbox da Gaiofanamon", "symbol": "○", "cost": 12,
+		"text": "Una creatura sola, e non sai quale: fuoco, acqua o erba in parti uguali. Una volta su cento, però, dentro c'è L'antigh.",
+		"cards_add": 1,
+		"cards_pool": {"fuoco_g1": 33, "acqua_g1": 33, "erba_g1": 33, "antigh_a0": 1}
+	},
+	{
+		"id": "calice", "name": "Calice del Rabbercio", "symbol": "♥", "cost": 12,
+		"text": "Rosso come quello che ci finisce dentro: le carte rosse valgono due in più.",
+		"rule": {"tag": "rossa", "value_add": 2}
+	},
+	{
+		"id": "puntate", "name": "Tavola delle Sacre Puntate", "symbol": "◆", "cost": 15,
+		"text": "Un tavolo più grande: una carta in più in campo. Ma sei carte si consumano più in fretta di cinque, e il mazzo lo sa.",
+		"board_add": 1
+	},
+	{
+		"id": "sandalo", "name": "Sandalo del Giocatore Sfortunato", "symbol": "♣", "cost": 15,
+		"text": "Chi lo porta perde spesso, e proprio per questo ha imparato ad avere due vite di scorta.",
+		"lives_add": 2
+	},
+	{
+		"id": "borraccia", "name": "Borraccia del Vignaiolo Immortale", "symbol": "●", "cost": 14,
+		"text": "Non l'ha mai finita nessuno. Venti punti di vita massima.",
+		"max_hp_add": 20
+	},
+	{
+		"id": "manuale", "name": "Manuale Definitivo del Gaiofanamon", "symbol": "◇", "cost": 15,
+		"text": "Le linee evolutive imparate a memoria: le creature si fanno aspettare un quinto di meno.",
+		"rule": {"family": "gaiofanamon", "cooldown_scale": 0.8}
+	},
+	{
+		"id": "notte", "name": "Una Notte da Ricordare", "symbol": "♥", "cost": 10,
+		"text": "Per tre incontri tutte le tue carte vanno un decimo più svelte. Poi passa, come passano le notti.",
+		"in_shop": false,
+		"rounds": 3,
+		"rule": {"cooldown_scale": 0.9}
+	}
+]

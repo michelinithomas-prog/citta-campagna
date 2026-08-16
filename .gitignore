@@ -1,0 +1,8 @@
+# Cache di import di Godot: si rigenera da sola, non va versionata
+.godot/
+
+# Build esportate
+build/
+
+.DS_Store
+*.tmp

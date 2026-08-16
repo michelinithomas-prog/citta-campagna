@@ -1,0 +1,2260 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude",
+      "community": 1,
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "Citt\u00e0 & Campagna \u2014 autobattler a carte",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "community": 1,
+      "norm_label": "citta & campagna \u2014 autobattler a carte"
+    },
+    {
+      "label": "Come si vince",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "claude_come_si_vince",
+      "community": 1,
+      "norm_label": "come si vince"
+    },
+    {
+      "label": "Le due sconfitte, che sono il gioco",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "claude_le_due_sconfitte_che_sono_il_gioco",
+      "community": 1,
+      "norm_label": "le due sconfitte, che sono il gioco"
+    },
+    {
+      "label": "I quattro mazzi",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "claude_i_quattro_mazzi",
+      "community": 1,
+      "norm_label": "i quattro mazzi"
+    },
+    {
+      "label": "La catena di One",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L49",
+      "_origin": "ast",
+      "id": "claude_la_catena_di_one",
+      "community": 1,
+      "norm_label": "la catena di one"
+    },
+    {
+      "label": "Gaiofanamon",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L64",
+      "_origin": "ast",
+      "id": "claude_gaiofanamon",
+      "community": 1,
+      "norm_label": "gaiofanamon"
+    },
+    {
+      "label": "File",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L101",
+      "_origin": "ast",
+      "id": "claude_file",
+      "community": 1,
+      "norm_label": "file"
+    },
+    {
+      "label": "La storia e il tutorial",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L137",
+      "_origin": "ast",
+      "id": "claude_la_storia_e_il_tutorial",
+      "community": 1,
+      "norm_label": "la storia e il tutorial"
+    },
+    {
+      "label": "Modifiche tipiche",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L183",
+      "_origin": "ast",
+      "id": "claude_modifiche_tipiche",
+      "community": 1,
+      "norm_label": "modifiche tipiche"
+    },
+    {
+      "label": "Il metro del bilanciamento",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L260",
+      "_origin": "ast",
+      "id": "claude_il_metro_del_bilanciamento",
+      "community": 1,
+      "norm_label": "il metro del bilanciamento"
+    },
+    {
+      "label": "Provare la partita, non solo la logica",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L287",
+      "_origin": "ast",
+      "id": "claude_provare_la_partita_non_solo_la_logica",
+      "community": 1,
+      "norm_label": "provare la partita, non solo la logica"
+    },
+    {
+      "label": "La regola dei nodi, pagata cara due volte",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L336",
+      "_origin": "ast",
+      "id": "claude_la_regola_dei_nodi_pagata_cara_due_volte",
+      "community": 1,
+      "norm_label": "la regola dei nodi, pagata cara due volte"
+    },
+    {
+      "label": "Il salvataggio",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L353",
+      "_origin": "ast",
+      "id": "claude_il_salvataggio",
+      "community": 1,
+      "norm_label": "il salvataggio"
+    },
+    {
+      "label": "Le animazioni della battaglia",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L377",
+      "_origin": "ast",
+      "id": "claude_le_animazioni_della_battaglia",
+      "community": 1,
+      "norm_label": "le animazioni della battaglia"
+    },
+    {
+      "label": "Le trappole delle animazioni, tutte misurate",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L413",
+      "_origin": "ast",
+      "id": "claude_le_trappole_delle_animazioni_tutte_misurate",
+      "community": 1,
+      "norm_label": "le trappole delle animazioni, tutte misurate"
+    },
+    {
+      "label": "Asset: cosa entra dove",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L458",
+      "_origin": "ast",
+      "id": "claude_asset_cosa_entra_dove",
+      "community": 1,
+      "norm_label": "asset: cosa entra dove"
+    },
+    {
+      "label": "Da sapere",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L535",
+      "_origin": "ast",
+      "id": "claude_da_sapere",
+      "community": 1,
+      "norm_label": "da sapere"
+    },
+    {
+      "label": "avversari.md",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_avversari",
+      "community": 13,
+      "norm_label": "avversari.md"
+    },
+    {
+      "label": "Gli avversari",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_avversari_gli_avversari",
+      "community": 13,
+      "norm_label": "gli avversari"
+    },
+    {
+      "label": "Il Baro",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "docs_avversari_il_baro",
+      "community": 13,
+      "norm_label": "il baro"
+    },
+    {
+      "label": "L'Oste",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "docs_avversari_l_oste",
+      "community": 13,
+      "norm_label": "l'oste"
+    },
+    {
+      "label": "Il Vecchio Contadino",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "docs_avversari_il_vecchio_contadino",
+      "community": 13,
+      "norm_label": "il vecchio contadino"
+    },
+    {
+      "label": "Il Fabbro",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L50",
+      "_origin": "ast",
+      "id": "docs_avversari_il_fabbro",
+      "community": 13,
+      "norm_label": "il fabbro"
+    },
+    {
+      "label": "Il Signorotto",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L58",
+      "_origin": "ast",
+      "id": "docs_avversari_il_signorotto",
+      "community": 13,
+      "norm_label": "il signorotto"
+    },
+    {
+      "label": "La Ladra",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L65",
+      "_origin": "ast",
+      "id": "docs_avversari_la_ladra",
+      "community": 13,
+      "norm_label": "la ladra"
+    },
+    {
+      "label": "L'Ubriacone",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L72",
+      "_origin": "ast",
+      "id": "docs_avversari_l_ubriacone",
+      "community": 13,
+      "norm_label": "l'ubriacone"
+    },
+    {
+      "label": "La Vecchia",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L80",
+      "_origin": "ast",
+      "id": "docs_avversari_la_vecchia",
+      "community": 13,
+      "norm_label": "la vecchia"
+    },
+    {
+      "label": "Il Professore",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L87",
+      "_origin": "ast",
+      "id": "docs_avversari_il_professore",
+      "community": 13,
+      "norm_label": "il professore"
+    },
+    {
+      "label": "Melon Husk",
+      "file_type": "document",
+      "source_file": "docs/avversari.md",
+      "source_location": "L94",
+      "_origin": "ast",
+      "id": "docs_avversari_melon_husk",
+      "community": 13,
+      "norm_label": "melon husk"
+    },
+    {
+      "label": "carte.md",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_carte",
+      "community": 3,
+      "norm_label": "carte.md"
+    },
+    {
+      "label": "Le carte",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_carte_le_carte",
+      "community": 3,
+      "norm_label": "le carte"
+    },
+    {
+      "label": "Come si legge una carta",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "docs_carte_come_si_legge_una_carta",
+      "community": 3,
+      "norm_label": "come si legge una carta"
+    },
+    {
+      "label": "Poker \u2014 le carte di citt\u00e0",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "docs_carte_poker_le_carte_di_citt\u00e0",
+      "community": 3,
+      "norm_label": "poker \u2014 le carte di citta"
+    },
+    {
+      "label": "\u2660 Picche",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "docs_carte_picche",
+      "community": 3,
+      "norm_label": "\u2660 picche"
+    },
+    {
+      "label": "\u2665 Cuori",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L52",
+      "_origin": "ast",
+      "id": "docs_carte_cuori",
+      "community": 3,
+      "norm_label": "\u2665 cuori"
+    },
+    {
+      "label": "\u2663 Fiori",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L74",
+      "_origin": "ast",
+      "id": "docs_carte_fiori",
+      "community": 3,
+      "norm_label": "\u2663 fiori"
+    },
+    {
+      "label": "\u2666 Quadri",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L96",
+      "_origin": "ast",
+      "id": "docs_carte_quadri",
+      "community": 3,
+      "norm_label": "\u2666 quadri"
+    },
+    {
+      "label": "\u25ce Jolly",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L118",
+      "_origin": "ast",
+      "id": "docs_carte_jolly",
+      "community": 3,
+      "norm_label": "\u25ce jolly"
+    },
+    {
+      "label": "Briscola \u2014 le carte di campagna",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L131",
+      "_origin": "ast",
+      "id": "docs_carte_briscola_le_carte_di_campagna",
+      "community": 3,
+      "norm_label": "briscola \u2014 le carte di campagna"
+    },
+    {
+      "label": "\u25b2 Spade",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L135",
+      "_origin": "ast",
+      "id": "docs_carte_spade",
+      "community": 3,
+      "norm_label": "\u25b2 spade"
+    },
+    {
+      "label": "\u25cf Coppe",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L154",
+      "_origin": "ast",
+      "id": "docs_carte_coppe",
+      "community": 3,
+      "norm_label": "\u25cf coppe"
+    },
+    {
+      "label": "\u25fc Bastoni",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L173",
+      "_origin": "ast",
+      "id": "docs_carte_bastoni",
+      "community": 3,
+      "norm_label": "\u25fc bastoni"
+    },
+    {
+      "label": "\u25c6 Denari",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L192",
+      "_origin": "ast",
+      "id": "docs_carte_denari",
+      "community": 3,
+      "norm_label": "\u25c6 denari"
+    },
+    {
+      "label": "Gaiofanamon \u2014 le creature che crescono",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L214",
+      "_origin": "ast",
+      "id": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "community": 10,
+      "norm_label": "gaiofanamon \u2014 le creature che crescono"
+    },
+    {
+      "label": "\u25cb Acqua",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L218",
+      "_origin": "ast",
+      "id": "docs_carte_acqua",
+      "community": 10,
+      "norm_label": "\u25cb acqua"
+    },
+    {
+      "label": "\u25c7 Elettro",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L230",
+      "_origin": "ast",
+      "id": "docs_carte_elettro",
+      "community": 10,
+      "norm_label": "\u25c7 elettro"
+    },
+    {
+      "label": "\u25bc Fuoco",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L241",
+      "_origin": "ast",
+      "id": "docs_carte_fuoco",
+      "community": 10,
+      "norm_label": "\u25bc fuoco"
+    },
+    {
+      "label": "\u25bd Erba",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L253",
+      "_origin": "ast",
+      "id": "docs_carte_erba",
+      "community": 10,
+      "norm_label": "\u25bd erba"
+    },
+    {
+      "label": "\u25bd Germoglio",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L265",
+      "_origin": "ast",
+      "id": "docs_carte_germoglio",
+      "community": 10,
+      "norm_label": "\u25bd germoglio"
+    },
+    {
+      "label": "\u25ce L'antigh",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L275",
+      "_origin": "ast",
+      "id": "docs_carte_l_antigh",
+      "community": 10,
+      "norm_label": "\u25ce l'antigh"
+    },
+    {
+      "label": "One \u2014 quattro colori",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L288",
+      "_origin": "ast",
+      "id": "docs_carte_one_quattro_colori",
+      "community": 8,
+      "norm_label": "one \u2014 quattro colori"
+    },
+    {
+      "label": "\u25a0 Rosso",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L292",
+      "_origin": "ast",
+      "id": "docs_carte_rosso",
+      "community": 8,
+      "norm_label": "\u25a0 rosso"
+    },
+    {
+      "label": "\u25a0 Giallo",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L313",
+      "_origin": "ast",
+      "id": "docs_carte_giallo",
+      "community": 8,
+      "norm_label": "\u25a0 giallo"
+    },
+    {
+      "label": "\u25a0 Verde",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L334",
+      "_origin": "ast",
+      "id": "docs_carte_verde",
+      "community": 8,
+      "norm_label": "\u25a0 verde"
+    },
+    {
+      "label": "\u25a0 Blu",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L355",
+      "_origin": "ast",
+      "id": "docs_carte_blu",
+      "community": 8,
+      "norm_label": "\u25a0 blu"
+    },
+    {
+      "label": "\u25a0 Cambia Colore",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L376",
+      "_origin": "ast",
+      "id": "docs_carte_cambia_colore",
+      "community": 8,
+      "norm_label": "\u25a0 cambia colore"
+    },
+    {
+      "label": "\u25a0 Pesca Quattro",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L386",
+      "_origin": "ast",
+      "id": "docs_carte_pesca_quattro",
+      "community": 8,
+      "norm_label": "\u25a0 pesca quattro"
+    },
+    {
+      "label": "\u25a0 Blocco",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L396",
+      "_origin": "ast",
+      "id": "docs_carte_blocco",
+      "community": 8,
+      "norm_label": "\u25a0 blocco"
+    },
+    {
+      "label": "Le carte con carattere",
+      "file_type": "document",
+      "source_file": "docs/carte.md",
+      "source_location": "L409",
+      "_origin": "ast",
+      "id": "docs_carte_le_carte_con_carattere",
+      "community": 8,
+      "norm_label": "le carte con carattere"
+    },
+    {
+      "label": "eventi.md",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_eventi",
+      "community": 0,
+      "norm_label": "eventi.md"
+    },
+    {
+      "label": "Gli incontri",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_eventi_gli_incontri",
+      "community": 0,
+      "norm_label": "gli incontri"
+    },
+    {
+      "label": "La fiera del paese",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "docs_eventi_la_fiera_del_paese",
+      "community": 5,
+      "norm_label": "la fiera del paese"
+    },
+    {
+      "label": "Vendi quello che hai",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "docs_eventi_vendi_quello_che_hai",
+      "community": 5,
+      "norm_label": "vendi quello che hai"
+    },
+    {
+      "label": "Compra quello che puoi",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "docs_eventi_compra_quello_che_puoi",
+      "community": 5,
+      "norm_label": "compra quello che puoi"
+    },
+    {
+      "label": "L'osteria sulla via",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "docs_eventi_l_osteria_sulla_via",
+      "community": 11,
+      "norm_label": "l'osteria sulla via"
+    },
+    {
+      "label": "Mangia e riposa",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "docs_eventi_mangia_e_riposa",
+      "community": 11,
+      "norm_label": "mangia e riposa"
+    },
+    {
+      "label": "Sta' a sentire i discorsi",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L48",
+      "_origin": "ast",
+      "id": "docs_eventi_sta_a_sentire_i_discorsi",
+      "community": 11,
+      "norm_label": "sta' a sentire i discorsi"
+    },
+    {
+      "label": "Paga da bere a tutti",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L54",
+      "_origin": "ast",
+      "id": "docs_eventi_paga_da_bere_a_tutti",
+      "community": 11,
+      "norm_label": "paga da bere a tutti"
+    },
+    {
+      "label": "Il vecchio sull'aia",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L65",
+      "_origin": "ast",
+      "id": "docs_eventi_il_vecchio_sull_aia",
+      "community": 0,
+      "norm_label": "il vecchio sull'aia"
+    },
+    {
+      "label": "Ascoltalo fino in fondo",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L71",
+      "_origin": "ast",
+      "id": "docs_eventi_ascoltalo_fino_in_fondo",
+      "community": 0,
+      "norm_label": "ascoltalo fino in fondo"
+    },
+    {
+      "label": "Dagli una mano nei campi",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L77",
+      "_origin": "ast",
+      "id": "docs_eventi_dagli_una_mano_nei_campi",
+      "community": 0,
+      "norm_label": "dagli una mano nei campi"
+    },
+    {
+      "label": "La bottega del fabbro",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L87",
+      "_origin": "ast",
+      "id": "docs_eventi_la_bottega_del_fabbro",
+      "community": 6,
+      "norm_label": "la bottega del fabbro"
+    },
+    {
+      "label": "Fatti affilare una carta",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L93",
+      "_origin": "ast",
+      "id": "docs_eventi_fatti_affilare_una_carta",
+      "community": 6,
+      "norm_label": "fatti affilare una carta"
+    },
+    {
+      "label": "Chiedigli qualcosa di pi\u00f9 fino",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L99",
+      "_origin": "ast",
+      "id": "docs_eventi_chiedigli_qualcosa_di_pi\u00f9_fino",
+      "community": 6,
+      "norm_label": "chiedigli qualcosa di piu fino"
+    },
+    {
+      "label": "Vendigli il ferro vecchio",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L106",
+      "_origin": "ast",
+      "id": "docs_eventi_vendigli_il_ferro_vecchio",
+      "community": 6,
+      "norm_label": "vendigli il ferro vecchio"
+    },
+    {
+      "label": "Il temporale",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L116",
+      "_origin": "ast",
+      "id": "docs_eventi_il_temporale",
+      "community": 0,
+      "norm_label": "il temporale"
+    },
+    {
+      "label": "Cerca riparo e aspetta",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L122",
+      "_origin": "ast",
+      "id": "docs_eventi_cerca_riparo_e_aspetta",
+      "community": 0,
+      "norm_label": "cerca riparo e aspetta"
+    },
+    {
+      "label": "Tira dritto sotto l'acqua",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L128",
+      "_origin": "ast",
+      "id": "docs_eventi_tira_dritto_sotto_l_acqua",
+      "community": 0,
+      "norm_label": "tira dritto sotto l'acqua"
+    },
+    {
+      "label": "Il banco dei pegni",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L139",
+      "_origin": "ast",
+      "id": "docs_eventi_il_banco_dei_pegni",
+      "community": 7,
+      "norm_label": "il banco dei pegni"
+    },
+    {
+      "label": "Impegna due carte",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L145",
+      "_origin": "ast",
+      "id": "docs_eventi_impegna_due_carte",
+      "community": 7,
+      "norm_label": "impegna due carte"
+    },
+    {
+      "label": "Compra quello che tiene sotto il banco",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L152",
+      "_origin": "ast",
+      "id": "docs_eventi_compra_quello_che_tiene_sotto_il_banco",
+      "community": 7,
+      "norm_label": "compra quello che tiene sotto il banco"
+    },
+    {
+      "label": "Tira via dritto",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L159",
+      "_origin": "ast",
+      "id": "docs_eventi_tira_via_dritto",
+      "community": 7,
+      "norm_label": "tira via dritto"
+    },
+    {
+      "label": "Il giocatore",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L168",
+      "_origin": "ast",
+      "id": "docs_eventi_il_giocatore",
+      "community": 0,
+      "norm_label": "il giocatore"
+    },
+    {
+      "label": "Accetta la sfida",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L174",
+      "_origin": "ast",
+      "id": "docs_eventi_accetta_la_sfida",
+      "community": 0,
+      "norm_label": "accetta la sfida"
+    },
+    {
+      "label": "Guarda come gioca",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L181",
+      "_origin": "ast",
+      "id": "docs_eventi_guarda_come_gioca",
+      "community": 0,
+      "norm_label": "guarda come gioca"
+    },
+    {
+      "label": "La sagra di mezz'agosto",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L190",
+      "_origin": "ast",
+      "id": "docs_eventi_la_sagra_di_mezz_agosto",
+      "community": 0,
+      "norm_label": "la sagra di mezz'agosto"
+    },
+    {
+      "label": "Mangia come si deve",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L196",
+      "_origin": "ast",
+      "id": "docs_eventi_mangia_come_si_deve",
+      "community": 0,
+      "norm_label": "mangia come si deve"
+    },
+    {
+      "label": "Balla fino all'alba",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L202",
+      "_origin": "ast",
+      "id": "docs_eventi_balla_fino_all_alba",
+      "community": 0,
+      "norm_label": "balla fino all'alba"
+    },
+    {
+      "label": "Gioca alla tombola",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L208",
+      "_origin": "ast",
+      "id": "docs_eventi_gioca_alla_tombola",
+      "community": 0,
+      "norm_label": "gioca alla tombola"
+    },
+    {
+      "label": "Una scelta difficile",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L219",
+      "_origin": "ast",
+      "id": "docs_eventi_una_scelta_difficile",
+      "community": 12,
+      "norm_label": "una scelta difficile"
+    },
+    {
+      "label": "Scegli lei",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L225",
+      "_origin": "ast",
+      "id": "docs_eventi_scegli_lei",
+      "community": 12,
+      "norm_label": "scegli lei"
+    },
+    {
+      "label": "Scegli l'autobriscola",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L231",
+      "_origin": "ast",
+      "id": "docs_eventi_scegli_l_autobriscola",
+      "community": 12,
+      "norm_label": "scegli l'autobriscola"
+    },
+    {
+      "label": "La colletta",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L241",
+      "_origin": "ast",
+      "id": "docs_eventi_la_colletta",
+      "community": 0,
+      "norm_label": "la colletta"
+    },
+    {
+      "label": "Accetta, e ringrazia",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L247",
+      "_origin": "ast",
+      "id": "docs_eventi_accetta_e_ringrazia",
+      "community": 0,
+      "norm_label": "accetta, e ringrazia"
+    },
+    {
+      "label": "L'aziana",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L256",
+      "_origin": "ast",
+      "id": "docs_eventi_l_aziana",
+      "community": 9,
+      "norm_label": "l'aziana"
+    },
+    {
+      "label": "Raccoglila e aggiungila al mazzo",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L262",
+      "_origin": "ast",
+      "id": "docs_eventi_raccoglila_e_aggiungila_al_mazzo",
+      "community": 9,
+      "norm_label": "raccoglila e aggiungila al mazzo"
+    },
+    {
+      "label": "Restituiscila alla signora",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L268",
+      "_origin": "ast",
+      "id": "docs_eventi_restituiscila_alla_signora",
+      "community": 9,
+      "norm_label": "restituiscila alla signora"
+    },
+    {
+      "label": "Sembra da collezione: vendila",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L274",
+      "_origin": "ast",
+      "id": "docs_eventi_sembra_da_collezione_vendila",
+      "community": 9,
+      "norm_label": "sembra da collezione: vendila"
+    },
+    {
+      "label": "Un problema shockante",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L283",
+      "_origin": "ast",
+      "id": "docs_eventi_un_problema_shockante",
+      "community": 0,
+      "norm_label": "un problema shockante"
+    },
+    {
+      "label": "Procedi a passo svelto",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L289",
+      "_origin": "ast",
+      "id": "docs_eventi_procedi_a_passo_svelto",
+      "community": 0,
+      "norm_label": "procedi a passo svelto"
+    },
+    {
+      "label": "Rovista nel bidone",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L295",
+      "_origin": "ast",
+      "id": "docs_eventi_rovista_nel_bidone",
+      "community": 0,
+      "norm_label": "rovista nel bidone"
+    },
+    {
+      "label": "Appare un professore selvatico",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L305",
+      "_origin": "ast",
+      "id": "docs_eventi_appare_un_professore_selvatico",
+      "community": 2,
+      "norm_label": "appare un professore selvatico"
+    },
+    {
+      "label": "Prendi l'Acqua",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L311",
+      "_origin": "ast",
+      "id": "docs_eventi_prendi_l_acqua",
+      "community": 2,
+      "norm_label": "prendi l'acqua"
+    },
+    {
+      "label": "Prendi il Fuoco",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L317",
+      "_origin": "ast",
+      "id": "docs_eventi_prendi_il_fuoco",
+      "community": 2,
+      "norm_label": "prendi il fuoco"
+    },
+    {
+      "label": "Prendi l'Erba",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L323",
+      "_origin": "ast",
+      "id": "docs_eventi_prendi_l_erba",
+      "community": 2,
+      "norm_label": "prendi l'erba"
+    },
+    {
+      "label": "Prendi l'Elettro",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L329",
+      "_origin": "ast",
+      "id": "docs_eventi_prendi_l_elettro",
+      "community": 2,
+      "norm_label": "prendi l'elettro"
+    },
+    {
+      "label": "Lo scambio",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L338",
+      "_origin": "ast",
+      "id": "docs_eventi_lo_scambio",
+      "community": 14,
+      "norm_label": "lo scambio"
+    },
+    {
+      "label": "Accetta lo scambio",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L344",
+      "_origin": "ast",
+      "id": "docs_eventi_accetta_lo_scambio",
+      "community": 14,
+      "norm_label": "accetta lo scambio"
+    },
+    {
+      "label": "Rifiuta",
+      "file_type": "document",
+      "source_file": "docs/eventi.md",
+      "source_location": "L350",
+      "_origin": "ast",
+      "id": "docs_eventi_rifiuta",
+      "community": 14,
+      "norm_label": "rifiuta"
+    },
+    {
+      "label": "reliquie-e-innesti.md",
+      "file_type": "document",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_reliquie_e_innesti",
+      "community": 4,
+      "norm_label": "reliquie-e-innesti.md"
+    },
+    {
+      "label": "Reliquie e innesti",
+      "file_type": "document",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_reliquie_e_innesti_reliquie_e_innesti",
+      "community": 4,
+      "norm_label": "reliquie e innesti"
+    },
+    {
+      "label": "Reliquie",
+      "file_type": "document",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "docs_reliquie_e_innesti_reliquie",
+      "community": 4,
+      "norm_label": "reliquie"
+    },
+    {
+      "label": "Attenzione a due di queste",
+      "file_type": "document",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "docs_reliquie_e_innesti_attenzione_a_due_di_queste",
+      "community": 4,
+      "norm_label": "attenzione a due di queste"
+    },
+    {
+      "label": "Innesti",
+      "file_type": "document",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L46",
+      "_origin": "ast",
+      "id": "docs_reliquie_e_innesti_innesti",
+      "community": 4,
+      "norm_label": "innesti"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude",
+      "target": "claude_citt\u00e0_campagna_autobattler_a_carte"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L140",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_asset_cosa_entra_dove"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_come_si_vince"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L179",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_da_sapere"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_file"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_i_quattro_mazzi"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_il_metro_del_bilanciamento"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_la_storia_e_il_tutorial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L377",
+      "weight": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_le_animazioni_della_battaglia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_le_due_sconfitte_che_sono_il_gioco"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_modifiche_tipiche"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L88",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_citt\u00e0_campagna_autobattler_a_carte",
+      "target": "claude_provare_la_partita_non_solo_la_logica"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_i_quattro_mazzi",
+      "target": "claude_gaiofanamon"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_i_quattro_mazzi",
+      "target": "claude_la_catena_di_one"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L225",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_provare_la_partita_non_solo_la_logica",
+      "target": "claude_il_salvataggio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L119",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_provare_la_partita_non_solo_la_logica",
+      "target": "claude_la_regola_dei_nodi_pagata_cara_due_volte"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L413",
+      "weight": 1.0,
+      "source": "claude_le_animazioni_della_battaglia",
+      "target": "claude_le_trappole_delle_animazioni_tutte_misurate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari",
+      "target": "docs_avversari_gli_avversari"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_il_baro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_il_fabbro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L94",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_il_professore"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L65",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_il_signorotto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_il_vecchio_contadino"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_l_oste"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L79",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_l_ubriacone"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L72",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_la_ladra"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L87",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_la_vecchia"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/avversari.md",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "docs_avversari_gli_avversari",
+      "target": "docs_avversari_melon_husk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte",
+      "target": "docs_carte_briscola_le_carte_di_campagna"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L214",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte",
+      "target": "docs_carte_gaiofanamon_le_creature_che_crescono"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte",
+      "target": "docs_carte_le_carte"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L289",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte",
+      "target": "docs_carte_one_quattro_colori"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte",
+      "target": "docs_carte_poker_le_carte_di_citt\u00e0"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_le_carte",
+      "target": "docs_carte_come_si_legge_una_carta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_poker_le_carte_di_citt\u00e0",
+      "target": "docs_carte_cuori"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L74",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_poker_le_carte_di_citt\u00e0",
+      "target": "docs_carte_fiori"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L118",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_poker_le_carte_di_citt\u00e0",
+      "target": "docs_carte_jolly"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_poker_le_carte_di_citt\u00e0",
+      "target": "docs_carte_picche"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L96",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_poker_le_carte_di_citt\u00e0",
+      "target": "docs_carte_quadri"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L173",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_briscola_le_carte_di_campagna",
+      "target": "docs_carte_bastoni"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L154",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_briscola_le_carte_di_campagna",
+      "target": "docs_carte_coppe"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L192",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_briscola_le_carte_di_campagna",
+      "target": "docs_carte_denari"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L135",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_briscola_le_carte_di_campagna",
+      "target": "docs_carte_spade"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L218",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "target": "docs_carte_acqua"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L230",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "target": "docs_carte_elettro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L254",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "target": "docs_carte_erba"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L242",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "target": "docs_carte_fuoco"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L266",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "target": "docs_carte_germoglio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L276",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_gaiofanamon_le_creature_che_crescono",
+      "target": "docs_carte_l_antigh"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L397",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_blocco"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L356",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_blu"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L377",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_cambia_colore"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L314",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_giallo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L410",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_le_carte_con_carattere"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L387",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_pesca_quattro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L293",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_rosso"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/carte.md",
+      "source_location": "L335",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_carte_one_quattro_colori",
+      "target": "docs_carte_verde"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi",
+      "target": "docs_eventi_gli_incontri"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L305",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_appare_un_professore_selvatico"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L143",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_il_banco_dei_pegni"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L172",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_il_giocatore"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_il_temporale"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L70",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_il_vecchio_sull_aia"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L256",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_l_aziana"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_l_osteria_sulla_via"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L92",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_la_bottega_del_fabbro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L241",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_la_colletta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_la_fiera_del_paese"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L194",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_la_sagra_di_mezz_agosto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L338",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_lo_scambio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L283",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_un_problema_shockante"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L219",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_gli_incontri",
+      "target": "docs_eventi_una_scelta_difficile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_fiera_del_paese",
+      "target": "docs_eventi_compra_quello_che_puoi"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_fiera_del_paese",
+      "target": "docs_eventi_vendi_quello_che_hai"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_l_osteria_sulla_via",
+      "target": "docs_eventi_mangia_e_riposa"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_l_osteria_sulla_via",
+      "target": "docs_eventi_paga_da_bere_a_tutti"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_l_osteria_sulla_via",
+      "target": "docs_eventi_sta_a_sentire_i_discorsi"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_vecchio_sull_aia",
+      "target": "docs_eventi_ascoltalo_fino_in_fondo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_vecchio_sull_aia",
+      "target": "docs_eventi_dagli_una_mano_nei_campi"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L104",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_bottega_del_fabbro",
+      "target": "docs_eventi_chiedigli_qualcosa_di_pi\u00f9_fino"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L98",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_bottega_del_fabbro",
+      "target": "docs_eventi_fatti_affilare_una_carta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L111",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_bottega_del_fabbro",
+      "target": "docs_eventi_vendigli_il_ferro_vecchio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L127",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_temporale",
+      "target": "docs_eventi_cerca_riparo_e_aspetta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L133",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_temporale",
+      "target": "docs_eventi_tira_dritto_sotto_l_acqua"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L156",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_banco_dei_pegni",
+      "target": "docs_eventi_compra_quello_che_tiene_sotto_il_banco"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_banco_dei_pegni",
+      "target": "docs_eventi_impegna_due_carte"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L163",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_banco_dei_pegni",
+      "target": "docs_eventi_tira_via_dritto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L178",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_giocatore",
+      "target": "docs_eventi_accetta_la_sfida"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L185",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_il_giocatore",
+      "target": "docs_eventi_guarda_come_gioca"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L206",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_sagra_di_mezz_agosto",
+      "target": "docs_eventi_balla_fino_all_alba"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L212",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_sagra_di_mezz_agosto",
+      "target": "docs_eventi_gioca_alla_tombola"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L200",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_sagra_di_mezz_agosto",
+      "target": "docs_eventi_mangia_come_si_deve"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L231",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_una_scelta_difficile",
+      "target": "docs_eventi_scegli_l_autobriscola"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L225",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_una_scelta_difficile",
+      "target": "docs_eventi_scegli_lei"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L247",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_la_colletta",
+      "target": "docs_eventi_accetta_e_ringrazia"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L262",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_l_aziana",
+      "target": "docs_eventi_raccoglila_e_aggiungila_al_mazzo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L268",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_l_aziana",
+      "target": "docs_eventi_restituiscila_alla_signora"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L274",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_l_aziana",
+      "target": "docs_eventi_sembra_da_collezione_vendila"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L289",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_un_problema_shockante",
+      "target": "docs_eventi_procedi_a_passo_svelto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L295",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_un_problema_shockante",
+      "target": "docs_eventi_rovista_nel_bidone"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L317",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_appare_un_professore_selvatico",
+      "target": "docs_eventi_prendi_il_fuoco"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L311",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_appare_un_professore_selvatico",
+      "target": "docs_eventi_prendi_l_acqua"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L329",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_appare_un_professore_selvatico",
+      "target": "docs_eventi_prendi_l_elettro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L323",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_appare_un_professore_selvatico",
+      "target": "docs_eventi_prendi_l_erba"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L344",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_lo_scambio",
+      "target": "docs_eventi_accetta_lo_scambio"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/eventi.md",
+      "source_location": "L350",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_eventi_lo_scambio",
+      "target": "docs_eventi_rifiuta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_reliquie_e_innesti",
+      "target": "docs_reliquie_e_innesti_reliquie_e_innesti"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_reliquie_e_innesti_reliquie_e_innesti",
+      "target": "docs_reliquie_e_innesti_innesti"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_reliquie_e_innesti_reliquie_e_innesti",
+      "target": "docs_reliquie_e_innesti_reliquie"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/reliquie-e-innesti.md",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "docs_reliquie_e_innesti_reliquie",
+      "target": "docs_reliquie_e_innesti_attenzione_a_due_di_queste"
+    }
+  ],
+  "hyperedges": []
+}

@@ -1,0 +1,570 @@
+[
+	{
+		"id": "fiera",
+		"name": "La fiera del paese",
+		"min_round": 2,
+		"text": "Il piazzale è pieno di banchi. Hai un carro mezzo vuoto e tutto il pomeriggio davanti.",
+		"choices": [
+			{
+				"label": "Vendi quello che hai",
+				"hint": "+12 oro, una carta in meno",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": 12
+					},
+					{
+						"type": "run_remove_card",
+						"amount": 1
+					}
+				]
+			},
+			{
+				"label": "Compra quello che puoi",
+				"hint": "−12 oro, una carta in più",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": -12
+					},
+					{
+						"type": "run_add_card"
+					}
+				]
+			}
+		],
+		"image": "res://game/art/eventi/fiera.png"
+	},
+	{
+		"id": "osteria",
+		"image": "res://game/art/eventi/osteria.png",
+		"name": "L'osteria sulla via",
+		"min_round": 2,
+		"text": "Dentro si mangia, si beve e si parla troppo. L'oste ti guarda come si guarda un cliente.",
+		"choices": [
+			{
+				"label": "Mangia e riposa",
+				"hint": "+8 di vita massima",
+				"effects": [
+					{
+						"type": "run_max_hp",
+						"amount": 8
+					}
+				]
+			},
+			{
+				"label": "Sta' a sentire i discorsi",
+				"hint": "Racconti di Gaiofana",
+				"effects": [
+					{
+						"type": "run_relic",
+						"relic": "racconti"
+					}
+				]
+			},
+			{
+				"label": "Paga da bere a tutti",
+				"hint": "−10 oro, ma qualcuno si ricorda di te",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": -10
+					},
+					{
+						"type": "run_add_card"
+					},
+					{
+						"type": "run_add_card"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "vecchio",
+		"image": "res://game/art/eventi/vecchio.png",
+		"name": "Il vecchio sull'aia",
+		"min_round": 3,
+		"text": "Sta seduto da ore. Dice che una volta la terra rendeva il doppio, e che lui sa il perché.",
+		"choices": [
+			{
+				"label": "Ascoltalo fino in fondo",
+				"hint": "Il Valore della Vigna",
+				"effects": [
+					{
+						"type": "run_relic",
+						"relic": "vigna"
+					}
+				]
+			},
+			{
+				"label": "Dagli una mano nei campi",
+				"hint": "+15 oro, e una carta di campagna",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": 15
+					},
+					{
+						"type": "run_add_card",
+						"family": "briscola",
+						"value_range": [
+							4,
+							8
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "fabbro",
+		"image": "res://game/art/eventi/fabbro.png",
+		"name": "La bottega del fabbro",
+		"min_round": 3,
+		"text": "Batte il ferro senza alzare la testa. «Lasciami una carta, te la restituisco meglio di come me l'hai data.»",
+		"choices": [
+			{
+				"label": "Fatti affilare una carta",
+				"hint": "un innesto Affilato",
+				"effects": [
+					{
+						"type": "run_seal",
+						"seal": "affilato"
+					}
+				]
+			},
+			{
+				"label": "Chiedigli qualcosa di più fino",
+				"hint": "−12 oro, un innesto Svelto",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": -12
+					},
+					{
+						"type": "run_seal",
+						"seal": "svelto"
+					}
+				]
+			},
+			{
+				"label": "Vendigli il ferro vecchio",
+				"hint": "+10 oro, una carta in meno",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": 10
+					},
+					{
+						"type": "run_remove_card",
+						"amount": 1
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "temporale",
+		"name": "Il temporale",
+		"min_round": 3,
+		"text": "Il cielo si chiude in dieci minuti. Il carro è scoperto e il paese è ancora lontano.",
+		"choices": [
+			{
+				"label": "Cerca riparo e aspetta",
+				"hint": "sicuro: −6 oro",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": -6
+					}
+				]
+			},
+			{
+				"label": "Tira dritto sotto l'acqua",
+				"hint": "due su tre finisce bene",
+				"effects": [
+					{
+						"type": "random",
+						"weights": [
+							33,
+							33,
+							34
+						],
+						"effects": [
+							{
+								"type": "run_gold",
+								"amount": 20
+							},
+							{
+								"type": "run_remove_card",
+								"amount": 1
+							},
+							{
+								"type": "run_next_battle",
+								"hp_mult": 0.9,
+								"text": "arriverai alla prossima battaglia con un decimo di vita in meno"
+							}
+						]
+					}
+				]
+			}
+		],
+		"image": "res://game/art/eventi/temporale.png"
+	},
+	{
+		"id": "pegni",
+		"name": "Il banco dei pegni",
+		"min_round": 4,
+		"text": "Dietro il vetro c'è un uomo che compra tutto e non chiede mai niente.",
+		"choices": [
+			{
+				"label": "Impegna due carte",
+				"hint": "+22 oro, due carte in meno",
+				"effects": [
+					{
+						"type": "run_remove_card",
+						"amount": 2
+					},
+					{
+						"type": "run_gold",
+						"amount": 22
+					}
+				]
+			},
+			{
+				"label": "Compra quello che tiene sotto il banco",
+				"hint": "−18 oro, una carta grossa",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": -18
+					},
+					{
+						"type": "run_add_card",
+						"value_range": [
+							8,
+							13
+						]
+					}
+				]
+			},
+			{
+				"label": "Tira via dritto",
+				"hint": "niente",
+				"effects": []
+			}
+		],
+		"image": "res://game/art/eventi/pegni.png"
+	},
+	{
+		"id": "giocatore",
+		"image": "res://game/art/eventi/giocatore.png",
+		"name": "Il giocatore",
+		"min_round": 4,
+		"text": "Mischia il mazzo con una mano sola e ti sorride. «Una partita sola. Poi ti lascio in pace.»",
+		"choices": [
+			{
+				"label": "Accetta la sfida",
+				"hint": "metà e metà: +1 vita, oppure −20 oro",
+				"effects": [
+					{
+						"type": "chance",
+						"p": 0.5,
+						"effect": {
+							"type": "run_life",
+							"amount": 1
+						},
+						"else": {
+							"type": "run_gold",
+							"amount": -20
+						}
+					}
+				],
+				"image": "res://game/art/eventi/giocatore_sfida.png"
+			},
+			{
+				"label": "Guarda come gioca",
+				"hint": "impari il mestiere: una figura nel mazzo",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"family": "poker",
+						"value_range": [
+							11,
+							13
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "sagra",
+		"name": "La sagra di mezz'agosto",
+		"min_round": 5,
+		"text": "Tavolate lunghe cento metri, fisarmonica, e gente che balla fino a domani.",
+		"choices": [
+			{
+				"label": "Mangia come si deve",
+				"hint": "+12 di vita massima",
+				"effects": [
+					{
+						"type": "run_max_hp",
+						"amount": 12
+					}
+				]
+			},
+			{
+				"label": "Balla fino all'alba",
+				"hint": "Una Notte da Ricordare",
+				"effects": [
+					{
+						"type": "run_relic",
+						"relic": "notte"
+					}
+				]
+			},
+			{
+				"label": "Gioca alla tombola",
+				"hint": "un colpo di fortuna, o una beffa",
+				"effects": [
+					{
+						"type": "random",
+						"weights": [
+							50,
+							25,
+							25
+						],
+						"effects": [
+							{
+								"type": "run_gold",
+								"amount": 25
+							},
+							{
+								"type": "run_seal",
+								"seal": "eco"
+							},
+							{
+								"type": "run_remove_card",
+								"amount": 1
+							}
+						]
+					}
+				]
+			}
+		],
+		"image": "res://game/art/eventi/sagra.png"
+	},
+	{
+		"id": "scelta",
+		"image": "res://game/art/eventi/scelta.png",
+		"name": "Una scelta difficile",
+		"min_round": 2,
+		"text": "La tua compagna arriva sbuffando: un altro sabato pomeriggio buttato a giocare a carte invece di andare al centro commerciale con lei. La situazione è tesa. Devi scegliere.",
+		"choices": [
+			{
+				"label": "Scegli lei",
+				"hint": "la partita finisce qui",
+				"effects": [
+					{
+						"type": "run_end",
+						"text": "Metti giù le carte. È stata una bella corsa."
+					}
+				],
+				"image": "res://game/art/eventi/scelta_lei.png"
+			},
+			{
+				"label": "Scegli l'autobriscola",
+				"hint": "cinque Due di Picche, e valgono il doppio",
+				"effects": [
+					{
+						"type": "repeat",
+						"times": 5,
+						"effect": {
+							"type": "run_add_card",
+							"card": "picche_c2"
+						}
+					},
+					{
+						"type": "run_passive",
+						"text": "i Due di Picche valgono il doppio",
+						"rule": {
+							"suit": "picche",
+							"value_min": 2,
+							"value_max": 2,
+							"value_mult": 2.0
+						}
+					}
+				],
+				"image": "res://game/art/eventi/scelta_autobriscola.png"
+			}
+		]
+	},
+	{
+		"id": "colletta",
+		"name": "La colletta",
+		"min_round": 2,
+		"text": "Gli anziani dei bar che stai cercando di salvare hanno fatto una colletta. Non è molto, ma è quello che avevano.",
+		"choices": [
+			{
+				"label": "Accetta, e ringrazia",
+				"hint": "una reliquia a caso",
+				"effects": [
+					{
+						"type": "run_relic"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "aziana",
+		"image": "res://game/art/personaggi/vecchia.png",
+		"name": "L'aziana",
+		"min_round": 2,
+		"text": "Una signora coperta da capo a piedi, di sicuro non della zona, ti viene addosso e tira dritto. Per terra le è caduta una carta. È un Gaiofanamon che non hai mai visto, e il nome ti lascia perplesso: «L'antigh».",
+		"choices": [
+			{
+				"label": "Raccoglila e aggiungila al mazzo",
+				"hint": "L'antigh",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"card": "antigh_a0"
+					}
+				]
+			},
+			{
+				"label": "Restituiscila alla signora",
+				"hint": "una reliquia a caso",
+				"effects": [
+					{
+						"type": "run_relic"
+					}
+				]
+			},
+			{
+				"label": "Sembra da collezione: vendila",
+				"hint": "+35 oro",
+				"effects": [
+					{
+						"type": "run_gold",
+						"amount": 35
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "shock",
+		"image": "res://game/art/personaggi/ubriacone.png",
+		"name": "Un problema shockante",
+		"min_round": 2,
+		"text": "Passi in un vicolo e senti qualcosa venire da un bidone lì accanto. Ti si rizzano i peli sulle braccia e l'aria sa di temporale.",
+		"choices": [
+			{
+				"label": "Procedi a passo svelto",
+				"hint": "niente",
+				"effects": []
+			},
+			{
+				"label": "Rovista nel bidone",
+				"hint": "prendi Sorc, ma la paghi",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"card": "elettro_g1"
+					},
+					{
+						"type": "run_next_battle",
+						"paralyzed": 3.0,
+						"text": "la prossima battaglia comincerà con le carte intorpidite"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "professore",
+		"image": "res://game/art/personaggi/professore.png",
+		"name": "Appare un professore selvatico",
+		"min_round": 2,
+		"requires": {
+			"family": "gaiofanamon",
+			"none": true
+		},
+		"text": "Un signore vestito come se fosse in laboratorio ti chiede se sai cosa sono i Gaiofanamon. Fai cenno di sì, e lui subito ti domanda se ne vuoi uno che ti aiuti nell'impresa.",
+		"choices": [
+			{
+				"label": "Prendi l'Acqua",
+				"hint": "un Cucciolo d'Acqua",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"card": "acqua_g1"
+					}
+				]
+			},
+			{
+				"label": "Prendi il Fuoco",
+				"hint": "un Cucciolo di Fuoco",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"card": "fuoco_g1"
+					}
+				]
+			},
+			{
+				"label": "Prendi l'Erba",
+				"hint": "un Cucciolo d'Erba",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"card": "erba_g1"
+					}
+				]
+			},
+			{
+				"label": "Prendi l'Elettro",
+				"hint": "un Cucciolo di Elettro",
+				"effects": [
+					{
+						"type": "run_add_card",
+						"card": "elettro_g1"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "scambio",
+		"name": "Lo scambio",
+		"min_round": 3,
+		"requires": {
+			"family": "gaiofanamon"
+		},
+		"text": "Ti si avvicina un ragazzino: vorrebbe scambiare uno dei suoi Gaiofanamon con uno dei tuoi. Dice che il suo è più forte. Dicono tutti così.",
+		"choices": [
+			{
+				"label": "Accetta lo scambio",
+				"hint": "uno dei tuoi per uno dei suoi",
+				"effects": [
+					{
+						"type": "run_swap_suit",
+						"family": "gaiofanamon"
+					}
+				],
+				"image": "res://game/art/eventi/scambio_accetta.png"
+			},
+			{
+				"label": "Rifiuta",
+				"hint": "niente",
+				"effects": [],
+				"image": "res://game/art/eventi/scambio_rifiuta.png"
+			}
+		],
+		"image": "res://game/art/eventi/scambio.png"
+	}
+]

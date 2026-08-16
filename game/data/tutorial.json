@@ -1,0 +1,29 @@
+[
+	{
+		"id": "gigi",
+		"name": "GiGi",
+		"symbol": "○",
+		"portrait": "res://game/art/personaggi/gigi.png",
+		"text": "Un pupazzo di legno alto quanto una bottiglia, e l'unico in tutto il bar che sappia davvero giocare. Questa partita non conta: serve a te per capire come si sta al tavolo.",
+		"hp": 26,
+		"shield": 0,
+		"deck_size": 14,
+		"weights": { "briscola": 100 },
+		"value_range": [1, 5]
+	},
+	{
+		"id": "regalo",
+		"name": "Le carte di GiGi",
+		"_cosa": "Le carte che GiGi regala alla fine della partita di prova. Sono di città: veloci, piccole, l'esatto contrario del mazzo con cui hai appena giocato — ed è quello il punto della lezione.",
+		"carte": [
+			"picche_c2",
+			"picche_c3",
+			"picche_c5",
+			"picche_c7",
+			"quadri_c5",
+			"cuori_c5",
+			"cuori_c7",
+			"fiori_c6"
+		]
+	}
+]

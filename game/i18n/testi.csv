@@ -1,0 +1,1057 @@
+keys,it
+%+d di vita massima,%+d di vita massima
+%+d vita,%+d vita
+%+d vite,%+d vite
+%d %s,%d %s
+%d carta di città entra nel mazzo,%d carta di città entra nel mazzo
+%d carta in mazzo,%d carta in mazzo
+%d carta scartata,%d carta scartata
+%d carte di città entrano nel mazzo,%d carte di città entrano nel mazzo
+%d carte in mazzo,%d carte in mazzo
+%d carte nel mazzo — %d restano in pila dopo il primo giro,%d carte nel mazzo — %d restano in pila dopo il primo giro
+%d carte scartate,%d carte scartate
+%d oro,%d oro
+%d vita,%d vita
+%d vite,%d vite
+%s %d,%s %d
+%s %s,%s %s
+%s %s  %s,%s %s  %s
+%s di %s,%s di %s
+%s perde %s senza poterla giocare,%s perde %s senza poterla giocare
+%s prende il sigillo %s,%s prende il sigillo %s
+"%s se ne va, arriva %s","%s se ne va, arriva %s"
+%s via dal mazzo,%s via dal mazzo
+"%s — %d oro
+
+%s","%s — %d oro
+
+%s"
+%s — %s: %s,%s — %s: %s
+"**tutte** le tue carte colpiscono, curano e riparano il %d%% in più per anello. ","**tutte** le tue carte colpiscono, curano e riparano il %d%% in più per anello. "
++%d oro,+%d oro
+"+10 oro, una carta in meno","+10 oro, una carta in meno"
++12 di vita massima,+12 di vita massima
+"+12 oro, una carta in meno","+12 oro, una carta in meno"
+"+15 oro, e una carta di campagna","+15 oro, e una carta di campagna"
++2,+2
+"+22 oro, due carte in meno","+22 oro, due carte in meno"
++35 oro,+35 oro
++4,+4
++8 di vita massima,+8 di vita massima
+", ",", "
+0,0
+1,1
+1 %s,1 %s
+10,10
+2,2
+3,3
+4,4
+5,5
+6,6
+7,7
+8,8
+9,9
+?,?
+A,A
+ATT,ATT
+Abaco da Autobriscola,Abaco da Autobriscola
+Abbastanza per mettervi alla prova.,Abbastanza per mettervi alla prova.
+Abbastanza.,Abbastanza.
+Abbiamo vinto!,Abbiamo vinto!
+Abbiamo vinto.,Abbiamo vinto.
+Abito Elegante,Abito Elegante
+Accetta la sfida,Accetta la sfida
+Accetta lo scambio,Accetta lo scambio
+"Accetta, e ringrazia","Accetta, e ringrazia"
+Accorcia di %d secondi l'attesa delle tue altre carte,Accorcia di %d secondi l'attesa delle tue altre carte
+Accorcia di %d secondo l'attesa delle tue altre carte,Accorcia di %d secondo l'attesa delle tue altre carte
+Accorcia l'attesa di tutte le altre tue carte in campo.,Accorcia l'attesa di tutte le altre tue carte in campo.
+Acqua,Acqua
+Adesso gioco.,Adesso gioco.
+Adesso guarda quanto aspettano le tue carte e quanto le mie. Vai.,Adesso guarda quanto aspettano le tue carte e quanto le mie. Vai.
+Adulto,Adulto
+Adulto di Acqua,Adulto di Acqua
+Adulto di Elettro,Adulto di Elettro
+Adulto di Erba,Adulto di Erba
+Adulto di Fuoco,Adulto di Fuoco
+Affilato,Affilato
+Affretta di 1 secondo le tue altre carte.,Affretta di 1 secondo le tue altre carte.
+Aggiunge 2 danni a quello che già fa.,Aggiunge 2 danni a quello che già fa.
+Aggiunge 4 danni a quello che già fa.,Aggiunge 4 danni a quello che già fa.
+Aggiunge 5 di scudo a quello che già fa.,Aggiunge 5 di scudo a quello che già fa.
+"Al suo posto ne arriva un'altra dalla pila. Le lente picchiano forte, le svelte insistono.","Al suo posto ne arriva un'altra dalla pila. Le lente picchiano forte, le svelte insistono."
+"Ali, fuoco e fretta: picchia da veterano e manda avanti la fila.","Ali, fuoco e fretta: picchia da veterano e manda avanti la fila."
+Allora aspetteremo.,Allora aspetteremo.
+Allora avete vinto qualcosa di più importante.,Allora avete vinto qualcosa di più importante.
+Allora cominciamo.,Allora cominciamo.
+Allora dovrò vincere.,Allora dovrò vincere.
+Allora torneremo a parlarne.,Allora torneremo a parlarne.
+Allunga di %d secondi l'attesa avversaria,Allunga di %d secondi l'attesa avversaria
+Allunga di %d secondo l'attesa avversaria,Allunga di %d secondo l'attesa avversaria
+"Allunga i tempi degli altri, e li rende più piccoli.","Allunga i tempi degli altri, e li rende più piccoli."
+Allunga la catena di %d anelli,Allunga la catena di %d anelli
+Allunga la catena di %d anello,Allunga la catena di %d anello
+Anche se stai benissimo.,Anche se stai benissimo.
+Anche se sto benissimo?,Anche se sto benissimo?
+Annulla,Annulla
+Antig,Antig
+Appare un professore selvatico,Appare un professore selvatico
+Apre la valigetta.,Apre la valigetta.
+Ascoltalo fino in fondo,Ascoltalo fino in fondo
+Aspetta il 30% in meno.,Aspetta il 30% in meno.
+"Aspetta, cosa?","Aspetta, cosa?"
+Aspetta. Prima passiamo dalla bottega: non ti siedi col mazzo che ti sei trovato in mano.,Aspetta. Prima passiamo dalla bottega: non ti siedi col mazzo che ti sei trovato in mano.
+Asso,Asso
+Asso di Bastoni,Asso di Bastoni
+Asso di Coppe,Asso di Coppe
+Asso di Cuori,Asso di Cuori
+Asso di Denari,Asso di Denari
+Asso di Fiori,Asso di Fiori
+Asso di Picche,Asso di Picche
+Asso di Quadri,Asso di Quadri
+Asso di Spade,Asso di Spade
+Attesa,Attesa
+"Attivandosi diventa %s, per il resto della partita","Attivandosi diventa %s, per il resto della partita"
+Avanti,Avanti
+Avete qualche minuto.,Avete qualche minuto.
+Avversario,Avversario
+BONUS,BONUS
+Balla fino all'alba,Balla fino all'alba
+Balsamo,Balsamo
+Bastoni,Bastoni
+Battaglie giocate,Battaglie giocate
+"Batte il ferro senza alzare la testa. «Lasciami una carta, te la restituisco meglio di come me l'hai data.»","Batte il ferro senza alzare la testa. «Lasciami una carta, te la restituisco meglio di come me l'hai data.»"
+Bene.,Bene.
+Bene. Adesso vediamo se hai davvero capito.,Bene. Adesso vediamo se hai davvero capito.
+Blocco,Blocco
+Blu,Blu
+Borraccia del Vignaiolo Immortale,Borraccia del Vignaiolo Immortale
+Borsello,Borsello
+Bottega Angelini,Bottega Angelini
+Bottega Angelini. Ci si passa prima di ogni sfida.,Bottega Angelini. Ci si passa prima di ogni sfida.
+Bottiglia di Bianchello Mezza Piena,Bottiglia di Bianchello Mezza Piena
+Briscola,Briscola
+Briscola — le carte di campagna,Briscola — le carte di campagna
+Brucia %d carta avversaria in campo,Brucia %d carta avversaria in campo
+Brucia %d carte avversarie in campo,Brucia %d carte avversarie in campo
+Brucia una carta avversaria: la scarta senza farla partire.,Brucia una carta avversaria: la scarta senza farla partire.
+Buff di slot,Buff di slot
+Buongiorno.,Buongiorno.
+Butta una carta (%d),Butta una carta (%d)
+Button,Button
+C,C
+CATENA,CATENA
+CUR,CUR
+Calice del Rabbercio,Calice del Rabbercio
+Cambia Colore,Cambia Colore
+Canon,Canon
+"Capelli bianchi e le linee evolutive imparate a memoria. Non improvvisa: costruisce, e quando ha finito di costruire hai già perso.","Capelli bianchi e le linee evolutive imparate a memoria. Non improvvisa: costruisce, e quando ha finito di costruire hai già perso."
+Carica: colpisce e affretta di due secondi le tue altre carte.,Carica: colpisce e affretta di due secondi le tue altre carte.
+Carte,Carte
+Carte nel mazzo,Carte nel mazzo
+Catena,Catena
+Cavallo,Cavallo
+Cavallo di Bastoni,Cavallo di Bastoni
+Cavallo di Coppe,Cavallo di Coppe
+Cavallo di Denari,Cavallo di Denari
+Cavallo di Spade,Cavallo di Spade
+Cerca riparo e aspetta,Cerca riparo e aspetta
+Che cominci la partita.,Che cominci la partita.
+Che è successo?,Che è successo?
+Chi la guarda mezza piena regge un colpo in più e parte con qualcosa addosso.,Chi la guarda mezza piena regge un colpo in più e parte con qualcosa addosso.
+"Chi li recupera li rimette in campo più grossi: Coppe, Fiori, l'Otto, l'innesto Eco.","Chi li recupera li rimette in campo più grossi: Coppe, Fiori, l'Otto, l'innesto Eco."
+"Chi lo porta perde spesso, e proprio per questo ha imparato ad avere due vite di scorta.","Chi lo porta perde spesso, e proprio per questo ha imparato ad avere due vite di scorta."
+Chi sa leggere la terra la fa rendere di più: le carte di briscola valgono uno in più.,Chi sa leggere la terra la fa rendere di più: le carte di briscola valgono uno in più.
+Chiedigli qualcosa di più fino,Chiedigli qualcosa di più fino
+Chiudi,Chiudi
+Cinque,Cinque
+"Cinque carte in vetrina, cambiano a ogni passaggio. Passaci sopra il mouse e leggi tutto.","Cinque carte in vetrina, cambiano a ogni passaggio. Passaci sopra il mouse e leggi tutto."
+Cinque di Bastoni,Cinque di Bastoni
+Cinque di Blu,Cinque di Blu
+Cinque di Coppe,Cinque di Coppe
+Cinque di Cuori,Cinque di Cuori
+Cinque di Denari,Cinque di Denari
+Cinque di Fiori,Cinque di Fiori
+Cinque di Giallo,Cinque di Giallo
+Cinque di Picche,Cinque di Picche
+Cinque di Quadri,Cinque di Quadri
+Cinque di Rosso,Cinque di Rosso
+Cinque di Spade,Cinque di Spade
+Cinque di Verde,Cinque di Verde
+"Cinque posti per lato. Le tue di sotto, le mie di sopra. Giocano da sole.","Cinque posti per lato. Le tue di sotto, le mie di sopra. Giocano da sole."
+Colpisce due volte: una piena e una da quattro.,Colpisce due volte: una piena e una da quattro.
+Colpisce e brucia la carta avversaria più vicina a partire.,Colpisce e brucia la carta avversaria più vicina a partire.
+Colpisce e dà una spinta di un secondo alle tue altre carte.,Colpisce e dà una spinta di un secondo alle tue altre carte.
+"Colpisce più forte di quanto dovrebbe, e ti presenta il conto.","Colpisce più forte di quanto dovrebbe, e ti presenta il conto."
+"Colpisce più forte, e accorcia l'attesa di tutto il resto.","Colpisce più forte, e accorcia l'attesa di tutto il resto."
+Colpo che buca,Colpo che buca
+Combatti,Combatti
+Come promesso.,Come promesso.
+Come?,Come?
+Cominciamo.,Cominciamo.
+Compra quello che puoi,Compra quello che puoi
+Compra quello che tiene sotto il banco,Compra quello che tiene sotto il banco
+Con una partita.,Con una partita.
+Continua,Continua
+Continuerà a crescere.,Continuerà a crescere.
+Coppe,Coppe
+"Coppola e sorriso storto. Ti rompe il ritmo, e mentre riprendi fiato ti mette giù una figura.","Coppola e sorriso storto. Ti rompe il ritmo, e mentre riprendi fiato ti mette giù una figura."
+Cos'è stato?,Cos'è stato?
+Cosa?,Cosa?
+Creatura cresciuta,Creatura cresciuta
+Creature cresciute,Creature cresciute
+Credits,Credits
+Cresciuto male e di cattivo umore: paralizza più a lungo e picchia di più.,Cresciuto male e di cattivo umore: paralizza più a lungo e picchia di più.
+"Crescono più piano. Non c'è un mazzo giusto: c'è il tuo, e quello che hai davanti.","Crescono più piano. Non c'è un mazzo giusto: c'è il tuo, e quello che hai davanti."
+Cucciolo,Cucciolo
+Cucciolo di Acqua,Cucciolo di Acqua
+Cucciolo di Elettro,Cucciolo di Elettro
+Cucciolo di Erba,Cucciolo di Erba
+Cucciolo di Fuoco,Cucciolo di Fuoco
+Cuori,Cuori
+Cura,Cura
+Cura 4 in più ogni volta che parte.,Cura 4 in più ogni volta che parte.
+Cura e lascia sei di scudo.,Cura e lascia sei di scudo.
+"Cura e ripara, senza fare rumore.","Cura e ripara, senza fare rumore."
+"Cura poco, ma torna in fondo al mazzo una volta.","Cura poco, ma torna in fondo al mazzo una volta."
+Cura tanto e torna in fondo al mazzo: due volte.,Cura tanto e torna in fondo al mazzo: due volte.
+"Cura tanto, e ripesca quello che avevi già buttato.","Cura tanto, e ripesca quello che avevi già buttato."
+Da dove ricominciamo?,Da dove ricominciamo?
+Da qui vedi tutto quello che hai.,Da qui vedi tutto quello che hai.
+Da qui.,Da qui.
+Dagli una mano nei campi,Dagli una mano nei campi
+Dal bar.,Dal bar.
+Dal bar?,Dal bar?
+Dal suo simbolo.,Dal suo simbolo.
+Danni,Danni
+Deckbox da Briscola,Deckbox da Briscola
+Deckbox da Gaiofanamon,Deckbox da Gaiofanamon
+Deckbox da Poker,Deckbox da Poker
+Deckbox da Uan,Deckbox da Uan
+Denari,Denari
+"Dentro si mangia, si beve e si parla troppo. L'oste ti guarda come si guarda un cliente.","Dentro si mangia, si beve e si parla troppo. L'oste ti guarda come si guarda un cliente."
+Dieci,Dieci
+Dieci di Cuori,Dieci di Cuori
+Dieci di Fiori,Dieci di Fiori
+Dieci di Picche,Dieci di Picche
+Dieci di Quadri,Dieci di Quadri
+"Dieci partite: i nove che manda la Megacorp, e poi il capo.","Dieci partite: i nove che manda la Megacorp, e poi il capo."
+Dietro il vetro c'è un uomo che compra tutto e non chiede mai niente.,Dietro il vetro c'è un uomo che compra tutto e non chiede mai niente.
+Difenderlo.,Difenderlo.
+Dobbiamo diventare più bravi.,Dobbiamo diventare più bravi.
+Donna,Donna
+Donna di Cuori,Donna di Cuori
+Donna di Fiori,Donna di Fiori
+Donna di Picche,Donna di Picche
+Donna di Quadri,Donna di Quadri
+Dopo arriva il capo.,Dopo arriva il capo.
+Dopo continueremo con il resto della città.,Dopo continueremo con il resto della città.
+Dopo essersi attivata cresce di livello e va negli scarti. ,Dopo essersi attivata cresce di livello e va negli scarti. 
+Dopo la sfida,Dopo la sfida
+"Dopo tutti quelli che abbiamo battuto, vieni tu.","Dopo tutti quelli che abbiamo battuto, vieni tu."
+Dovresti essere preoccupato.,Dovresti essere preoccupato.
+Drag,Drag
+Due,Due
+"Due cannoni sulla schiena: niente ti resta addosso, e la vita torna su.","Due cannoni sulla schiena: niente ti resta addosso, e la vita torna su."
+Due di Bastoni,Due di Bastoni
+Due di Blu,Due di Blu
+Due di Coppe,Due di Coppe
+Due di Cuori,Due di Cuori
+Due di Denari,Due di Denari
+Due di Fiori,Due di Fiori
+Due di Giallo,Due di Giallo
+Due di Picche,Due di Picche
+Due di Quadri,Due di Quadri
+Due di Rosso,Due di Rosso
+Due di Spade,Due di Spade
+Due di Verde,Due di Verde
+E Gaiofana?,E Gaiofana?
+E adesso anche te.,E adesso anche te.
+E allora?,E allora?
+E avete scelto questo posto.,E avete scelto questo posto.
+E chi perde ritrova davanti lo stesso avversario.,E chi perde ritrova davanti lo stesso avversario.
+E cosa possiamo fare?,E cosa possiamo fare?
+E da qui si butta.,E da qui si butta.
+E dopo di loro?,E dopo di loro?
+E dopo?,E dopo?
+"E gioca a carte. Mi chiamo GiGi, sono la mascotte del bar.","E gioca a carte. Mi chiamo GiGi, sono la mascotte del bar."
+E gli altri?,E gli altri?
+E ho perso contro di te.,E ho perso contro di te.
+E il Baro?,E il Baro?
+E il bar cresce con lei.,E il bar cresce con lei.
+E il bar?,E il bar?
+E la Megacorp vuole entrarci.,E la Megacorp vuole entrarci.
+E la Megacorp vuole integrarla.,E la Megacorp vuole integrarla.
+E la città?,E la città?
+E noi saremo qui.,E noi saremo qui.
+E non lo avrete.,E non lo avrete.
+E quando crescerà?,E quando crescerà?
+E questo bar interessa a tutta Gaiofana.,E questo bar interessa a tutta Gaiofana.
+E quindi?,E quindi?
+E se non trovo niente che li recupera?,E se non trovo niente che li recupera?
+E se perdiamo?,E se perdiamo?
+E se vinciamo?,E se vinciamo?
+E se vinco io?,E se vinco io?
+E sei bravo?,E sei bravo?
+E tu lo sei?,E tu lo sei?
+E tu un giocatore che non ha mai giocato. Siamo alla pari.,E tu un giocatore che non ha mai giocato. Siamo alla pari.
+E tu?,E tu?
+E' Canon,E' Canon
+E' dragh,E' dragh
+Ecco cosa speravo di sentire.,Ecco cosa speravo di sentire.
+Eco,Eco
+Effetti,Effetti
+"Effetto doppio, ma due secondi e mezzo in più di attesa.","Effetto doppio, ma due secondi e mezzo in più di attesa."
+Elettro,Elettro
+Eppure siete venuti fin qui per prenderlo.,Eppure siete venuti fin qui per prenderlo.
+Erano bravi.,Erano bravi.
+Erba,Erba
+Esatto.,Esatto.
+Esce.,Esce.
+Estrae un mazzo.,Estrae un mazzo.
+Evoluzione,Evoluzione
+F,F
+FATTO DA,FATTO DA
+Fa scartare %d carta dal mazzo avversario,Fa scartare %d carta dal mazzo avversario
+Fa scartare %d carte dal mazzo avversario,Fa scartare %d carte dal mazzo avversario
+Fa scudo e impasta le carte avversarie per un secondo e mezzo.,Fa scudo e impasta le carte avversarie per un secondo e mezzo.
+Fante,Fante
+Fante di Bastoni,Fante di Bastoni
+Fante di Coppe,Fante di Coppe
+Fante di Cuori,Fante di Cuori
+Fante di Denari,Fante di Denari
+Fante di Fiori,Fante di Fiori
+Fante di Picche,Fante di Picche
+Fante di Quadri,Fante di Quadri
+Fante di Spade,Fante di Spade
+Fate pure.,Fate pure.
+Fatti affilare una carta,Fatti affilare una carta
+Fegato del Salvatore,Fegato del Salvatore
+Ferma il tempo sulla carta avversaria più vicina a partire.,Ferma il tempo sulla carta avversaria più vicina a partire.
+Fermo. In vetrina è arrivata roba nuova.,Fermo. In vetrina è arrivata roba nuova.
+Ferrato,Ferrato
+Finalmente.,Finalmente.
+Finché non premi «Combatti» non è successo niente. Al tavolo no: lì si guarda e basta.,Finché non premi «Combatti» non è successo niente. Al tavolo no: lì si guarda e basta.
+Fino a fine battaglia,Fino a fine battaglia
+Fionda,Fionda
+Fiori,Fiori
+Forse perché ha perso.,Forse perché ha perso.
+Frutta 2 monete ogni volta che parte.,Frutta 2 monete ogni volta che parte.
+Fughett,Fughett
+Fuoco,Fuoco
+GAIOFANA È PRONTA A CRESCERE.,GAIOFANA È PRONTA A CRESCERE.
+GAIOFANA È SOLO ALL'INIZIO.,GAIOFANA È SOLO ALL'INIZIO.
+GELO,GELO
+GIOCA,GIOCA
+Gabriele Baffoni,Gabriele Baffoni
+Gaiofana continuerà a crescere.,Gaiofana continuerà a crescere.
+Gaiofana sta crescendo.,Gaiofana sta crescendo.
+Gaiofana sta crescendo. Presto sarà una città vera e propria.,Gaiofana sta crescendo. Presto sarà una città vera e propria.
+Gaiofanamon,Gaiofanamon
+Gaiofanamon — le creature che crescono,Gaiofanamon — le creature che crescono
+Germoglio,Germoglio
+GiGi,GiGi
+GiGi alza le braccia.,GiGi alza le braccia.
+GiGi si avvicina al protagonista.,GiGi si avvicina al protagonista.
+GiGi torna da dietro il bancone con un mazzetto legato con un elastico.,GiGi torna da dietro il bancone con un mazzetto legato con un elastico.
+Giallo,Giallo
+Gioca alla tombola,Gioca alla tombola
+Gioca ancora,Gioca ancora
+"Gioca carte piccole, e le carte piccole gli valgono più di quello che c'è scritto sopra. Più dura la partita, più diventano efficienti.","Gioca carte piccole, e le carte piccole gli valgono più di quello che c'è scritto sopra. Più dura la partita, più diventano efficienti."
+Gioco,Gioco
+Gli altri arriveranno.,Gli altri arriveranno.
+"Gli anziani dei bar che stai cercando di salvare hanno fatto una colletta. Non è molto, ma è quello che avevano.","Gli anziani dei bar che stai cercando di salvare hanno fatto una colletta. Non è molto, ma è quello che avevano."
+"Gli innesti si mettono sopra una carta: scegli l'innesto, poi la carta. Due per carta.","Gli innesti si mettono sopra una carta: scegli l'innesto, poi la carta. Due per carta."
+Godetevi il bar finché potete.,Godetevi il bar finché potete.
+Goditi questa vittoria.,Goditi questa vittoria.
+Guarda come gioca,Guarda come gioca
+Guarda il bar.,Guarda il bar.
+Guarda il locale.,Guarda il locale.
+"Ha detto ""partita""?","Ha detto ""partita""?"
+Ha imparato a mirare. Lava via quello che rode e cura il doppio di prima.,Ha imparato a mirare. Lava via quello che rode e cura il doppio di prima.
+Hai battuto tutti gli uomini che abbiamo mandato.,Hai battuto tutti gli uomini che abbiamo mandato.
+Hai difeso il simbolo di una città che deve ancora diventare grande.,Hai difeso il simbolo di una città che deve ancora diventare grande.
+Hai giocato bene. Non abbastanza bene.,Hai giocato bene. Non abbastanza bene.
+Hai perso.,Hai perso.
+Hai preso: %s,Hai preso: %s
+Hai sconfitto tutti i miei uomini per arrivare fino a me.,Hai sconfitto tutti i miei uomini per arrivare fino a me.
+Hai sconfitto tutti i nostri uomini.,Hai sconfitto tutti i nostri uomini.
+Hai una partita in corso: ricominciare da capo?,Hai una partita in corso: ricominciare da capo?
+Hai visto il cartello della Megacorp?,Hai visto il cartello della Megacorp?
+Hanno mandato degli scagnozzi.,Hanno mandato degli scagnozzi.
+Ho sentito parlare di te.,Ho sentito parlare di te.
+I,I
+"I conti tornano sempre: quattro monete in più a round, e in bottega si tira sul prezzo.","I conti tornano sempre: quattro monete in più a round, e in bottega si tira sul prezzo."
+II,II
+III,III
+IL BAR È STATO DIFESO.,IL BAR È STATO DIFESO.
+IL BAR È STATO PERSO.,IL BAR È STATO PERSO.
+IL TUO MAZZO,IL TUO MAZZO
+INIZIO PARTITA.,INIZIO PARTITA.
+INNESTI,INNESTI
+Il Baro,Il Baro
+Il Baro appoggia il mazzo sul tavolo.,Il Baro appoggia il mazzo sul tavolo.
+Il Baro guarda il protagonista.,Il Baro guarda il protagonista.
+Il Baro osserva il risultato della partita.,Il Baro osserva il risultato della partita.
+Il Baro raccoglie le proprie carte.,Il Baro raccoglie le proprie carte.
+Il Baro resta in silenzio per un momento.,Il Baro resta in silenzio per un momento.
+Il Baro ritorna al tavolo e sistema le proprie carte.,Il Baro ritorna al tavolo e sistema le proprie carte.
+Il Baro si allontana dal tavolo. GiGi ci salta sopra.,Il Baro si allontana dal tavolo. GiGi ci salta sopra.
+Il Baro si allontana.,Il Baro si allontana.
+Il Fabbro,Il Fabbro
+Il Professore,Il Professore
+Il Signorotto,Il Signorotto
+Il Valore della Vigna,Il Valore della Vigna
+Il Vecchio Contadino,Il Vecchio Contadino
+Il banco dei pegni,Il banco dei pegni
+Il bar,Il bar
+Il bar esplode in un'esultanza.,Il bar esplode in un'esultanza.
+Il bar resta nostro.,Il bar resta nostro.
+Il bar resterà qui.,Il bar resterà qui.
+Il bar rimane acceso nel centro della città.,Il bar rimane acceso nel centro della città.
+Il bar è salvo.,Il bar è salvo.
+Il barista,Il barista
+Il bocciolo si è aperto: semina come prima e cura di più.,Il bocciolo si è aperto: semina come prima e cura di più.
+Il cielo si chiude in dieci minuti. Il carro è scoperto e il paese è ancora lontano.,Il cielo si chiude in dieci minuti. Il carro è scoperto e il paese è ancora lontano.
+Il colore attraversa i mazzi: Cuori e Quadri sono rosse quanto il Rosso di One.,Il colore attraversa i mazzi: Cuori e Quadri sono rosse quanto il Rosso di One.
+"Il colpo più pesante del mazzo, e porta via anche una carta.","Il colpo più pesante del mazzo, e porta via anche una carta."
+Il conto torna: quattro monete in più.,Il conto torna: quattro monete in più.
+Il fiore è grande quanto lui. Semina e ti rimette in piedi.,Il fiore è grande quanto lui. Semina e ti rimette in piedi.
+Il gestore,Il gestore
+Il gestore annuisce.,Il gestore annuisce.
+Il gestore esce da dietro il bancone.,Il gestore esce da dietro il bancone.
+Il giocatore,Il giocatore
+Il mazzo è già al minimo,Il mazzo è già al minimo
+Il piazzale è pieno di banchi. Hai un carro mezzo vuoto e tutto il pomeriggio davanti.,Il piazzale è pieno di banchi. Hai un carro mezzo vuoto e tutto il pomeriggio davanti.
+"Il protagonista entra nel bar. L'atmosfera è stranamente silenziosa. Sul bancone ci sono documenti, carte e un grosso cartello con il logo della Megacorp.","Il protagonista entra nel bar. L'atmosfera è stranamente silenziosa. Sul bancone ci sono documenti, carte e un grosso cartello con il logo della Megacorp."
+Il protagonista guarda GiGi.,Il protagonista guarda GiGi.
+Il protagonista guarda fuori dalla finestra.,Il protagonista guarda fuori dalla finestra.
+Il protagonista guarda il bar.,Il protagonista guarda il bar.
+Il protagonista rimane immobile.,Il protagonista rimane immobile.
+Il pupazzo parla?,Il pupazzo parla?
+Il tavolo,Il tavolo
+Il tavolo si illumina.,Il tavolo si illumina.
+Il tempo per quella carta si ferma: non avanza verso la sua ,Il tempo per quella carta si ferma: non avanza verso la sua 
+Il temporale,Il temporale
+"Il vecchio del posto. Quando si sveglia mette nel mazzo una creatura di livello uno, e non si sa quale.","Il vecchio del posto. Quando si sveglia mette nel mazzo una creatura di livello uno, e non si sa quale."
+Il vecchio sull'aia,Il vecchio sull'aia
+"Il veleno lavora piano, e non se ne va più.","Il veleno lavora piano, e non se ne va più."
+Impegna due carte,Impegna due carte
+Indietro,Indietro
+Innesto messo su %s,Innesto messo su %s
+Interessante.,Interessante.
+J,J
+Jolly,Jolly
+K,K
+L'Oste,L'Oste
+L'Ubriacone,L'Ubriacone
+L'antigh,L'antigh
+"L'autobriscola si gioca da soli. Tu prepari il mazzo, le carte fanno il resto.","L'autobriscola si gioca da soli. Tu prepari il mazzo, le carte fanno il resto."
+L'avversario,L'avversario
+L'aziana,L'aziana
+L'effetto vale una volta e mezza.,L'effetto vale una volta e mezza.
+"L'oro arriva vincendo, e dalle carte che ne fanno.","L'oro arriva vincendo, e dalle carte che ne fanno."
+L'osteria sulla via,L'osteria sulla via
+LE TUE RELIQUIE,LE TUE RELIQUIE
+La Ladra,La Ladra
+La Megacorp lo prende.,La Megacorp lo prende.
+La Megacorp prende il bar.,La Megacorp prende il bar.
+La Vecchia,La Vecchia
+La bottega del fabbro,La bottega del fabbro
+La carta del protagonista viene posata sul tavolo.,La carta del protagonista viene posata sul tavolo.
+La catena non parte da zero: comincia ogni battaglia con due anelli già fatti.,La catena non parte da zero: comincia ogni battaglia con due anelli già fatti.
+La città appare attraverso le finestre.,La città appare attraverso le finestre.
+La colletta,La colletta
+La crescita **resta per il resto della partita**: dal round dopo nel mazzo c'è ,La crescita **resta per il resto della partita**: dal round dopo nel mazzo c'è 
+"La cura rimette vita, mai oltre il massimo.","La cura rimette vita, mai oltre il massimo."
+La fiera del paese,La fiera del paese
+La partita di prova,La partita di prova
+La partita finisce qui,La partita finisce qui
+La partita finisce qui.,La partita finisce qui.
+"La porta si apre. Entra IL BARO, rappresentante della Megacorp, con una valigetta.","La porta si apre. Entra IL BARO, rappresentante della Megacorp, con una valigetta."
+La prossima volta vincerò.,La prossima volta vincerò.
+La sagra di mezz'agosto,La sagra di mezz'agosto
+La sfida è conclusa.,La sfida è conclusa.
+La tua compagna arriva sbuffando: un altro sabato pomeriggio buttato a giocare a carte invece di andare al centro commerciale con lei. La situazione è tesa. Devi scegliere.,La tua compagna arriva sbuffando: un altro sabato pomeriggio buttato a giocare a carte invece di andare al centro commerciale con lei. La situazione è tesa. Devi scegliere.
+La visuale si allontana.,La visuale si allontana.
+Label,Label
+Lama,Lama
+Lava via quello che rode: veleno e sanguinamento se ne vanno.,Lava via quello che rode: veleno e sanguinamento se ne vanno.
+Le carte di GiGi,Le carte di GiGi
+Le carte vengono distribuite.,Le carte vengono distribuite.
+"Le conosci tutte, e sai già cosa sanno fare: i Gaiofanamon valgono due in più.","Le conosci tutte, e sai già cosa sanno fare: i Gaiofanamon valgono due in più."
+Le insegne della Megacorp illuminano una parte di Gaiofana.,Le insegne della Megacorp illuminano una parte di Gaiofana.
+Le insegne della città si accendono una dopo l'altra.,Le insegne della città si accendono una dopo l'altra.
+Le linee evolutive imparate a memoria: le creature si fanno aspettare un quinto di meno.,Le linee evolutive imparate a memoria: le creature si fanno aspettare un quinto di meno.
+Le luci del bar si spengono.,Le luci del bar si spengono.
+Le prime due volte che si scarta torna in fondo al mazzo.,Le prime due volte che si scarta torna in fondo al mazzo.
+Le prime luci della città si accendono.,Le prime luci della città si accendono.
+Le reliquie si comprano una volta e valgono per tutta la partita. Non vanno nel mazzo.,Le reliquie si comprano una volta e valgono per tutta la partita. Non vanno nel mazzo.
+"Le vite sono il tempo che hai. Perdere presto costa una vita, perdere tardi tre.","Le vite sono il tempo che hai. Perdere presto costa una vita, perdere tardi tre."
+"Lente, effetti grossi. Consumano poco mazzo e vincono per esaurimento.","Lente, effetti grossi. Consumano poco mazzo e vincono per esaurimento."
+Lo sappiamo.,Lo sappiamo.
+Lo scambio,Lo scambio
+Lo scudo si mangia i danni prima della vita. Veleno e sanguinamento gli passano attraverso.,Lo scudo si mangia i danni prima della vita. Veleno e sanguinamento gli passano attraverso.
+Lo so.,Lo so.
+Lo sono.,Lo sono.
+Lo vedremo.,Lo vedremo.
+Luca Tamburini,Luca Tamburini
+MA LA MEGACORP NON HA FINITO.,MA LA MEGACORP NON HA FINITO.
+MELON HUSK VS PROTAGONISTA,MELON HUSK VS PROTAGONISTA
+Ma abbiamo deciso di darvi una possibilità.,Ma abbiamo deciso di darvi una possibilità.
+"Ma il Blocco la spegne, e il Pesca Quattro te lo mescola nel mazzo.","Ma il Blocco la spegne, e il Pesca Quattro te lo mescola nel mazzo."
+Ma non abbastanza da arrendermi.,Ma non abbastanza da arrendermi.
+Mangia come si deve,Mangia come si deve
+Mangia e riposa,Mangia e riposa
+Manuale Definitivo del Gaiofanamon,Manuale Definitivo del Gaiofanamon
+Mascotte e allenatore.,Mascotte e allenatore.
+Matteo Masini,Matteo Masini
+Melassa,Melassa
+Melon Husk,Melon Husk
+Melon Husk guarda GiGi.,Melon Husk guarda GiGi.
+Melon Husk guarda il locale.,Melon Husk guarda il locale.
+Melon Husk lo ignora.,Melon Husk lo ignora.
+Melon Husk osserva il risultato della partita.,Melon Husk osserva il risultato della partita.
+Melon Husk si alza.,Melon Husk si alza.
+Melon Husk si ferma sulla porta.,Melon Husk si ferma sulla porta.
+Melon Husk si ferma.,Melon Husk si ferma.
+Melon Husk si siede.,Melon Husk si siede.
+Melon Husk sorride.,Melon Husk sorride.
+"Melon Husk è seduto al tavolo, davanti al proprio mazzo.","Melon Husk è seduto al tavolo, davanti al proprio mazzo."
+Melon Husk.,Melon Husk.
+Melon Husk?,Melon Husk?
+Menu principale,Menu principale
+Mette %s nel tuo mazzo,Mette %s nel tuo mazzo
+Mette nel tuo mazzo una fra %s,Mette nel tuo mazzo una fra %s
+Metti giù le carte. È stata una bella corsa.,Metti giù le carte. È stata una bella corsa.
+Metà delle volte raddoppia il colpo.,Metà delle volte raddoppia il colpo.
+Mi interessa questo bar.,Mi interessa questo bar.
+Mie in pila,Mie in pila
+Mischia il mazzo con una mano sola e ti sorride. «Una partita sola. Poi ti lascio in pace.»,Mischia il mazzo con una mano sola e ti sorride. «Una partita sola. Poi ti lascio in pace.»
+Molto bene.,Molto bene.
+Molto più bravi.,Molto più bravi.
+Molto. Posso allenarti.,Molto. Posso allenarti.
+Musica,Musica
+"Ne hai di lente. Queste aspettano poco e fanno poco, ma arrivano in tempo.","Ne hai di lente. Queste aspettano poco e fanno poco, ma arrivano in tempo."
+Ne ho già di carte.,Ne ho già di carte.
+Neanche a me.,Neanche a me.
+"Nel mazzo ci finisce in un modo solo: ce l'hai messa tu, giocando un Pesca Quattro. Quando entra in campo la catena si spegne.","Nel mazzo ci finisce in un modo solo: ce l'hai messa tu, giocando un Pesca Quattro. Quando entra in campo la catena si spegne."
+"Nessun colore ha un potere suo: quello che conta è la catena. Ogni volta che la carta che entra ha lo stesso colore o lo stesso numero di quella appena uscita, tutto il lato colpisce, cura e ripara di più.","Nessun colore ha un potere suo: quello che conta è la catena. Ogni volta che la carta che entra ha lo stesso colore o lo stesso numero di quella appena uscita, tutto il lato colpisce, cura e ripara di più."
+Nessuna partita salvata,Nessuna partita salvata
+New Game,New Game
+Niente.,Niente.
+No. Non ancora.,No. Non ancora.
+No?,No?
+Non abbastanza.,Non abbastanza.
+Non abbiamo scelto un posto qualsiasi.,Non abbiamo scelto un posto qualsiasi.
+Non ancora.,Non ancora.
+Non cala mai da sola.,Non cala mai da sola.
+"Non colpisce e non si sbriga: sta in campo e ti cura, un poco per ogni secondo.","Non colpisce e non si sbriga: sta in campo e ti cura, un poco per ogni secondo."
+"Non colpisce: potenzia il posto, per chi verrà dopo.","Non colpisce: potenzia il posto, per chi verrà dopo."
+Non confondere questa partita con la fine della Megacorp.,Non confondere questa partita con la fine della Megacorp.
+"Non conta: nessuna vittoria, nessuna vita.","Non conta: nessuna vittoria, nessuna vita."
+Non deve esserlo. Deve funzionare.,Non deve esserlo. Deve funzionare.
+Non dovrai aspettare molto.,Non dovrai aspettare molto.
+"Non fa niente di speciale. Continua solo a mettere sul tavolo carte che rendono più di quanto costano, finché non ti accorgi che stai perdendo.","Non fa niente di speciale. Continua solo a mettere sul tavolo carte che rendono più di quanto costano, finché non ti accorgi che stai perdendo."
+"Non fa tantissimo male. È che non ti lascia giocare: quando tocca a te, non tocca a te.","Non fa tantissimo male. È che non ti lascia giocare: quando tocca a te, non tocca a te."
+Non finisce qui.,Non finisce qui.
+"Non gioca un mazzo: li gioca tutti. Il poker per chiudere, la briscola per restare in piedi, One per non farti giocare e le creature per crescere mentre tu stai fermo.","Non gioca un mazzo: li gioca tutti. Il poker per chiudere, la briscola per restare in piedi, One per non farti giocare e le creature per crescere mentre tu stai fermo."
+"Non ha le carte più forti: ha le stesse carte di tutti, temperate meglio. Un Sei di Bastoni con due innesti sopra è un'altra cosa.","Non ha le carte più forti: ha le stesse carte di tutti, temperate meglio. Un Sei di Bastoni con due innesti sopra è un'altra cosa."
+Non ha mai giocato.,Non ha mai giocato.
+Non ha un seme e non ne vuole: prende la carta più imminente dell'avversario e si mette al suo posto.,Non ha un seme e non ne vuole: prende la carta più imminente dell'avversario e si mette al suo posto.
+Non incoraggiarlo.,Non incoraggiarlo.
+Non l'ha mai finita nessuno. Venti punti di vita massima.,Non l'ha mai finita nessuno. Venti punti di vita massima.
+Non lo incoraggio. Lo arruolo.,Non lo incoraggio. Lo arruolo.
+Non mi interessa la Megacorp.,Non mi interessa la Megacorp.
+Non mi piace questa frase.,Non mi piace questa frase.
+"Non ne hai ancora. Si comprano qui in bottega, una sola volta ciascuna.","Non ne hai ancora. Si comprano qui in bottega, una sola volta ciascuna."
+Non necessariamente tutti insieme.,Non necessariamente tutti insieme.
+Non passa dallo scudo. Al massimo %d per lato.,Non passa dallo scudo. Al massimo %d per lato.
+Non pensare che sia finita.,Non pensare che sia finita.
+Non prometto niente.,Non prometto niente.
+"Non sa nemmeno lui cosa sta facendo, ed è esattamente il motivo per cui non riesci a prevederlo.","Non sa nemmeno lui cosa sta facendo, ed è esattamente il motivo per cui non riesci a prevederlo."
+Non sarà così semplice.,Non sarà così semplice.
+Non sembra arrabbiato.,Non sembra arrabbiato.
+Non ti restano vite,Non ti restano vite
+"Non uccide adesso: toglie carte alla pila avversaria, ","Non uccide adesso: toglie carte alla pila avversaria, "
+Non è solo un bar.,Non è solo un bar.
+Non è successo niente.,Non è successo niente.
+Non è una vendita.,Non è una vendita.
+Nove,Nove
+Nove di Blu,Nove di Blu
+Nove di Cuori,Nove di Cuori
+Nove di Fiori,Nove di Fiori
+Nove di Giallo,Nove di Giallo
+Nove di Picche,Nove di Picche
+Nove di Quadri,Nove di Quadri
+Nove di Rosso,Nove di Rosso
+Nove di Verde,Nove di Verde
+Nove.,Nove.
+Nove?,Nove?
+Nuovo record!,Nuovo record!
+ORO,ORO
+"Ogni carta che aggiungi allunga il mazzo: dura di più, ma tira fuori le buone più di rado.","Ogni carta che aggiungi allunga il mazzo: dura di più, ma tira fuori le buone più di rado."
+Ogni secondo,Ogni secondo
+Ogni secondo: %s,Ogni secondo: %s
+One,One
+One — quattro colori,One — quattro colori
+Oro,Oro
+Oro avanzato,Oro avanzato
+Oro insufficiente,Oro insufficiente
+Oro raccolto in battaglia,Oro raccolto in battaglia
+"Oro vero, e una botta.","Oro vero, e una botta."
+Otto,Otto
+Otto di Blu,Otto di Blu
+Otto di Cuori,Otto di Cuori
+Otto di Fiori,Otto di Fiori
+Otto di Giallo,Otto di Giallo
+Otto di Picche,Otto di Picche
+Otto di Quadri,Otto di Quadri
+Otto di Rosso,Otto di Rosso
+Otto di Verde,Otto di Verde
+Paga bene: cinque monete oltre al resto.,Paga bene: cinque monete oltre al resto.
+Paga da bere a tutti,Paga da bere a tutti
+"Panciotto viola e un piano preciso. Figure e carte alte, una dietro l'altra, e One quel tanto che basta a comprarsi il tempo.","Panciotto viola e un piano preciso. Figure e carte alte, una dietro l'altra, e One quel tanto che basta a comprarsi il tempo."
+Paralisi,Paralisi
+Paralizza per %d secondi,Paralizza per %d secondi
+Paralizza per %d secondo,Paralizza per %d secondo
+Parte con otto decimi di secondo di anticipo.,Parte con otto decimi di secondo di anticipo.
+"Parte con poco e continua a far crescere quello che ha. Nei primi secondi è debole; se la lasci giocare, non lo è più.","Parte con poco e continua a far crescere quello che ha. Nei primi secondi è debole; se la lasci giocare, non lo è più."
+Partendo da qui.,Partendo da qui.
+Partita di prova,Partita di prova
+Passa attraverso lo scudo e arriva dritto alla vita.,Passa attraverso lo scudo e arriva dritto alla vita.
+Passa attraverso lo scudo e lascia la ferita aperta.,Passa attraverso lo scudo e lascia la ferita aperta.
+Passi in un vicolo e senti qualcosa venire da un bidone lì accanto. Ti si rizzano i peli sulle braccia e l'aria sa di temporale.,Passi in un vicolo e senti qualcosa venire da un bidone lì accanto. Ti si rizzano i peli sulle braccia e l'aria sa di temporale.
+Pausa.,Pausa.
+Per questo siete qui.,Per questo siete qui.
+"Per tre incontri tutte le tue carte vanno un decimo più svelte. Poi passa, come passano le notti.","Per tre incontri tutte le tue carte vanno un decimo più svelte. Poi passa, come passano le notti."
+Perché dovrei buttare una carta che ho comprato?,Perché dovrei buttare una carta che ho comprato?
+"Perché il mazzo non si rimescola: se devi rimpiazzare e la pila è vuota, hai perso.","Perché il mazzo non si rimescola: se devi rimpiazzare e la pila è vuota, hai perso."
+Perché sta diventando una città.,Perché sta diventando una città.
+Perché una carta scarsa è una carta buona che non peschi. Togliere è metà del mestiere.,Perché una carta scarsa è una carta buona che non peschi. Togliere è metà del mestiere.
+Perché?,Perché?
+Perso ai punti.,Perso ai punti.
+Perso: ti ha steso.,Perso: ti ha steso.
+Perso: ti sono finite le carte.,Perso: ti sono finite le carte.
+Pesante,Pesante
+Pesca Due,Pesca Due
+Pesca Due di Blu,Pesca Due di Blu
+Pesca Due di Giallo,Pesca Due di Giallo
+Pesca Due di Rosso,Pesca Due di Rosso
+Pesca Due di Verde,Pesca Due di Verde
+Pesca Quattro,Pesca Quattro
+"Pianta un Germoglio in cima al mazzo, e intanto cura un poco.","Pianta un Germoglio in cima al mazzo, e intanto cura un poco."
+Picche,Picche
+Più vittorie,Più vittorie
+"Più è lunga, più tutto il tuo lato colpisce, cura e ripara. E non cala da sola.","Più è lunga, più tutto il tuo lato colpisce, cura e ripara. E non cala da sola."
+Poi ci sono i Gaiofanamon. Si comprano solo di livello uno.,Poi ci sono i Gaiofanamon. Si comprano solo di livello uno.
+Pokedex,Pokedex
+Poker,Poker
+Poker — le carte di città,Poker — le carte di città
+Possiamo cominciare.,Possiamo cominciare.
+"Potenzia il posto, non la carta: ne gode chiunque ci passi ","Potenzia il posto, non la carta: ne gode chiunque ci passi "
+Potenzia le tue carte fino a fine battaglia,Potenzia le tue carte fino a fine battaglia
+Potenzia lo slot,Potenzia lo slot
+Premio del round,Premio del round
+Prende il documento dell'acquisizione.,Prende il documento dell'acquisizione.
+Prende il mazzo.,Prende il mazzo.
+Prende la carta avversaria più vicina a partire e si mette al suo ,Prende la carta avversaria più vicina a partire e si mette al suo 
+Prendendo il bar?,Prendendo il bar?
+Prendi il Fuoco,Prendi il Fuoco
+Prendi l'Acqua,Prendi l'Acqua
+Prendi l'Elettro,Prendi l'Elettro
+Prendi l'Erba,Prendi l'Erba
+Prima dovrete passare da noi.,Prima dovrete passare da noi.
+Primo punto!,Primo punto!
+Primo punto?,Primo punto?
+Procedi a passo svelto,Procedi a passo svelto
+ProgressBar,ProgressBar
+Prosegui,Prosegui
+Q,Q
+Quadri,Quadri
+Qualche minuto ce l'abbiamo. Prima giochi contro di me: questa non conta.,Qualche minuto ce l'abbiamo. Prima giochi contro di me: questa non conta.
+Qualcuno,Qualcuno
+Qualunque cosa succeda...,Qualunque cosa succeda...
+"Quando gli altri falliscono, arrivo io.","Quando gli altri falliscono, arrivo io."
+"Quando hai finito, di qua: ti faccio vedere chi ti aspetta. Da lì si torna indietro.","Quando hai finito, di qua: ti faccio vedere chi ti aspetta. Da lì si torna indietro."
+Quando la carta che entra in uno slot ha lo stesso colore o lo ,Quando la carta che entra in uno slot ha lo stesso colore o lo 
+Quanti?,Quanti?
+Quattro,Quattro
+"Quattro anelli di catena in un colpo solo, e quattro carte in meno all'avversario. Il prezzo è un Blocco nel tuo mazzo: prima o poi uscirà, e quel giorno la catena si spegne.","Quattro anelli di catena in un colpo solo, e quattro carte in meno all'avversario. Il prezzo è un Blocco nel tuo mazzo: prima o poi uscirà, e quel giorno la catena si spegne."
+Quattro di Bastoni,Quattro di Bastoni
+Quattro di Blu,Quattro di Blu
+Quattro di Coppe,Quattro di Coppe
+Quattro di Cuori,Quattro di Cuori
+Quattro di Denari,Quattro di Denari
+Quattro di Fiori,Quattro di Fiori
+Quattro di Giallo,Quattro di Giallo
+Quattro di Picche,Quattro di Picche
+Quattro di Quadri,Quattro di Quadri
+Quattro di Rosso,Quattro di Rosso
+Quattro di Spade,Quattro di Spade
+Quattro di Verde,Quattro di Verde
+Quella carta ha già due innesti,Quella carta ha già due innesti
+Quella era solo la prima sfida.,Quella era solo la prima sfida.
+"Quelle colorate sono di One: hanno un colore e un numero, e contano tutti e due.","Quelle colorate sono di One: hanno un colore e un numero, e contano tutti e due."
+Questa la mia. Portala a zero e hai vinto.,Questa la mia. Portala a zero e hai vinto.
+Questa non è una grande rassicurazione.,Questa non è una grande rassicurazione.
+Questa non è una risposta.,Questa non è una risposta.
+Questa risposta mi piace.,Questa risposta mi piace.
+Questa è la tua vita. A zero è finita.,Questa è la tua vita. A zero è finita.
+Questi numeri non arrivano all'attivazione: arrivano per ,Questi numeri non arrivano all'attivazione: arrivano per 
+Questo sarà il primo passo della Megacorp a Gaiofana.,Questo sarà il primo passo della Megacorp a Gaiofana.
+Questo è il simbolo di Gaiofana.,Questo è il simbolo di Gaiofana.
+Questo è l'unico bar di Gaiofana.,Questo è l'unico bar di Gaiofana.
+Qui c'è quanto ti resta in pila. Guardalo spesso.,Qui c'è quanto ti resta in pila. Guardalo spesso.
+Quindi basta batterli.,Quindi basta batterli.
+Quindi il bar è tuo.,Quindi il bar è tuo.
+R,R
+RELIQUIE,RELIQUIE
+ROUND,ROUND
+Raccoglila e aggiungila al mazzo,Raccoglila e aggiungila al mazzo
+Racconti di Gaiofana,Racconti di Gaiofana
+"Rallenta di 1,5 secondi tutte le carte avversarie.","Rallenta di 1,5 secondi tutte le carte avversarie."
+Rataz,Rataz
+Re,Re
+Re di Bastoni,Re di Bastoni
+Re di Coppe,Re di Coppe
+Re di Cuori,Re di Cuori
+Re di Denari,Re di Denari
+Re di Fiori,Re di Fiori
+Re di Picche,Re di Picche
+Re di Quadri,Re di Quadri
+Re di Spade,Re di Spade
+Record,Record
+Recupera %d carta dai tuoi scarti,Recupera %d carta dai tuoi scarti
+Recupera %d carte dai tuoi scarti,Recupera %d carte dai tuoi scarti
+Recuperare,Recuperare
+Reliquie,Reliquie
+Resta vostro.,Resta vostro.
+Restituiscila alla signora,Restituiscila alla signora
+Ricomincia,Ricomincia
+Rifiuta,Rifiuta
+Rimescola (%d),Rimescola (%d)
+Rintocco,Rintocco
+"Riporta carte dagli scarti in fondo alla pila: si rigiocheranno, ","Riporta carte dagli scarti in fondo alla pila: si rigiocheranno, "
+Riprendi da dove eri rimasto,Riprendi da dove eri rimasto
+Ripresa dal round %d,Ripresa dal round %d
+Roba nuova in vetrina,Roba nuova in vetrina
+Rosso,Rosso
+Rosso come quello che ci finisce dentro: le carte rosse valgono due in più.,Rosso come quello che ci finisce dentro: le carte rosse valgono due in più.
+Round,Round
+Round %d,Round %d
+Round %d perso,Round %d perso
+Round %d vinto,Round %d vinto
+Rovista nel bidone,Rovista nel bidone
+Ruba la carta avversaria più vicina a partire,Ruba la carta avversaria più vicina a partire
+Rubare,Rubare
+SAN,SAN
+SCONFITTA.,SCONFITTA.
+SCU,SCU
+SFIDA FINALE,SFIDA FINALE
+SHIFT per come funziona,SHIFT per come funziona
+Sai perché la Megacorp vuole Gaiofana?,Sai perché la Megacorp vuole Gaiofana?
+Salta ▸,Salta ▸
+Sandalo del Giocatore Sfortunato,Sandalo del Giocatore Sfortunato
+Sanguinamento,Sanguinamento
+Scartare dal mazzo,Scartare dal mazzo
+Scegli l'autobriscola,Scegli l'autobriscola
+Scegli la carta da buttare,Scegli la carta da buttare
+Scegli la carta su cui mettere l'innesto,Scegli la carta su cui mettere l'innesto
+Scegli lei,Scegli lei
+Scintela,Scintela
+Sconfitta,Sconfitta
+Scorta,Scorta
+Scudo,Scudo
+"Scudo massiccio, e due secondi di attesa in più per l'avversario.","Scudo massiccio, e due secondi di attesa in più per l'avversario."
+"Se in vetrina non c'è niente che ti piace, paghi e cambia tutto.","Se in vetrina non c'è niente che ti piace, paghi e cambia tutto."
+Se la carta che entra somiglia a quella che esce — stesso colore o stesso numero — parte la catena.,Se la carta che entra somiglia a quella che esce — stesso colore o stesso numero — parte la catena.
+"Se vincete, il bar resta vostro.","Se vincete, il bar resta vostro."
+"Se vinci, voglio vantarmi per una settimana.","Se vinci, voglio vantarmi per una settimana."
+"Se vinco, questo bar sarà della Megacorp.","Se vinco, questo bar sarà della Megacorp."
+Se vuoi contarli.,Se vuoi contarli.
+Sei,Sei
+Sei arrivato.,Sei arrivato.
+Sei di Bastoni,Sei di Bastoni
+Sei di Blu,Sei di Blu
+Sei di Coppe,Sei di Coppe
+Sei di Cuori,Sei di Cuori
+Sei di Denari,Sei di Denari
+Sei di Fiori,Sei di Fiori
+Sei di Giallo,Sei di Giallo
+Sei di Picche,Sei di Picche
+Sei di Quadri,Sei di Quadri
+Sei di Rosso,Sei di Rosso
+Sei di Spade,Sei di Spade
+Sei di Verde,Sei di Verde
+Sei un pupazzo.,Sei un pupazzo.
+Sembra da collezione: vendila,Sembra da collezione: vendila
+"Semina: mette in cima al mazzo un Germoglio, che cura finché resta in campo.","Semina: mette in cima al mazzo un Germoglio, che cura finché resta in campo."
+Sempre che non distruggiate tutto prima.,Sempre che non distruggiate tutto prima.
+Senza il suo simbolo.,Senza il suo simbolo.
+Senza questo posto.,Senza questo posto.
+Sette,Sette
+Sette di Bastoni,Sette di Bastoni
+Sette di Blu,Sette di Blu
+Sette di Coppe,Sette di Coppe
+Sette di Cuori,Sette di Cuori
+Sette di Denari,Sette di Denari
+Sette di Fiori,Sette di Fiori
+Sette di Giallo,Sette di Giallo
+Sette di Picche,Sette di Picche
+Sette di Quadri,Sette di Quadri
+Sette di Rosso,Sette di Rosso
+Sette di Spade,Sette di Spade
+Sette di Verde,Sette di Verde
+Setting,Setting
+Sgorga,Sgorga
+Sgorga Da Bon,Sgorga Da Bon
+SgorgaDaBon,SgorgaDaBon
+Si alza.,Si alza.
+"Si attivano, evolvono e finiscono negli scarti — ma restano cresciuti per tutta la partita.","Si attivano, evolvono e finiscono negli scarti — ma restano cresciuti per tutta la partita."
+Si comincia,Si comincia
+"Si comprano solo di livello uno. Ogni volta che si attivano crescono e finiscono negli scarti, e **la crescita resta per il resto della partita**: un cucciolo comprato adesso è un veterano fra due round.","Si comprano solo di livello uno. Ogni volta che si attivano crescono e finiscono negli scarti, e **la crescita resta per il resto della partita**: un cucciolo comprato adesso è un veterano fra due round."
+Si dirige verso l'uscita.,Si dirige verso l'uscita.
+"Si vince prima del tavolo, non al tavolo. Ma questo lo capisci dopo.","Si vince prima del tavolo, non al tavolo. Ma questo lo capisci dopo."
+Siediti.,Siediti.
+Silenzio.,Silenzio.
+Sono qui per scoprirlo.,Sono qui per scoprirlo.
+Sorc,Sorc
+"Sotto ogni carta una barra: è l'attesa. Quando finisce, la carta fa il suo effetto e va negli scarti.","Sotto ogni carta una barra: è l'attesa. Quando finisce, la carta fa il suo effetto e va negli scarti."
+Spade,Spade
+Spegne la catena,Spegne la catena
+Spero bene.,Spero bene.
+Sprone,Sprone
+"Sta bene con qualunque colore: dovunque la metti, la catena continua. Numero non ne ha, quindi da quella parte non lega niente.","Sta bene con qualunque colore: dovunque la metti, la catena continua. Numero non ne ha, quindi da quella parte non lega niente."
+Sta diventando abbastanza grande da essere considerata una città.,Sta diventando abbastanza grande da essere considerata una città.
+Sta nei bidoni e morde le prese. Ferma la carta avversaria più vicina a partire.,Sta nei bidoni e morde le prese. Ferma la carta avversaria più vicina a partire.
+"Sta seduto da ore. Dice che una volta la terra rendeva il doppio, e che lui sa il perché.","Sta seduto da ore. Dice che una volta la terra rendeva il doppio, e che lui sa il perché."
+Sta' a sentire i discorsi,Sta' a sentire i discorsi
+Storie di campagna raccontate bene: le carte di briscola si fanno aspettare un decimo di meno.,Storie di campagna raccontate bene: le carte di briscola si fanno aspettare un decimo di meno.
+Svelto,Svelto
+Sì.,Sì.
+Sì. Avete venduto?,Sì. Avete venduto?
+Tarlo,Tarlo
+Tavola delle Sacre Puntate,Tavola delle Sacre Puntate
+"Tavolate lunghe cento metri, fisarmonica, e gente che balla fino a domani.","Tavolate lunghe cento metri, fisarmonica, e gente che balla fino a domani."
+Tempo.,Tempo.
+Thomas Michelini,Thomas Michelini
+Ti aspetta %s,Ti aspetta %s
+Ti ho sottovalutato.,Ti ho sottovalutato.
+Ti insegno io.,Ti insegno io.
+Ti lava via veleno e sanguinamento,Ti lava via veleno e sanguinamento
+Ti si avvicina un ragazzino: vorrebbe scambiare uno dei suoi Gaiofanamon con uno dei tuoi. Dice che il suo è più forte. Dicono tutti così.,Ti si avvicina un ragazzino: vorrebbe scambiare uno dei suoi Gaiofanamon con uno dei tuoi. Dice che il suo è più forte. Dicono tutti così.
+Tieni. Carte di città.,Tieni. Carte di città.
+Tira dritto sotto l'acqua,Tira dritto sotto l'acqua
+Tira via dritto,Tira via dritto
+Toglie %d punti al valore delle carte avversarie in campo,Toglie %d punti al valore delle carte avversarie in campo
+Toglie %d punto al valore delle carte avversarie in campo,Toglie %d punto al valore delle carte avversarie in campo
+Toglie il suo numero di vita ogni %.0f secondi e **non cala mai**: ,Toglie il suo numero di vita ogni %.0f secondi e **non cala mai**: 
+"Toglie il suo numero di vita ogni secondo, e ogni volta ","Toglie il suo numero di vita ogni secondo, e ogni volta "
+Torna alla bottega,Torna alla bottega
+Torna nel mazzo invece di finire negli scarti,Torna nel mazzo invece di finire negli scarti
+Tre,Tre
+Tre carte di One in più nel mazzo. Una scatola serve a questo.,Tre carte di One in più nel mazzo. Una scatola serve a questo.
+Tre carte di briscola in più nel mazzo. Una scatola serve a questo.,Tre carte di briscola in più nel mazzo. Una scatola serve a questo.
+Tre carte di poker in più nel mazzo. Una scatola serve a questo.,Tre carte di poker in più nel mazzo. Una scatola serve a questo.
+Tre decimi di effetto in più e un decimo di attesa in meno.,Tre decimi di effetto in più e un decimo di attesa in meno.
+Tre di Bastoni,Tre di Bastoni
+Tre di Blu,Tre di Blu
+Tre di Coppe,Tre di Coppe
+Tre di Cuori,Tre di Cuori
+Tre di Denari,Tre di Denari
+Tre di Fiori,Tre di Fiori
+Tre di Giallo,Tre di Giallo
+Tre di Picche,Tre di Picche
+Tre di Quadri,Tre di Quadri
+Tre di Rosso,Tre di Rosso
+Tre di Spade,Tre di Spade
+Tre di Verde,Tre di Verde
+Troppe di città e resti a secco. Troppe di campagna e ti stendono prima.,Troppe di città e resti a secco. Troppe di campagna e ti stendono prima.
+Tu,Tu
+Tu giochi?,Tu giochi?
+Un attrezzo da campo tenuto affilato come non dovrebbe. Le Spade colpiscono tre in più.,Un attrezzo da campo tenuto affilato come non dovrebbe. Le Spade colpiscono tre in più.
+"Un colore, e nient'altro: quello che la carta fa lo dice il numero. Il colore serve alla catena.","Un colore, e nient'altro: quello che la carta fa lo dice il numero. Il colore serve alla catena."
+"Un fegato allenato a tutto. Veleno e sanguinamento ti attaccano addosso uno in meno, ogni volta.","Un fegato allenato a tutto. Veleno e sanguinamento ti attaccano addosso uno in meno, ogni volta."
+Un incontro,Un incontro
+Un piccolo pupazzo di coccio spunta da dietro il bancone.,Un piccolo pupazzo di coccio spunta da dietro il bancone.
+Un piccolo rumore di coccio.,Un piccolo rumore di coccio.
+Un problema shockante,Un problema shockante
+"Un pupazzo di legno alto quanto una bottiglia, e l'unico in tutto il bar che sappia davvero giocare. Questa partita non conta: serve a te per capire come si sta al tavolo.","Un pupazzo di legno alto quanto una bottiglia, e l'unico in tutto il bar che sappia davvero giocare. Questa partita non conta: serve a te per capire come si sta al tavolo."
+"Un signore vestito come se fosse in laboratorio ti chiede se sai cosa sono i Gaiofanamon. Fai cenno di sì, e lui subito ti domanda se ne vuoi uno che ti aiuti nell'impresa.","Un signore vestito come se fosse in laboratorio ti chiede se sai cosa sono i Gaiofanamon. Fai cenno di sì, e lui subito ti domanda se ne vuoi uno che ti aiuti nell'impresa."
+"Un tavolo più grande: una carta in più in campo. Ma sei carte si consumano più in fretta di cinque, e il mazzo lo sa.","Un tavolo più grande: una carta in più in campo. Ma sei carte si consumano più in fretta di cinque, e il mazzo lo sa."
+Una Notte da Ricordare,Una Notte da Ricordare
+"Una creatura sola, e non sai quale: fuoco, acqua o erba in parti uguali. Una volta su cento, però, dentro c'è L'antigh.","Una creatura sola, e non sai quale: fuoco, acqua o erba in parti uguali. Una volta su cento, però, dentro c'è L'antigh."
+Una luce si accende in fondo alla sala.,Una luce si accende in fondo alla sala.
+Una partita.,Una partita.
+Una partita?,Una partita?
+Una scelta difficile,Una scelta difficile
+Una scintilla che non sta ferma: colpisce e dà una spinta alle tue altre carte.,Una scintilla che non sta ferma: colpisce e dà una spinta alle tue altre carte.
+"Una signora coperta da capo a piedi, di sicuro non della zona, ti viene addosso e tira dritto. Per terra le è caduta una carta. È un Gaiofanamon che non hai mai visto, e il nome ti lascia perplesso: «L'antigh».","Una signora coperta da capo a piedi, di sicuro non della zona, ti viene addosso e tira dritto. Per terra le è caduta una carta. È un Gaiofanamon che non hai mai visto, e il nome ti lascia perplesso: «L'antigh»."
+Uno,Uno
+Uno dei nostri momenti migliori.,Uno dei nostri momenti migliori.
+Uno di Blu,Uno di Blu
+Uno di Giallo,Uno di Giallo
+Uno di Rosso,Uno di Rosso
+Uno di Verde,Uno di Verde
+Uno per Tutti Tutti per Uan,Uno per Tutti Tutti per Uan
+"Uno sputo d'acqua pulita: si porta via veleno e sanguinamento, e rimette in sesto.","Uno sputo d'acqua pulita: si porta via veleno e sanguinamento, e rimette in sesto."
+VEL,VEL
+VITTORIA.,VITTORIA.
+"Vale anche per me. Un mazzo stende l'avversario, l'altro aspetta che finisca le carte.","Vale anche per me. Un mazzo stende l'avversario, l'altro aspetta che finisca le carte."
+"Vale per tutte le tue carte, comprese quelle che ","Vale per tutte le tue carte, comprese quelle che "
+Valori,Valori
+Vedi il risultato,Vedi il risultato
+Vedi mazzo (%d),Vedi mazzo (%d)
+Vedi reliquie (%d),Vedi reliquie (%d)
+Veleno,Veleno
+"Veloci, effetti piccoli. Consumano il mazzo in fretta e vincono per ferite.","Veloci, effetti piccoli. Consumano il mazzo in fretta e vincono per ferite."
+Velocità della battaglia,Velocità della battaglia
+Vendi quello che hai,Vendi quello che hai
+Vendigli il ferro vecchio,Vendigli il ferro vecchio
+Verde,Verde
+Vestito per il tavolo che conta: tutte le figure valgono tre in più.,Vestito per il tavolo che conta: tutte le figure valgono tre in più.
+Veterano,Veterano
+Veterano di Acqua,Veterano di Acqua
+Veterano di Erba,Veterano di Erba
+Veterano di Fuoco,Veterano di Fuoco
+Vinto ai punti.,Vinto ai punti.
+Vinto: gli sono finite le carte.,Vinto: gli sono finite le carte.
+Vinto: l'hai steso.,Vinto: l'hai steso.
+Vita,Vita
+Vite,Vite
+Vite perse,Vite perse
+Vite rimaste,Vite rimaste
+Vittoria,Vittoria
+Vittoria %d di %d — %s,Vittoria %d di %d — %s
+Vittorie,Vittorie
+Vittorie %d/%d,Vittorie %d/%d
+Vogliono prendere il bar.,Vogliono prendere il bar.
+Volume generale,Volume generale
+X,X
+Zappa da Guerra,Zappa da Guerra
+Zappador,Zappador
+Zappin,Zappin
+Zappoun,Zappoun
+Zero,Zero
+Zero di Blu,Zero di Blu
+Zero di Giallo,Zero di Giallo
+Zero di Rosso,Zero di Rosso
+Zero di Verde,Zero di Verde
+affretta,affretta
+aggiunge al mazzo,aggiunge al mazzo
+arriverai alla prossima battaglia con un decimo di vita in meno,arriverai alla prossima battaglia con un decimo di vita in meno
+attivazione finché non passa.,attivazione finché non passa.
+brucia,brucia
+butta,butta
+carta sconosciuta: %s (es. picche_c7),carta sconosciuta: %s (es. picche_c7)
+carte da poker contro carte romagnole,carte da poker contro carte romagnole
+catena,catena
+"cinque Due di Picche, e valgono il doppio","cinque Due di Picche, e valgono il doppio"
+cura,cura
+danni,danni
+danni fino a fine match,danni fino a fine match
+danno,danno
+devono ancora entrare in campo.,devono ancora entrare in campo.
+"dieci vittorie, o niente","dieci vittorie, o niente"
+dopo. Uno solo per slot — quello nuovo cancella il vecchio.,dopo. Uno solo per slot — quello nuovo cancella il vecchio.
+due su tre finisce bene,due su tre finisce bene
+e il conto arriva quando dovrà rimpiazzarne una e non ne avrà più.,e il conto arriva quando dovrà rimpiazzarne una e non ne avrà più.
+entra nel mazzo: %s,entra nel mazzo: %s
+esce dal mazzo: %s,esce dal mazzo: %s
+game jam 2026,game jam 2026
+give <seme_valore> — aggiunge una carta al mazzo,give <seme_valore> — aggiunge una carta al mazzo
+gold [n] — regala oro,gold [n] — regala oro
+good,good
+hai imparato qualcosa,hai imparato qualcosa
+i Due di Picche valgono il doppio,i Due di Picche valgono il doppio
+il numero cala di uno: fa male subito e si spegne da solo. ,il numero cala di uno: fa male subito e si spegne da solo. 
+impari il mestiere: una figura nel mazzo,impari il mestiere: una figura nel mazzo
+in tasca: %s,in tasca: %s
+indebolisce,indebolisce
+info,info
+la creatura grande. Per rivederla in campo già in questa battaglia bisogna ,la creatura grande. Per rivederla in campo già in questa battaglia bisogna 
+la partita finisce qui,la partita finisce qui
+la prossima battaglia comincerà con le carte intorpidite,la prossima battaglia comincerà con le carte intorpidite
+la prossima battaglia comincerà male,la prossima battaglia comincerà male
+le sue %s si fanno aspettare il %d%% in meno,le sue %s si fanno aspettare il %d%% in meno
+le sue %s valgono %+d,le sue %s valgono %+d
+le sue %s valgono ×%.1f,le sue %s valgono ×%.1f
+le sue carte di %s si fanno aspettare il %d%% in meno,le sue carte di %s si fanno aspettare il %d%% in meno
+le sue carte di %s valgono %+d,le sue carte di %s valgono %+d
+le sue carte di %s valgono ×%.1f,le sue carte di %s valgono ×%.1f
+le sue carte si fanno aspettare il %d%% in meno,le sue carte si fanno aspettare il %d%% in meno
+le sue carte valgono %+d,le sue carte valgono %+d
+le sue carte valgono ×%.1f,le sue carte valgono ×%.1f
+log,log
+menu.best_label,menu.best_label
+"metà e metà: +1 vita, oppure −20 oro","metà e metà: +1 vita, oppure −20 oro"
+moneta,moneta
+name,name
+niente,niente
+ogni secondo che la carta passa ferma in plancia ad aspettare.,ogni secondo che la carta passa ferma in plancia ad aspettare.
+oro,oro
+paralizza,paralizza
+per ultime. È il modo di allontanare il momento in cui resti senza.,per ultime. È il modo di allontanare il momento in cui resti senza.
+posto. Lui dovrà pescarne un'altra: è un colpo alla plancia e al mazzo.,posto. Lui dovrà pescarne un'altra: è un colpo alla plancia e al mazzo.
+potenzia lo slot,potenzia lo slot
+"prendi Sorc, ma la paghi","prendi Sorc, ma la paghi"
+qualcuno,qualcuno
+rallenta,rallenta
+recupera,recupera
+recuperarla dagli scarti.,recuperarla dagli scarti.
+"resta fino a fine battaglia, o finché qualcosa non te lo lava via. ","resta fino a fine battaglia, o finché qualcosa non te lo lava via. "
+rimescola,rimescola
+ripulisce,ripulisce
+ruba una carta,ruba una carta
+sanguinamento,sanguinamento
+scarta dal mazzo,scarta dal mazzo
+scudo,scudo
+seed %d,seed %d
+sicuro: −6 oro,sicuro: −6 oro
+sigla,sigla
+skip — risolve subito la battaglia,skip — risolve subito la battaglia
+speed <n> — cambia la velocità della simulazione,speed <n> — cambia la velocità della simulazione
+spegne la catena,spegne la catena
+"stesso numero di quella appena uscita, la catena si allunga: da lì in poi ","stesso numero di quella appena uscita, la catena si allunga: da lì in poi "
+tag,tag
+text,text
+torna nel mazzo,torna nel mazzo
+un Cucciolo d'Acqua,un Cucciolo d'Acqua
+un Cucciolo d'Erba,un Cucciolo d'Erba
+un Cucciolo di Elettro,un Cucciolo di Elettro
+un Cucciolo di Fuoco,un Cucciolo di Fuoco
+"un colpo di fortuna, o una beffa","un colpo di fortuna, o una beffa"
+un innesto Affilato,un innesto Affilato
+un mazzo che non conosci,un mazzo che non conosci
+una carta su %d porta %d innesti: %s,una carta su %d porta %d innesti: %s
+una carta su %d porta %d innesto: %s,una carta su %d porta %d innesto: %s
+una reliquia,una reliquia
+una reliquia a caso,una reliquia a caso
+uno dei tuoi per uno dei suoi,uno dei tuoi per uno dei suoi
+vedi_mazzo,vedi_mazzo
+vedi_reliquie,vedi_reliquie
+veleno,veleno
+vita,vita
+vite,vite
+vittorie,vittorie
+~,~
+È ancora più piccolo di quanto ricordassi.,È ancora più piccolo di quanto ricordassi.
+È finita.,È finita.
+È finita?,È finita?
+È il loro modo di fare le cose.,È il loro modo di fare le cose.
+"È il simbolo del paese. Se prendono questo posto, sarà il primo passo per integrare tutto il resto.","È il simbolo del paese. Se prendono questo posto, sarà il primo passo per integrare tutto il resto."
+È proprio per questo che sono qui.,È proprio per questo che sono qui.
+• %s,• %s
+−%d oro,−%d oro
+"−10 oro, ma qualcuno si ricorda di te","−10 oro, ma qualcuno si ricorda di te"
+"−12 oro, un innesto Svelto","−12 oro, un innesto Svelto"
+"−12 oro, una carta in più","−12 oro, una carta in più"
+"−18 oro, una carta grossa","−18 oro, una carta grossa"
+▸ ,▸ 
+▼  clic o spazio,▼  clic o spazio
+◈ %d,◈ %d
+◈ %s,◈ %s
+◎,◎
+★,★
+★ %s: %s,★ %s: %s

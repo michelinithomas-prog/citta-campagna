@@ -74,12 +74,24 @@ func _ready() -> void:
 		Audio.music(MUSICA)
 
 
-## ESC torna indietro di un passo: prima chiude la conferma, poi la sottopagina.
-func _unhandled_input(event: InputEvent) -> void:
-	if _musica_da_avviare and (event is InputEventKey or event is InputEventMouseButton):
+## Il primo gesto dell'utente, sul web, è quello che sblocca l'audio.
+##
+## Sta in `_input` e non in `_unhandled_input`, ed è la differenza fra avere la
+## musica e non averla: `_unhandled_input` vede solo gli eventi che nessun
+## Control ha consumato, e qui il menu è tutto bottoni sopra uno sfondo che
+## ferma il mouse. Chi giocava col mouse — cioè quasi tutti — non faceva mai
+## arrivare un evento fin lì, e restava senza musica per l'intera partita.
+## Con la tastiera invece partiva: è la ragione per cui in prova sembrava a posto.
+func _input(event: InputEvent) -> void:
+	if not _musica_da_avviare:
+		return
+	if event is InputEventKey or event is InputEventMouseButton:
 		_musica_da_avviare = false
 		Audio.music(MUSICA)
 
+
+## ESC torna indietro di un passo: prima chiude la conferma, poi la sottopagina.
+func _unhandled_input(event: InputEvent) -> void:
 	if not (event.is_action_pressed("ui_cancel") or event.is_action_pressed("pause")):
 		return
 	if _confirm.visible:

@@ -106,4 +106,10 @@ anche dopo che quel core cambierà.
 
 ## Licenza
 
-Nessuna licenza aperta: tutti i diritti riservati. Repo privato di lavoro.
+Il gioco è di quattro persone — Gabriele Baffoni, Matteo Masini, Thomas
+Michelini, Luca Tamburini — e una licenza di riuso non è ancora stata
+concordata fra loro: per ora nessun permesso è concesso, ma chiedere costa una
+issue. Sui disegni, generati con l'IA, non è rivendicato alcun diritto
+esclusivo. I font sono di terzi e hanno licenze proprie.
+
+Tutti i dettagli, incluse le note su DepartureMono e GNU Unifont: [LICENSE](LICENSE).

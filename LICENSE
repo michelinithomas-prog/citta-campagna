@@ -1,0 +1,95 @@
+# Licenza e crediti — Città & Campagna
+
+## In breve
+
+Questo repository è **pubblico da leggere, ma non ancora libero da riusare**.
+Il codice è opera di quattro persone e una licenza di riuso non è stata
+concordata fra loro: finché non lo è, nessun permesso viene concesso. Sui
+disegni, invece, **non viene rivendicato alcun diritto esclusivo**. I font sono
+di terzi e hanno licenze proprie, riportate in fondo.
+
+Se vuoi riusare qualcosa, apri una issue: la risposta più probabile è sì.
+
+## Chi ha fatto cosa
+
+Copyright © 2026 Gabriele Baffoni, Matteo Masini, Thomas Michelini,
+Luca Tamburini.
+
+Il gioco nasce da una game jam dell'8 agosto 2026 e ha continuato a crescere
+nei giorni successivi. Gli autori sono elencati in ordine alfabetico di
+cognome, come nei crediti in gioco: il lavoro è stato fatto insieme e dividerlo
+in ruoli direbbe una cosa falsa.
+
+| cosa | dove | come è nato |
+|---|---|---|
+| codice sorgente | `core/`, `game/**/*.gd`, `tools/`, `tests/` | scritto dagli autori |
+| dati e bilanciamento | `game/data/*.json` | scritti dagli autori |
+| testi, dialoghi, nomi | `game/data/dialoghi.json`, `game/i18n/` | scritti dagli autori |
+| musica ed effetti | `game/audio/` | **sintetizzati da `tools/genera_audio.py`**, programma scritto dagli autori |
+| disegni | `game/art/` | **generati con strumenti di intelligenza artificiale** |
+| font | `game/fonts/` | **di terzi** — vedi sotto |
+
+## I disegni
+
+Le immagini in `game/art/` sono state generate con strumenti di intelligenza
+artificiale. Gli autori **non rivendicano diritti esclusivi** su di esse: in
+molti ordinamenti un'immagine prodotta da un modello generativo, senza un
+apporto creativo umano sostanziale, non è protetta dal diritto d'autore, e
+dichiarare il contrario significherebbe affermare qualcosa che probabilmente
+non è vero.
+
+Restano invece protetti — e sono cosa diversa dalle singole immagini — la
+**selezione, l'ordine e l'accostamento** di quei disegni al resto del gioco:
+quale carta ha quale faccia, quale sfondo va con quale scena.
+
+Questa è una descrizione di come stanno le cose, non una consulenza legale.
+
+## Musica ed effetti
+
+I sedici effetti e i tre valzer in `game/audio/` non sono stati chiesti a un
+modello: li sintetizza `tools/genera_audio.py`, un programma scritto dagli
+autori. L'opera d'ingegno sta nel programma, e i suoni che ne escono seguono
+la sorte del codice qui sopra.
+
+## Font di terzi
+
+I font **non** appartengono agli autori e conservano le proprie licenze, che
+valgono anche per chiunque ridistribuisca questo repository o una build del
+gioco.
+
+**DepartureMono** (`game/fonts/DepartureMono-Regular.otf`)
+Copyright 2022–2024 Helena Zhang. Distribuito sotto **SIL Open Font License,
+Version 1.1**. Il testo completo della licenza è incluso, come la licenza
+stessa richiede, in `game/fonts/DepartureMono-LICENSE.txt`.
+
+**GNU Unifont** (`game/fonts/simboli-unifont.otf`)
+Il file è un sottoinsieme di GNU Unifont, ridotto ai soli simboli dei semi.
+GNU Unifont è distribuito con doppia licenza, a scelta di chi lo usa:
+
+- **GNU General Public License, versione 2 o successiva**, con l'eccezione che
+  incorporare il font in un documento non costituisce di per sé una violazione
+  della GPL;
+- **SIL Open Font License, versione 1.1**.
+
+Testo delle licenze e sorgenti: <https://unifoundry.com/unifont/>
+
+> **Da sistemare**: a differenza di DepartureMono, il testo completo della
+> licenza di Unifont non è incluso in questo repository. Prima di
+> ridistribuire il gioco fuori di qui, va scelta quale delle due licenze si
+> adotta e va aggiunto il file corrispondente accanto al font.
+
+## Motore
+
+Il gioco gira su **Godot Engine**, distribuito sotto licenza MIT
+(<https://godotengine.org/license>). Il motore non è incluso in questo
+repository, ma **lo è nella build web** pubblicata sul branch `gh-pages`:
+`index.wasm` contiene Godot compilato, e la sua nota di copyright MIT viaggia
+con esso.
+
+## Citazioni e parodia
+
+Il gioco cita, storpiandoli, nomi e mondi che appartengono ad altri —
+gaiofanamon, pokedex, la catena di One, la MegaCorp. Sono citazioni
+parodistiche in un progetto non commerciale. I marchi e i diritti relativi
+appartengono ai rispettivi titolari; non c'è alcuna affiliazione né
+approvazione da parte loro.

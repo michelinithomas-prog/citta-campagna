@@ -790,6 +790,34 @@ traduzione: basta contare i caratteri (0,636 em l'uno, cioè 10,18 px a `TESTO`)
 `%` dentro `tr()`, ogni carta nel catalogo, e — il più importante — **con la
 lingua finta accesa ogni carta trova ancora il suo disegno**.
 
+## L'audio sul web, che è tutta un'altra cosa
+
+Due difetti diversi hanno reso la build web completamente muta, e nessuno dei
+due si vede da desktop né da un test.
+
+- **`audio/general/default_playback_type.web=0` in `project.godot` non è
+  opzionale.** Dal 4.4 Godot sul web usa di default il playback **Sample**
+  (=1), che consegna i suoni direttamente a WebAudio saltando il mixer del
+  motore. Qui quel percorso **non produce niente**, e non lo dice: nessun
+  errore in console, `AudioStreamPlayer.playing` vero, la posizione che avanza.
+  Con `0` (Stream) mixa il motore e si sente.
+- **La trappola dentro la trappola**: con Sample il picco dei bus
+  (`AudioServer.get_bus_peak_volume_left_db`) resta a **−200 dB anche quando
+  tutto funziona**, perché dai bus non passa niente. È l'indicatore che verrebbe
+  naturale usare per diagnosticare, ed è cieco proprio nella configurazione da
+  diagnosticare.
+- **Il primo gesto va intercettato in `_input`, mai in `_unhandled_input`.** Il
+  browser tiene sospeso l'audio finché l'utente non tocca qualcosa, quindi la
+  musica del menu aspetta il primo evento — ma `_unhandled_input` vede solo ciò
+  che nessun Control ha consumato, e il menu è tutto bottoni sopra uno sfondo
+  che ferma il mouse. Col mouse non arrivava niente, con la tastiera sì: per
+  questo in prova sembrava a posto.
+- **Niente di tutto questo è verificabile in un browser headless.** Chromium
+  senza dispositivo audio non renderizza il grafo: un AnalyserNode legge zero
+  anche su un oscillatore vero, e il mixer di Godot — che è pilotato dal
+  callback audio del browser — non gira mai. L'unica strada è una sonda che
+  scrive lo stato **sullo schermo** e una persona con le casse che la legge.
+
 ## Da sapere
 
 - **Il veleno morde ogni tre secondi, non ogni secondo** (`battle.poison_every`).

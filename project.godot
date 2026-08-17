@@ -67,3 +67,13 @@ pseudolocalization/use_pseudolocalization=false
 textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
+
+[audio]
+
+; Sul web Godot userebbe di default il playback "Sample" (=1), che consegna i
+; suoni direttamente a WebAudio saltando il mixer del motore: in questa build
+; non produce alcun suono, e non lo dice — nessun errore in console, e il picco
+; dei bus resta a -200 perche' con Sample dai bus non passa niente.
+; 0 = Stream: mixa il motore e spinge tutto in un nodo audio solo. E' il
+; percorso che suona. Verificato in browser vero: senza questa riga, muto.
+general/default_playback_type.web=0

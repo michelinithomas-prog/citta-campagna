@@ -1,621 +1,621 @@
 {
   "game/data/events.json": {
-    "mtime": 1786244967.7033298,
+    "mtime": 1786244967.0,
     "ast_hash": "a35fcf6ea876f02de21e7ff49174dfeb",
     "semantic_hash": ""
   },
   "game/data/opponents.json": {
-    "mtime": 1786245054.0998454,
+    "mtime": 1786245054.0,
     "ast_hash": "819873f10680d43c5d2bf03dda9d8211",
     "semantic_hash": ""
   },
   "game/data/ranks.json": {
-    "mtime": 1786244997.5948367,
-    "ast_hash": "ffb1a1481671ebea6db6f3baa511e641",
+    "mtime": 1786247670.0,
+    "ast_hash": "e66917bfbe3eaf1ef6b73db50cf149c5",
     "semantic_hash": ""
   },
   "game/data/relics.json": {
-    "mtime": 1786239164.4914436,
+    "mtime": 1786239164.0,
     "ast_hash": "56baaad4748ca2b56f281b5376a4fa8b",
     "semantic_hash": ""
   },
   "game/data/seals.json": {
-    "mtime": 1786220050.3275561,
+    "mtime": 1786220050.0,
     "ast_hash": "54450f995b0fc02284c6a836dcfa735e",
     "semantic_hash": ""
   },
   "game/data/specials.json": {
-    "mtime": 1786245384.29037,
+    "mtime": 1786245384.0,
     "ast_hash": "7ab0c5553338b68790690d664701f342",
     "semantic_hash": ""
   },
   "game/data/suits.json": {
-    "mtime": 1786245314.636682,
+    "mtime": 1786245314.0,
     "ast_hash": "15f300dd8a9f6c110e6884c992a0202d",
     "semantic_hash": ""
   },
   "game/data/tuning.json": {
-    "mtime": 1786241079.7792187,
+    "mtime": 1786241079.0,
     "ast_hash": "7c29d837d309648303507c31ddba26d5",
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1786247294.8218071,
-    "ast_hash": "e53ea9b38b6b8cc33a10551828177b76",
+    "mtime": 1786926571.6090226,
+    "ast_hash": "470257361f0eef2e9a897543cd57a391",
     "semantic_hash": ""
   },
   "docs/carte.md": {
-    "mtime": 1786246553.6297753,
-    "ast_hash": "b8bd62e113834323c07d64f3223e6e57",
+    "mtime": 1786247940.0,
+    "ast_hash": "c087b4b62ff4c274ee35570d452531db",
     "semantic_hash": ""
   },
   "docs/eventi.md": {
-    "mtime": 1786246553.6304429,
+    "mtime": 1786247940.0,
     "ast_hash": "c0c096c8581beec1e05a8363a6925f81",
     "semantic_hash": ""
   },
   "docs/reliquie-e-innesti.md": {
-    "mtime": 1786246553.6307695,
+    "mtime": 1786247940.0,
     "ast_hash": "1b9585596519a6d40c9ad4e3649db776",
     "semantic_hash": ""
   },
   "game/data/families.json": {
-    "mtime": 1786245954.7542334,
+    "mtime": 1786245954.0,
     "ast_hash": "33571ec20b71b517119bedbdd260d9bc",
     "semantic_hash": ""
   },
   "game/fonts/DepartureMono-LICENSE.txt": {
-    "mtime": 1786227218.8346906,
+    "mtime": 1786227218.0,
     "ast_hash": "9ac79da1c38d5b89b51785b1477fbfdb",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_back.png": {
-    "mtime": 1786230453.010992,
+    "mtime": 1786230453.0,
     "ast_hash": "59d7b0d114dbe8f80c68202d3d57cb78",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_1.png": {
-    "mtime": 1786230452.9983623,
+    "mtime": 1786230452.0,
     "ast_hash": "6a78f8c3df2d1044a1e8d3056d69f771",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_2.png": {
-    "mtime": 1786230452.9934058,
+    "mtime": 1786230452.0,
     "ast_hash": "581edd097546749b4fb385afd774b3af",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_3.png": {
-    "mtime": 1786230452.9955432,
+    "mtime": 1786230452.0,
     "ast_hash": "7118ed60991c434a70a785ad073427c4",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_4.png": {
-    "mtime": 1786230453.0019765,
+    "mtime": 1786230453.0,
     "ast_hash": "6f52ff12b29cf51a5605421356f143a3",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_5.png": {
-    "mtime": 1786230453.0037003,
+    "mtime": 1786230453.0,
     "ast_hash": "f7900eee217e6700a19ee745f6834f1c",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_6.png": {
-    "mtime": 1786230453.0143776,
+    "mtime": 1786230453.0,
     "ast_hash": "5bbfd9533bd67e39e662177c7a299492",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_7.png": {
-    "mtime": 1786230453.0131953,
+    "mtime": 1786230453.0,
     "ast_hash": "c5f150533d5d60aa1fa55133e76a8b21",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_cavallo.png": {
-    "mtime": 1786230452.8968308,
+    "mtime": 1786230452.0,
     "ast_hash": "91d60b948022de6229c5c308aff209ab",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_fante.png": {
-    "mtime": 1786230452.9881952,
+    "mtime": 1786230452.0,
     "ast_hash": "959c2fa3dae209fdd14f855c6c901dd7",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_bastoni_re.png": {
-    "mtime": 1786230452.9112053,
+    "mtime": 1786230452.0,
     "ast_hash": "d32c0d91dc8516e332c9b26bdd3a8e78",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_1.png": {
-    "mtime": 1786230452.984305,
+    "mtime": 1786230452.0,
     "ast_hash": "866f248dabcc0569d96931a7e364be7e",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_2.png": {
-    "mtime": 1786230452.9804442,
+    "mtime": 1786230452.0,
     "ast_hash": "4fb9ada71caf2ec191af616805a13cc4",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_3.png": {
-    "mtime": 1786230452.9821508,
+    "mtime": 1786230452.0,
     "ast_hash": "f9b2de59df938a49455ab50bfbdc8d58",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_4.png": {
-    "mtime": 1786230452.9594796,
+    "mtime": 1786230452.0,
     "ast_hash": "b23ce895eed220beb82a0a41337453d5",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_5.png": {
-    "mtime": 1786230452.969699,
+    "mtime": 1786230452.0,
     "ast_hash": "a135068c0736fdd0e8d6deb3fe340da5",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_6.png": {
-    "mtime": 1786230452.9755821,
+    "mtime": 1786230452.0,
     "ast_hash": "6c651166ff6fc10eda16afbee4e9aa6f",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_7.png": {
-    "mtime": 1786230452.9746943,
+    "mtime": 1786230452.0,
     "ast_hash": "ece6dac5d44df349d68b909ca37e6c3d",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_cavallo.png": {
-    "mtime": 1786230452.9449303,
+    "mtime": 1786230452.0,
     "ast_hash": "be05ac55f96720875e4c90d89fb02d63",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_fante.png": {
-    "mtime": 1786230452.9226422,
+    "mtime": 1786230452.0,
     "ast_hash": "ab364d389861366961c90dbdcb97822f",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_coppe_re.png": {
-    "mtime": 1786230452.914093,
+    "mtime": 1786230452.0,
     "ast_hash": "2a5b01bf891ef9e9a642f9e5bcc67628",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_1.png": {
-    "mtime": 1786230452.8852065,
+    "mtime": 1786230452.0,
     "ast_hash": "f10f2e10f8994f64783800a0bf02ea50",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_2.png": {
-    "mtime": 1786230452.8886602,
+    "mtime": 1786230452.0,
     "ast_hash": "0775d0b601e390bbc7cf08ee6671fa13",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_3.png": {
-    "mtime": 1786230452.886517,
+    "mtime": 1786230452.0,
     "ast_hash": "bc7da36f1f1df87634a9fda76a4199de",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_4.png": {
-    "mtime": 1786230452.9169645,
+    "mtime": 1786230452.0,
     "ast_hash": "ccf5183a76bb5275171ea480a06b5adc",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_5.png": {
-    "mtime": 1786230452.9154148,
+    "mtime": 1786230452.0,
     "ast_hash": "55a0cc9aa9f71b08cde7d05dcdd6d3f7",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_6.png": {
-    "mtime": 1786230452.9019265,
+    "mtime": 1786230452.0,
     "ast_hash": "c26808c2719d7daf583b5798c3ba960b",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_7.png": {
-    "mtime": 1786230452.9059446,
+    "mtime": 1786230452.0,
     "ast_hash": "4ee57361e52a65a2f713b9fdafc585c9",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_cavallo.png": {
-    "mtime": 1786230452.9387453,
+    "mtime": 1786230452.0,
     "ast_hash": "6972e840493d62fdef8199ad33d4ded4",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_fante.png": {
-    "mtime": 1786230453.000498,
+    "mtime": 1786230453.0,
     "ast_hash": "16bdc2cad2c48b8d5cf6ed1b476d113d",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_denari_re.png": {
-    "mtime": 1786230452.9307678,
+    "mtime": 1786230452.0,
     "ast_hash": "9a8a670ce8518f65ec26a9fb67e04d84",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_1.png": {
-    "mtime": 1786230452.9791937,
+    "mtime": 1786230452.0,
     "ast_hash": "25abd28e9bca50c294195659c54b84dd",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_2.png": {
-    "mtime": 1786230452.9829915,
+    "mtime": 1786230452.0,
     "ast_hash": "a71add6d0c0440dc375a4decf7571a96",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_3.png": {
-    "mtime": 1786230452.9903193,
+    "mtime": 1786230452.0,
     "ast_hash": "718ea387f3886cd90763b4a8eb56fde9",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_4.png": {
-    "mtime": 1786230452.9736252,
+    "mtime": 1786230452.0,
     "ast_hash": "5c57a355175b74689f8b49ecd489c448",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_5.png": {
-    "mtime": 1786230452.97781,
+    "mtime": 1786230452.0,
     "ast_hash": "555ae55c4fc9c60c0afe3f0ba3eebc50",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_6.png": {
-    "mtime": 1786230452.9725573,
+    "mtime": 1786230452.0,
     "ast_hash": "0b7ebd253d33b15468e9d02b0c9de88a",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_7.png": {
-    "mtime": 1786230452.955962,
+    "mtime": 1786230452.0,
     "ast_hash": "290565301984e0b4ded6383e4118b7f6",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_cavallo.png": {
-    "mtime": 1786230452.9432082,
+    "mtime": 1786230452.0,
     "ast_hash": "96d36eedda7ccb09ac55a39bc6c1b9d7",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_fante.png": {
-    "mtime": 1786230452.9342124,
+    "mtime": 1786230452.0,
     "ast_hash": "59e11e9443b21c725f496de13cb5c0c4",
     "semantic_hash": ""
   },
   "game/art/carte/briscola/card_spade_re.png": {
-    "mtime": 1786230452.9460502,
+    "mtime": 1786230452.0,
     "ast_hash": "a03f265dc9bb22471f7c934350d085be",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_10_C.png": {
-    "mtime": 1786230453.139647,
+    "mtime": 1786230453.0,
     "ast_hash": "d6b617abef76bdff584d3f9e2d7ff2c0",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_10_D.png": {
-    "mtime": 1786230453.2044866,
+    "mtime": 1786230453.0,
     "ast_hash": "78c2b862b60cb51a848dd3b7e097c44d",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_10_H.png": {
-    "mtime": 1786230453.4824207,
+    "mtime": 1786230453.0,
     "ast_hash": "03de842d5fd1e96d94732b7f85db3d02",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_10_S.png": {
-    "mtime": 1786230453.2148697,
+    "mtime": 1786230453.0,
     "ast_hash": "4211bdb0b9d23958471abac8c10d5bef",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_2_C.png": {
-    "mtime": 1786230453.1326194,
+    "mtime": 1786230453.0,
     "ast_hash": "c8688519dbd78d19ecba90832dba0418",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_2_D.png": {
-    "mtime": 1786230453.159782,
+    "mtime": 1786230453.0,
     "ast_hash": "94af2c57e0b72304e468477b8eba2633",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_2_H.png": {
-    "mtime": 1786230453.4873874,
+    "mtime": 1786230453.0,
     "ast_hash": "bcda30660e5b56c7234c951e49386f1a",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_2_S.png": {
-    "mtime": 1786230453.1689456,
+    "mtime": 1786230453.0,
     "ast_hash": "8aae1d62d1e0997f9658e290ae9a7a0b",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_3_C.png": {
-    "mtime": 1786230453.296151,
+    "mtime": 1786230453.0,
     "ast_hash": "672346ecd9038da98e89f1fb186aca6f",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_3_D.png": {
-    "mtime": 1786230453.315796,
+    "mtime": 1786230453.0,
     "ast_hash": "38a3599e4f149f3b356c1537fc6920db",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_3_H.png": {
-    "mtime": 1786230453.3895721,
+    "mtime": 1786230453.0,
     "ast_hash": "fc5f173097a2def753c71a44873a490f",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_3_S.png": {
-    "mtime": 1786230453.3285322,
+    "mtime": 1786230453.0,
     "ast_hash": "facfbeead6d8882bc0db82810d74c564",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_4_C.png": {
-    "mtime": 1786230453.1856897,
+    "mtime": 1786230453.0,
     "ast_hash": "be21f3e7abdcf759f4d817719d5f1f90",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_4_D.png": {
-    "mtime": 1786230453.1159072,
+    "mtime": 1786230453.0,
     "ast_hash": "fe33ac13055bb677a2510ba8ca7ec3d8",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_4_H.png": {
-    "mtime": 1786230453.5899203,
+    "mtime": 1786230453.0,
     "ast_hash": "f9099e4887e55362c7a6e7d76c45a122",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_4_S.png": {
-    "mtime": 1786230453.0884278,
+    "mtime": 1786230453.0,
     "ast_hash": "58b4ba7f72e50f906a3dc0abbd6d7075",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_5_C.png": {
-    "mtime": 1786230453.3776608,
+    "mtime": 1786230453.0,
     "ast_hash": "6ac5a97879033a7e9ef41fc27e2a41a3",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_5_D.png": {
-    "mtime": 1786230453.247999,
+    "mtime": 1786230453.0,
     "ast_hash": "d211dc4b3d2127c13e04b32a2b4abe5e",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_5_H.png": {
-    "mtime": 1786230453.3987873,
+    "mtime": 1786230453.0,
     "ast_hash": "af67a9fa110d583c9bfc39db99117211",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_5_S.png": {
-    "mtime": 1786230453.2360404,
+    "mtime": 1786230453.0,
     "ast_hash": "9cbb32298e217bf859741d507267d4b7",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_6_C.png": {
-    "mtime": 1786230453.1909645,
+    "mtime": 1786230453.0,
     "ast_hash": "379e28f9709dec6e548f1550927c67ae",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_6_D.png": {
-    "mtime": 1786230453.1498187,
+    "mtime": 1786230453.0,
     "ast_hash": "c313db00e53b2bfb660671af9ea8fc04",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_6_H.png": {
-    "mtime": 1786230453.5357466,
+    "mtime": 1786230453.0,
     "ast_hash": "feda919223424dca81f7035379c5737b",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_6_S.png": {
-    "mtime": 1786230453.1565197,
+    "mtime": 1786230453.0,
     "ast_hash": "0c51e6ed93d96a84ce31876c28d91169",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_7_C.png": {
-    "mtime": 1786230453.3084671,
+    "mtime": 1786230453.0,
     "ast_hash": "2340b7161cc39eaffd9b47c61d90ad5c",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_7_D.png": {
-    "mtime": 1786230453.2239122,
+    "mtime": 1786230453.0,
     "ast_hash": "3b09466e74a31b2efff3f9d2fcc82c37",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_7_H.png": {
-    "mtime": 1786230453.4736006,
+    "mtime": 1786230453.0,
     "ast_hash": "ac2d38e0777ca965f02abfe349ef83b5",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_7_S.png": {
-    "mtime": 1786230453.2307432,
+    "mtime": 1786230453.0,
     "ast_hash": "171ff7e1c80591996c8d0c05fe9b0551",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_8_C.png": {
-    "mtime": 1786230453.491333,
+    "mtime": 1786230453.0,
     "ast_hash": "aa001566b877880f5ff3fe7da2c6b30b",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_8_D.png": {
-    "mtime": 1786230453.6216707,
+    "mtime": 1786230453.0,
     "ast_hash": "2605cce7a11b2187a63ec187d0d3fb4d",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_8_H.png": {
-    "mtime": 1786230453.1262028,
+    "mtime": 1786230453.0,
     "ast_hash": "8b52b8dc03397ad200c83f1ee80c7a44",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_8_S.png": {
-    "mtime": 1786230453.6296349,
+    "mtime": 1786230453.0,
     "ast_hash": "e26e9ef35db4a703268269dd97b53248",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_9_C.png": {
-    "mtime": 1786230453.3834462,
+    "mtime": 1786230453.0,
     "ast_hash": "2bf11615e5e0d05a68c7fc0c4142083c",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_9_D.png": {
-    "mtime": 1786230453.446555,
+    "mtime": 1786230453.0,
     "ast_hash": "76de1fdb132cc8172a4fffa949b8beef",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_9_H.png": {
-    "mtime": 1786230453.302205,
+    "mtime": 1786230453.0,
     "ast_hash": "40413dd1f7a3186cff86c842dca2f311",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_9_S.png": {
-    "mtime": 1786230453.4604146,
+    "mtime": 1786230453.0,
     "ast_hash": "1191096f042f7ecc60e54f3aec750bac",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_A_C.png": {
-    "mtime": 1786230453.61115,
+    "mtime": 1786230453.0,
     "ast_hash": "5a42036ee69573b1791c80bd5551ed4c",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_A_D.png": {
-    "mtime": 1786230453.5027554,
+    "mtime": 1786230453.0,
     "ast_hash": "e1ac156edd877b8a14e4149312336926",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_A_H.png": {
-    "mtime": 1786230453.176735,
+    "mtime": 1786230453.0,
     "ast_hash": "54d9a149a658f9d66a46fedae68720fe",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_A_S.png": {
-    "mtime": 1786230453.4965808,
+    "mtime": 1786230453.0,
     "ast_hash": "f52be3d96db8e6773a334fc8efeb58dc",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_J_C.png": {
-    "mtime": 1786230453.3606014,
+    "mtime": 1786230453.0,
     "ast_hash": "b4808ba5e7076dc268b9944c9a6ae9e2",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_J_D.png": {
-    "mtime": 1786230453.2706618,
+    "mtime": 1786230453.0,
     "ast_hash": "c7fe89a548b350b96cfa6841dd7b6b8d",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_J_H.png": {
-    "mtime": 1786230453.4270434,
+    "mtime": 1786230453.0,
     "ast_hash": "830d9d08e34272353f1f227858666389",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_J_S.png": {
-    "mtime": 1786230453.2546537,
+    "mtime": 1786230453.0,
     "ast_hash": "30bfe4a12afa15215fb4b87117ca40c7",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_K_C.png": {
-    "mtime": 1786230453.1877313,
+    "mtime": 1786230453.0,
     "ast_hash": "0c9456ed58d8a59bd216316d87c70220",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_K_D.png": {
-    "mtime": 1786230453.0588293,
+    "mtime": 1786230453.0,
     "ast_hash": "3786310227e5d909e86182d5d8956fcb",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_K_H.png": {
-    "mtime": 1786230453.5793278,
+    "mtime": 1786230453.0,
     "ast_hash": "472a36f968c9bc0ab41f584e735b47ff",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_K_S.png": {
-    "mtime": 1786230453.0402431,
+    "mtime": 1786230453.0,
     "ast_hash": "7d0da15229c858eb3a96584fceb5fb34",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_Q_C.png": {
-    "mtime": 1786230453.357091,
+    "mtime": 1786230453.0,
     "ast_hash": "80abbf2b705e0c89616792f3dc3d186c",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_Q_D.png": {
-    "mtime": 1786230453.279561,
+    "mtime": 1786230453.0,
     "ast_hash": "b6dd5b0241c95cd6ec9a80dec0719e3b",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_Q_H.png": {
-    "mtime": 1786230453.4302354,
+    "mtime": 1786230453.0,
     "ast_hash": "20437ff77912e6e6bf11cb8354c5773a",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_Q_S.png": {
-    "mtime": 1786230453.2908857,
+    "mtime": 1786230453.0,
     "ast_hash": "69092835f419ff3fbc052fd22b9973e9",
     "semantic_hash": ""
   },
   "game/art/carte/poker/card_back.png": {
-    "mtime": 1786230453.5542655,
+    "mtime": 1786230453.0,
     "ast_hash": "5641d783ee3567bc8da9eecd31cfa7d5",
     "semantic_hash": ""
   },
   "game/art/carte/poker/joker_colored.png": {
-    "mtime": 1786230453.4711862,
+    "mtime": 1786230453.0,
     "ast_hash": "04d1a8b45cc27472c46ae50957cb7afb",
     "semantic_hash": ""
   },
   "game/art/carte/poker/joker_gray.png": {
-    "mtime": 1786230453.5312028,
+    "mtime": 1786230453.0,
     "ast_hash": "63369242122f7dddca75b7c3fac1c3a4",
     "semantic_hash": ""
   },
   "game/art/carte/poker/joker_white.png": {
-    "mtime": 1786230453.4332747,
+    "mtime": 1786230453.0,
     "ast_hash": "884e8d9b488c7a06f87bcabf68bc743f",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Antig.png": {
-    "mtime": 1786230453.7738907,
+    "mtime": 1786230453.0,
     "ast_hash": "6aa444afa2f53ec5a4e5ff5ef082f362",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Canon.png": {
-    "mtime": 1786230453.7713468,
+    "mtime": 1786230453.0,
     "ast_hash": "6ff31c6e2cc7029e582b41cc30364a4d",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Drag.png": {
-    "mtime": 1786230453.7675014,
+    "mtime": 1786230453.0,
     "ast_hash": "f24b3d4dbac67d72d8bb23b157112a39",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Fughett.png": {
-    "mtime": 1786230453.80504,
+    "mtime": 1786230453.0,
     "ast_hash": "3e03c04f362706c6b44c63fdf44900e5",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Rataz.png": {
-    "mtime": 1786230453.6493616,
+    "mtime": 1786230453.0,
     "ast_hash": "615ff284a80367d3c0709c8958d6472d",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Scintela.png": {
-    "mtime": 1786230453.6616025,
+    "mtime": 1786230453.0,
     "ast_hash": "38933e1214fe0bd0f0dee073738fd82e",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Sgorga.png": {
-    "mtime": 1786230453.7765813,
+    "mtime": 1786230453.0,
     "ast_hash": "e14575683c6543d8fd6f9fe36b86a69f",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/SgorgaDaBon.png": {
-    "mtime": 1786230453.7318633,
+    "mtime": 1786230453.0,
     "ast_hash": "3bf90b99437e38851fc569c39b11f7a9",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Sorc.png": {
-    "mtime": 1786230453.793245,
+    "mtime": 1786230453.0,
     "ast_hash": "57487be90ad87709ea4d82c353f1a9e0",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Zappador.png": {
-    "mtime": 1786230453.7141225,
+    "mtime": 1786230453.0,
     "ast_hash": "613af07bf5a3c4f22fe12393fea5362c",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Zappin.png": {
-    "mtime": 1786230453.7846355,
+    "mtime": 1786230453.0,
     "ast_hash": "388b9a834eed32b74aae4b5b78878468",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/Zappoun.png": {
-    "mtime": 1786230453.6803997,
+    "mtime": 1786230453.0,
     "ast_hash": "3fa99e81c9efccbc2d3a65523674df6e",
     "semantic_hash": ""
   },
   "game/art/carte/gaiofanamon/germoglio_s1.png": {
-    "mtime": 1786234745.826999,
+    "mtime": 1786234745.0,
     "ast_hash": "e3ab8f50f44dc88b89974d12c227639b",
     "semantic_hash": ""
   },
@@ -890,82 +890,82 @@
     "semantic_hash": ""
   },
   "docs/avversari.md": {
-    "mtime": 1786246553.6312137,
+    "mtime": 1786247940.0,
     "ast_hash": "236a17dcd5b52fb45d1e0977b920ae16",
     "semantic_hash": ""
   },
   "game/art/eventi/fabbro.png": {
-    "mtime": 1786236222.5256732,
+    "mtime": 1786236222.0,
     "ast_hash": "783b678447dddfebf5b83b199da79139",
     "semantic_hash": ""
   },
   "game/art/eventi/fiera.png": {
-    "mtime": 1786236222.5921626,
+    "mtime": 1786236222.0,
     "ast_hash": "1f26c3e712502fa2aeabde248b417114",
     "semantic_hash": ""
   },
   "game/art/eventi/giocatore.png": {
-    "mtime": 1786236222.3292434,
+    "mtime": 1786236222.0,
     "ast_hash": "84efaa65a905e21d98d6f65869be7c37",
     "semantic_hash": ""
   },
   "game/art/eventi/giocatore_sfida.png": {
-    "mtime": 1786236222.7900374,
+    "mtime": 1786236222.0,
     "ast_hash": "5f05bb2e0054477b7a4b5ae4a5ff205b",
     "semantic_hash": ""
   },
   "game/art/eventi/osteria.png": {
-    "mtime": 1786236222.8565059,
+    "mtime": 1786236222.0,
     "ast_hash": "bd00953f4ef902be0d0f7e89fa9da36a",
     "semantic_hash": ""
   },
   "game/art/eventi/pegni.png": {
-    "mtime": 1786236222.26121,
+    "mtime": 1786236222.0,
     "ast_hash": "80ea11abc3c6fb423b09ca8fdc5e9ac4",
     "semantic_hash": ""
   },
   "game/art/eventi/sagra.png": {
-    "mtime": 1786236222.655652,
+    "mtime": 1786236222.0,
     "ast_hash": "9a690d76c4a3c308665234362142d08e",
     "semantic_hash": ""
   },
   "game/art/eventi/scambio.png": {
-    "mtime": 1786236222.7244449,
+    "mtime": 1786236222.0,
     "ast_hash": "2af43e09e99113e65a9f7f15377b7e79",
     "semantic_hash": ""
   },
   "game/art/eventi/scambio_accetta.png": {
-    "mtime": 1786236222.1952744,
+    "mtime": 1786236222.0,
     "ast_hash": "479201c78415f37ff144bef7c5debd03",
     "semantic_hash": ""
   },
   "game/art/eventi/scambio_rifiuta.png": {
-    "mtime": 1786236222.9243195,
+    "mtime": 1786236222.0,
     "ast_hash": "ee059c2e4aafa215cfae067217475e40",
     "semantic_hash": ""
   },
   "game/art/eventi/scelta.png": {
-    "mtime": 1786236223.1227098,
+    "mtime": 1786236223.0,
     "ast_hash": "ae4ef75fe080ef68f838c0f6a3f8e78f",
     "semantic_hash": ""
   },
   "game/art/eventi/scelta_autobriscola.png": {
-    "mtime": 1786236222.9911318,
+    "mtime": 1786236222.0,
     "ast_hash": "fe9bc55d82568895928bf2a8ebb547d3",
     "semantic_hash": ""
   },
   "game/art/eventi/scelta_lei.png": {
-    "mtime": 1786236223.057245,
+    "mtime": 1786236223.0,
     "ast_hash": "f64b3fce3421b16851214528e5ff0d8b",
     "semantic_hash": ""
   },
   "game/art/eventi/temporale.png": {
-    "mtime": 1786236222.3963675,
+    "mtime": 1786236222.0,
     "ast_hash": "d0a429f02e28555b74e622cab6b8b803",
     "semantic_hash": ""
   },
   "game/art/eventi/vecchio.png": {
-    "mtime": 1786236222.4612274,
+    "mtime": 1786236222.0,
     "ast_hash": "bc04889bad45cf8bec94a980c66c06ed",
     "semantic_hash": ""
   },
@@ -1025,138 +1025,263 @@
     "semantic_hash": ""
   },
   "game/art/personaggi/melonmusk.png": {
-    "mtime": 1786237767.596116,
-    "ast_hash": "356d659c5fc124bcd02637c5b18fe7c0",
+    "mtime": 1786237332.0,
+    "ast_hash": "beb8cf320c19525428918e05ec1f65d6",
     "semantic_hash": ""
   },
   "game/art/sfondi/battaglia.png": {
-    "mtime": 1786237332.348722,
+    "mtime": 1786237332.0,
     "ast_hash": "1f2a42f846b5ff0fd98459c2d940f706",
     "semantic_hash": ""
   },
   "game/art/sfondi/bottega.png": {
-    "mtime": 1786237332.4196162,
+    "mtime": 1786237332.0,
     "ast_hash": "6315d7204375289bbc46b76f2a87cfa2",
     "semantic_hash": ""
   },
   "game/data/dialoghi.json": {
-    "mtime": 1786246737.2957428,
+    "mtime": 1786246737.0,
     "ast_hash": "8d1689ddb63830992c5a14bea1f32c47",
     "semantic_hash": ""
   },
   "game/data/personaggi.json": {
-    "mtime": 1786244333.1293101,
+    "mtime": 1786244333.0,
     "ast_hash": "b54e7a34d7acf0e5b564f9acb8a420c0",
     "semantic_hash": ""
   },
   "game/data/tutorial.json": {
-    "mtime": 1786241012.7758496,
+    "mtime": 1786241012.0,
     "ast_hash": "065df32eceb5a791914056e71c48f2b4",
     "semantic_hash": ""
   },
   "game/art/carte/one/blocco_b0.png": {
-    "mtime": 1786246932.892503,
+    "mtime": 1786246932.0,
     "ast_hash": "a42aa0964cd5ef1dea34f1b73da5c15d",
     "semantic_hash": ""
   },
   "game/art/reliquie/abaco.png": {
-    "mtime": 1786241702.3435192,
+    "mtime": 1786241702.0,
     "ast_hash": "e8cf009aafb445b0d695cd5eea41635f",
     "semantic_hash": ""
   },
   "game/art/reliquie/abito.png": {
-    "mtime": 1786241702.3465126,
+    "mtime": 1786241702.0,
     "ast_hash": "f53a71e62ff20c95eafb5203c78efc4e",
     "semantic_hash": ""
   },
   "game/art/reliquie/bianchello.png": {
-    "mtime": 1786241702.3349195,
+    "mtime": 1786241702.0,
     "ast_hash": "bb95cb758a93b56cfb1e146670c41a5f",
     "semantic_hash": ""
   },
   "game/art/reliquie/borraccia.png": {
-    "mtime": 1786241702.3615746,
+    "mtime": 1786241702.0,
     "ast_hash": "45e3864bb992f4f54c763f5bd22ce88f",
     "semantic_hash": ""
   },
   "game/art/reliquie/calice.png": {
-    "mtime": 1786241702.3566442,
+    "mtime": 1786241702.0,
     "ast_hash": "66d8e3716d30fc9806d1356d799deff0",
     "semantic_hash": ""
   },
   "game/art/reliquie/deckbox_briscola.png": {
-    "mtime": 1786241702.3500693,
+    "mtime": 1786241702.0,
     "ast_hash": "76c93eaab74e834bceedca0a054afbd1",
     "semantic_hash": ""
   },
   "game/art/reliquie/deckbox_gaio.png": {
-    "mtime": 1786241702.3550422,
+    "mtime": 1786241702.0,
     "ast_hash": "2dff97e638ff11db45dee0bee4b19f1b",
     "semantic_hash": ""
   },
   "game/art/reliquie/deckbox_one.png": {
-    "mtime": 1786241702.35338,
+    "mtime": 1786241702.0,
     "ast_hash": "df5f61edd435a5f8b0f9243e6f5ee004",
     "semantic_hash": ""
   },
   "game/art/reliquie/deckbox_poker.png": {
-    "mtime": 1786241702.3517044,
+    "mtime": 1786241702.0,
     "ast_hash": "31f644ce9624b15fcdfb443a0a24a882",
     "semantic_hash": ""
   },
   "game/art/reliquie/fegato.png": {
-    "mtime": 1786241702.3401625,
+    "mtime": 1786241702.0,
     "ast_hash": "074aadebf38a4e81eb0d93bd72ccecf6",
     "semantic_hash": ""
   },
   "game/art/reliquie/manuale.png": {
-    "mtime": 1786241702.3632598,
+    "mtime": 1786241702.0,
     "ast_hash": "03a3e2f3533bb188282550895c3551fd",
     "semantic_hash": ""
   },
   "game/art/reliquie/pokedex.png": {
-    "mtime": 1786241702.337116,
+    "mtime": 1786241702.0,
     "ast_hash": "45c7c2772784beae0520d1815f8e8664",
     "semantic_hash": ""
   },
   "game/art/reliquie/puntate.png": {
-    "mtime": 1786241702.358392,
+    "mtime": 1786241702.0,
     "ast_hash": "f9806d78b062ebfa83050429ebaf7738",
     "semantic_hash": ""
   },
   "game/art/reliquie/racconti.png": {
-    "mtime": 1786241702.3417702,
+    "mtime": 1786241702.0,
     "ast_hash": "ad4ec1c89440a2e39dff0527f518d570",
     "semantic_hash": ""
   },
   "game/art/reliquie/sandalo.png": {
-    "mtime": 1786241702.3599675,
+    "mtime": 1786241702.0,
     "ast_hash": "0fd1019a5f07a568e459ec8219c71c9f",
     "semantic_hash": ""
   },
   "game/art/reliquie/unopertutti.png": {
-    "mtime": 1786241702.3482428,
+    "mtime": 1786241702.0,
     "ast_hash": "616f0f7512c6086cd96b3f61044ca0a0",
     "semantic_hash": ""
   },
   "game/art/reliquie/vigna.png": {
-    "mtime": 1786241702.3387012,
+    "mtime": 1786241702.0,
     "ast_hash": "ae5de89a7ec1faf935cec3f99d37b77d",
     "semantic_hash": ""
   },
   "game/art/reliquie/zappa.png": {
-    "mtime": 1786241702.3449316,
+    "mtime": 1786241702.0,
     "ast_hash": "76a42cb1f3c5a1033b367b4ed229548d",
     "semantic_hash": ""
   },
   "game/art/sfondi/menu.png": {
-    "mtime": 1786246184.8832433,
+    "mtime": 1786246184.0,
     "ast_hash": "42c3f3bd0c3789583f1eb29a4011f70f",
     "semantic_hash": ""
   },
   "game/art/ui/logo.png": {
-    "mtime": 1786246077.7856126,
+    "mtime": 1786246077.0,
     "ast_hash": "f2b9827279b49b3e1aabea6e35d395de",
+    "semantic_hash": ""
+  },
+  "tools/estrai_testi.py": {
+    "mtime": 1786697938.0,
+    "ast_hash": "0f08ca1c4b7f0d048c0628ad24ab6f6f",
+    "semantic_hash": ""
+  },
+  "tools/genera_audio.py": {
+    "mtime": 1786693414.0,
+    "ast_hash": "90f5c949862f9ffe397daa4f28603c9d",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1786925318.3136714,
+    "ast_hash": "7400ccc929407a68b262e836884c6733",
+    "semantic_hash": ""
+  },
+  "game/art/finali/abbandono.png": {
+    "mtime": 1786249084.0,
+    "ast_hash": "d4821fe1ff5e64cb6479a641e223f58a",
+    "semantic_hash": ""
+  },
+  "game/art/finali/sconfitta.png": {
+    "mtime": 1786249083.0,
+    "ast_hash": "3955fc6690e257d077eedfdfd06ffa77",
+    "semantic_hash": ""
+  },
+  "game/art/finali/vittoria.png": {
+    "mtime": 1786249083.0,
+    "ast_hash": "53665829d39d737054ea1bd9d8e87e7d",
+    "semantic_hash": ""
+  },
+  "game/audio/buy.wav": {
+    "mtime": 1786693416.0,
+    "ast_hash": "13414c723813d4f168c71d19cc7c72e1",
+    "semantic_hash": ""
+  },
+  "game/audio/cancel.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "b6b884130e5f46ddda1add25e3abd977",
+    "semantic_hash": ""
+  },
+  "game/audio/click.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "0a10073789b6bf388ea20889b1bb850f",
+    "semantic_hash": ""
+  },
+  "game/audio/coin.wav": {
+    "mtime": 1786693416.0,
+    "ast_hash": "7986a4e42bf6d6e6b996611a4eeafd3e",
+    "semantic_hash": ""
+  },
+  "game/audio/confirm.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "140a848adf6177849ed2de98fea0d08e",
+    "semantic_hash": ""
+  },
+  "game/audio/crit.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "37b043579b127ac35fd4232252db6c26",
+    "semantic_hash": ""
+  },
+  "game/audio/error.wav": {
+    "mtime": 1786693416.0,
+    "ast_hash": "be8af590376f44ae3556802bb341cff8",
+    "semantic_hash": ""
+  },
+  "game/audio/explosion.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "05dcf1324663138c0d51b701a2951509",
+    "semantic_hash": ""
+  },
+  "game/audio/hit.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "6ec896b1c37e0de7ed23056db4d6bf7c",
+    "semantic_hash": ""
+  },
+  "game/audio/hover.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "59cf2867e64f330e3e15fd621112787d",
+    "semantic_hash": ""
+  },
+  "game/audio/hurt.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "567b836700ccfdc27c9c6b77a7e13d3c",
+    "semantic_hash": ""
+  },
+  "game/audio/level_up.wav": {
+    "mtime": 1786693416.0,
+    "ast_hash": "d0b4530efb7a721b921ae741010d4840",
+    "semantic_hash": ""
+  },
+  "game/audio/lose.wav": {
+    "mtime": 1786693416.0,
+    "ast_hash": "94fc10f101ea167b12461e1776fb031e",
+    "semantic_hash": ""
+  },
+  "game/audio/musica_battaglia.ogg": {
+    "mtime": 1786693456.0,
+    "ast_hash": "dd3717a5e486651ba9d6d9eb00823bef",
+    "semantic_hash": ""
+  },
+  "game/audio/musica_bottega.ogg": {
+    "mtime": 1786693447.0,
+    "ast_hash": "c9c41d1820286ff7e7eee1b0c9cbaee7",
+    "semantic_hash": ""
+  },
+  "game/audio/musica_menu.ogg": {
+    "mtime": 1786693428.0,
+    "ast_hash": "2de02febeef96dbab638922b97eaac02",
+    "semantic_hash": ""
+  },
+  "game/audio/tick.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "abbb5a1f8e471cb78ec4162b07cb978e",
+    "semantic_hash": ""
+  },
+  "game/audio/whoosh.wav": {
+    "mtime": 1786693415.0,
+    "ast_hash": "99b4fb0c1c9a439b50fcad7c421b46d7",
+    "semantic_hash": ""
+  },
+  "game/audio/win.wav": {
+    "mtime": 1786693416.0,
+    "ast_hash": "059d7dd2277f5f28164e6e87044e9f24",
     "semantic_hash": ""
   }
 }
